@@ -1,6 +1,6 @@
 # awesome-dimensionality-reduction
 ##### Table of Contents  
-[Headers](#headers)  
+[K-means](#headers)  
 [Emphasis](#emphasis)  
 ...snip...
 ...snip...    
