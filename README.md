@@ -1,4 +1,5 @@
-# awesome-dimensionality-reduction
+# Awecome Community Detection
+
 ##### Table of Contents  
 [K-means](#headers)  
 [Emphasis](#emphasis)  
