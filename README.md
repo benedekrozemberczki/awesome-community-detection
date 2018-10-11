@@ -10,8 +10,10 @@ A collection of community detection papers with implementations.
 
 
 ##### Table of Contents  
-[Factorization](#factorization)  
-[Emphasis](#emphasis)  
+1. [Factorization](#factorization)  
+2. [Deep Learning](#deep-learning)  
+3. [Deep Learning](#deep-learning)
+
 ...snip...
 ...snip...    
 ...snip...    
