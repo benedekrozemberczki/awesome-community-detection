@@ -4,6 +4,11 @@
 
 A collection of community detection papers with implementations.
 
+<p align="center">
+  <img width="460" src="coms.png">
+</p>
+
+
 ##### Table of Contents  
 [Factorization](#factorization)  
 [Emphasis](#emphasis)  
