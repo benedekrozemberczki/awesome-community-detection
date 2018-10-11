@@ -5,7 +5,7 @@
 A collection of community detection papers with implementations.
 
 ##### Table of Contents  
-[Latent Space Methods](#latent-space-methods)  
+[Factorization](#factorization)  
 [Emphasis](#emphasis)  
 ...snip...
 ...snip...    
@@ -43,4 +43,23 @@ A collection of community detection papers with implementations.
 ...snip...    
 ...snip...    
 ...snip...   
-## Latent Space Methods
+## Factorization
+- **Anonymous Walk Embeddings (ICML 2018)**
+  - Sergey Ivanov, Evgeny Burnaev
+  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
+  - [[Python Reference]](https://github.com/nd7141/AWE)
+  
+- **Anonymous Walk Embeddings (ICML 2018)**
+  - Sergey Ivanov, Evgeny Burnaev
+  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
+  - [[Python Reference]](https://github.com/nd7141/AWE)
+  
+- **Anonymous Walk Embeddings (ICML 2018)**
+  - Sergey Ivanov, Evgeny Burnaev
+  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
+  - [[Python Reference]](https://github.com/nd7141/AWE)
+  
+- **Anonymous Walk Embeddings (ICML 2018)**
+  - Sergey Ivanov, Evgeny Burnaev
+  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
+  - [[Python Reference]](https://github.com/nd7141/AWE)
