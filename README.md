@@ -51,20 +51,21 @@ A collection of community detection papers with implementations.
 ...snip...    
 ...snip...   
 ## Factorization
-- **Anonymous Walk Embeddings (ICML 2018)**
+
+- **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
   - Sergey Ivanov, Evgeny Burnaev
-  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
+  - [[paper]](https://arxiv.org/pdf/1611.06645.pdf)
   - [[Python Reference]](https://github.com/nd7141/AWE)
   
-- **Anonymous Walk Embeddings (ICML 2018)**
-  - Sergey Ivanov, Evgeny Burnaev
-  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
-  - [[Python Reference]](https://github.com/nd7141/AWE)
+- **Community Preserving Network Embedding (AAAI 17)**
+  -  Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
+  - [[paper]](hhttps://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/M-NMF)
   
-- **Anonymous Walk Embeddings (ICML 2018)**
-  - Sergey Ivanov, Evgeny Burnaev
-  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
-  - [[Python Reference]](https://github.com/nd7141/AWE)
+- **Learning Community Embedding with Community Detection and Node Embedding on Graph (CIKM 2017)**
+  - Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin Chen-Chuan Chang, and Erik Cambria
+  - [[paper]](http://sentic.net/community-embedding.pdf)
+  - [[Python Reference]](https://github.com/andompesta/ComE)
   
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov, Evgeny Burnaev
