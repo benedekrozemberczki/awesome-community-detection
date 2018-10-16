@@ -51,7 +51,11 @@ A collection of community detection papers with implementations.
 ...snip...    
 ...snip...   
 ## Factorization
-
+- **GEMSEC: Graph Embedding with Self-Clustering (Arxiv 2018)**
+  - Benedek Rozemberczki, Rzan Davies, Rik Sarkar and Charles Sutton
+  - [[paper]](https://arxiv.org/abs/1802.03997)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
+  
 - **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
   - Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang and Leyu Lin
   - [[paper]](https://arxiv.org/pdf/1611.06645.pdf)
