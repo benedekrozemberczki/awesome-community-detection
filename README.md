@@ -49,7 +49,13 @@ A collection of community detection papers with implementations.
 ...snip...    
 ...snip...    
 ...snip...    
-...snip...   
+...snip...
+## Deep Learning
+- **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
+  - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhan
+  - [[paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
+  - [[Python Reference]](http://yangliang.github.io/code/DC.zip)
+  
 ## Factorization
 - **GEMSEC: Graph Embedding with Self-Clustering (Arxiv 2018)**
   - Benedek Rozemberczki, Rzan Davies, Rik Sarkar and Charles Sutton
@@ -70,8 +76,3 @@ A collection of community detection papers with implementations.
   - Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin Chen-Chuan Chang, and Erik Cambria
   - [[paper]](http://sentic.net/community-embedding.pdf)
   - [[Python Reference]](https://github.com/andompesta/ComE)
-  
-- **Anonymous Walk Embeddings (ICML 2018)**
-  - Sergey Ivanov, Evgeny Burnaev
-  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
-  - [[Python Reference]](https://github.com/nd7141/AWE)
