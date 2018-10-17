@@ -46,5 +46,5 @@ A collection of community detection papers with implementations.
   
 - **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
   - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
-  -[[paper]](http://yangliang.github.io/pdf/06985550.pdf)
-  -[[Python reference]](http://yangliang.github.io/code/LSGR.rar)
+  - [[paper]](http://yangliang.github.io/pdf/06985550.pdf)
+  - [[Matlab reference]](http://yangliang.github.io/code/LSGR.rar)
