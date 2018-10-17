@@ -32,7 +32,7 @@ A collection of community detection papers with implementations.
 - **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
   - Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang and Leyu Lin
   - [[paper]](https://arxiv.org/pdf/1611.06645.pdf)
-  - [[Python Reference]](http://nlp.csai.tsinghua.edu.cn//~tcc/datasets/simplified_CNRL.zip)
+  - [[Java Reference]](http://nlp.csai.tsinghua.edu.cn//~tcc/datasets/simplified_CNRL.zip)
   
 - **Community Preserving Network Embedding (AAAI 17)**
   -  Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
