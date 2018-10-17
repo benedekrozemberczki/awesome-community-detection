@@ -43,3 +43,8 @@ A collection of community detection papers with implementations.
   - Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin Chen-Chuan Chang, and Erik Cambria
   - [[paper]](http://sentic.net/community-embedding.pdf)
   - [[Python Reference]](https://github.com/andompesta/ComE)
+  
+- **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
+  - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
+  -[[paper]](http://yangliang.github.io/pdf/06985550.pdf)
+  -[[Python reference]](http://yangliang.github.io/code/LSGR.rar)
