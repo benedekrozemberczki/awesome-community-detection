@@ -13,10 +13,11 @@ A collection of community detection papers with implementations.
 2. [Deep Learning](#deep-learning) 
 
 ## Deep Learning
-- **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)
+- **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
   - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao and Francoise Fogelman-Soulie
   - [[paper]](http://yangliang.github.io/pdf/sr17.pdf)
   - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
+  
 - **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
   - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhan
   - [[paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
