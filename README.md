@@ -36,7 +36,7 @@ A collection of community detection papers with implementations.
   
 - **Community Preserving Network Embedding (AAAI 17)**
   -  Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
-  - [[paper]](hhttps://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
+  - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
   - [[Python Reference]](https://github.com/benedekrozemberczki/M-NMF)
   
 - **Learning Community Embedding with Community Detection and Node Embedding on Graph (CIKM 2017)**
