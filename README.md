@@ -21,7 +21,7 @@ A collection of community detection papers with implementations.
   
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
-  - Benedek Rozemberczki, Rzan Davies, Rik Sarkar and Charles Sutton
+  - Benedek Rozemberczki, Ryan Davies, Rik Sarkar and Charles Sutton
   - [[paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
