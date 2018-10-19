@@ -70,14 +70,18 @@ A collection of community detection papers with implementations.
 
 ## Label Propagation, Random Walks and Random Processes
 
+- **Community Detection Based on Structure and Content: A Content Propagation Perspective (ICDM 2015)**
+  -  Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
+  - [[paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
+  - [[Matlab reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
+  
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
   - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
   - [[paper]](https://arxiv.org/pdf/1109.5720.pdf)
   - [[Java]](https://github.com/sebastianliu/SLPA-community-detection)
   - [[Python]](https://github.com/kbalasu/SLPA)
   - [[C++]](https://github.com/arminbalalaie/graphlab-slpa)
-
-
+  
 ## Tensor Decomposition
 
 - **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
