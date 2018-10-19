@@ -94,4 +94,4 @@ A collection of community detection papers with implementations.
 - **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
   - Xueying Bai, Peilin Yang and Xiaohu Shi
   - [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
-  - [[Python Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
+  - [[Matlab Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
