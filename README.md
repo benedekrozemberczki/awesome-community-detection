@@ -13,7 +13,7 @@ A collection of community detection papers with implementations.
 1. [Factorization](#factorization)  
 2. [Deep Learning](#deep-learning) 
 3. [Percolation](#percolation) 
-4. [Label Propagation and Random Walks](#label-propagation,-random-walks-and-random-processes) 
+4. [Label Propagation and Random Walks](#label-propagation-and-random-walks) 
 5. [Tensor Decomposition](#tensor-decomposition)
 6. [Spectral Methods](#spectral-methods) 
 7. [Dynamic Networks](#dynamic-networks) 
@@ -68,7 +68,7 @@ A collection of community detection papers with implementations.
   
 ## Percolation
 
-## Label Propagation, Random Walks and Random Processes
+## Label Propagation and Random Walks
 
 - **Community Detection Based on Structure and Content: A Content Propagation Perspective (ICDM 2015)**
   -  Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
