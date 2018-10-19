@@ -63,9 +63,13 @@ A collection of community detection papers with implementations.
   
 ## Percolation
 
-## Label Propagation
+## Label Propagation, Random Walks and Random Processes
 
-## Random Walks
+- **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
+  - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
+  - [[paper]](https://arxiv.org/pdf/1109.5720.pdf)
+  - [[Java]](https://github.com/sebastianliu/SLPA-community-detection)
+
 
 ## Tensor Decomposition
 
