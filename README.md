@@ -9,13 +9,15 @@ A collection of community detection papers with implementations.
 </p>
 
 ##### Table of Contents  
-1. [Deep Learning](#deep-learning) 
-2. [Factorization](#factorization)  
-3. [Percolation](#deep-learning) 
-4. [Label Propagation](#deep-learning) 
-5. [Tensor Decomposition](#deep-learning)
-6. [Spectral Methods](#deep-learning) 
-7. [Dynamics](#deep-learning) 
+
+1. [Factorization](#factorization)  
+2. [Deep Learning](#deep-learning) 
+3. [Percolation](#percolation) 
+4. [Label Propagation](#label-propagation) 
+5. [Random Walks](#random-walks) 
+6. [Tensor Decomposition](#tensor-decomposition)
+7. [Spectral Methods](#spectral-methods) 
+8. [Dynamics](#dynamics) 
 
 ## Deep Learning
 - **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
@@ -53,3 +55,15 @@ A collection of community detection papers with implementations.
   - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
   - [[paper]](http://yangliang.github.io/pdf/06985550.pdf)
   - [[Matlab reference]](http://yangliang.github.io/code/LSGR.rar)
+  
+## Percolation
+
+## Label Propagation
+
+## Random Walks
+
+## Tensor Decomposition
+
+## Spectral Methods
+
+## Dynamics
