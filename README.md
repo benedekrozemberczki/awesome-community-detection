@@ -56,6 +56,11 @@ A collection of community detection papers with implementations.
   - [[paper]](http://yangliang.github.io/pdf/sr17.pdf)
   - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
   
+- **Community Detection with Graph Neural Networks (ArXiv 2017)**
+  - Zhengdao Chen, Xiang Li, Joan Bruna
+  - [[paper]](https://arxiv.org/abs/1705.08415)
+  - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
+  
 - **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
   - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhan
   - [[paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
