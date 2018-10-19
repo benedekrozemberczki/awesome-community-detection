@@ -17,6 +17,7 @@ A collection of community detection papers with implementations.
 5. [Tensor Decomposition](#tensor-decomposition)
 6. [Spectral Methods](#spectral-methods) 
 7. [Dynamics](#dynamics) 
+8. [Others](#others) 
   
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
@@ -74,6 +75,11 @@ A collection of community detection papers with implementations.
 
 ## Tensor Decomposition
 
+- **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
+  - Furong Huang and Niranjan, UN and Hakeem, M and Anandkumar, Animashree
+  - [[paper]](https://www.semanticscholar.org/paper/Fast-Detection-of-Overlapping-Communities-via-on-Huang-Niranjan/356e6c7eacca6caa94a5a96f41a9c785064f5693)
+  - [[C++](https://github.com/mapleyustat/Fast-Detection-of-Overlapping-Communities-via-Online-Tensor-Methods)
+
 ## Spectral Methods
 
 - **Uncovering the Small Community Structure in Large Networks: a Local Spectral Approach (WWW 2015)**
@@ -82,3 +88,10 @@ A collection of community detection papers with implementations.
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
 ## Dynamics
+
+## Others
+
+- **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
+  - Xueying Bai, Peilin Yang and Xiaohu Shi
+  - [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
+  - [[Python Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
