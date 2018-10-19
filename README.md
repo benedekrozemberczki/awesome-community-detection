@@ -45,6 +45,11 @@ A collection of community detection papers with implementations.
   - [[paper]](http://yangliang.github.io/pdf/06985550.pdf)
   - [[Matlab reference]](http://yangliang.github.io/code/LSGR.rar)
   
+- **Overlapping Community Detection Using Bayesian Non-negative Matrix Factorization (Physical Review E 2011)**
+  - Ionnis Psorakis, Stephen Roberts, Mark Ebden, and Ben Sheldon
+  - [[paper]](http://www.orchid.ac.uk/eprints/38/1/PRE_NMF.pdf)
+  - [[Matlab reference]](https://github.com/ipsorakis/commDetNMF)
+  
 ## Deep Learning
 - **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
   - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao and Francoise Fogelman-Soulie
@@ -66,4 +71,9 @@ A collection of community detection papers with implementations.
 
 ## Spectral Methods
 
+- **Uncovering the Small Community Structure in Large Networks: a Local Spectral Approach (WWW 2015)**
+  - Li Yixuan and He Kun and David Bindel and John Hopcroft
+  - [[paper]](https://arxiv.org/abs/1509.07715)
+  - [[Python Reference]](https://github.com/YixuanLi/LEMON)
+  
 ## Dynamics
