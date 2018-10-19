@@ -16,7 +16,7 @@ A collection of community detection papers with implementations.
 4. [Label Propagation and Random Walks](#label-propagation,-random-walks-and-random-processes) 
 5. [Tensor Decomposition](#tensor-decomposition)
 6. [Spectral Methods](#spectral-methods) 
-7. [Dynamics](#dynamics) 
+7. [Dynamic Networks](#dynamic-networks) 
 8. [Others](#others) 
   
 ## Factorization
@@ -92,8 +92,13 @@ A collection of community detection papers with implementations.
   - [[paper]](https://arxiv.org/abs/1509.07715)
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
-## Dynamics
+## Dynamic Networks
 
+- **Sequential Detection of Temporal Communities by Estrangement Confinement (Scientific Reports 2012)**
+  - Vikas Kawadia and Sameet Sreenivasan
+  - [[paper]](https://www.nature.com/articles/srep00794)
+  - [[Python Reference]](https://github.com/kawadia/estrangement)
+  
 ## Others
 
 - **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
