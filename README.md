@@ -114,3 +114,9 @@ A collection of community detection papers with implementations.
   - Benjamin Paul Chamberlain, Josh Levy-Kramer, Clive Humby, and Marc Peter Deisenroth
   - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
+  
+- **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
+  - Tiantian He  and Keith C. C. Chan 
+  - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
+  - [[Reference]](https://github.com/he-tiantian/FSPGA)
+  
