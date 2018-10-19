@@ -13,11 +13,10 @@ A collection of community detection papers with implementations.
 1. [Factorization](#factorization)  
 2. [Deep Learning](#deep-learning) 
 3. [Percolation](#percolation) 
-4. [Label Propagation](#label-propagation) 
-5. [Random Walks](#random-walks) 
-6. [Tensor Decomposition](#tensor-decomposition)
-7. [Spectral Methods](#spectral-methods) 
-8. [Dynamics](#dynamics) 
+4. [Label Propagation and Random Walks](#label-propagation,-random-walks-and-random-processes) 
+5. [Tensor Decomposition](#tensor-decomposition)
+6. [Spectral Methods](#spectral-methods) 
+7. [Dynamics](#dynamics) 
   
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
@@ -69,6 +68,8 @@ A collection of community detection papers with implementations.
   - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
   - [[paper]](https://arxiv.org/pdf/1109.5720.pdf)
   - [[Java]](https://github.com/sebastianliu/SLPA-community-detection)
+  - [[Python]](https://github.com/kbalasu/SLPA)
+  - [[C++]](https://github.com/arminbalalaie/graphlab-slpa)
 
 
 ## Tensor Decomposition
