@@ -100,3 +100,8 @@ A collection of community detection papers with implementations.
   - Xueying Bai, Peilin Yang and Xiaohu Shi
   - [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
   - [[Matlab Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
+  
+- **Real-Time Community Detection in Large Social Networks on a Laptop (ArXiv 2017)**
+  - Benjamin Paul Chamberlain, Josh Levy-Kramer, Clive Humby, and Marc Peter Deisenroth
+  - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
+  - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
