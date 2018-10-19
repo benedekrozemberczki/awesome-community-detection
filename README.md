@@ -83,7 +83,11 @@ A collection of community detection papers with implementations.
   - [[C++]](https://github.com/arminbalalaie/graphlab-slpa)
   
 ## Tensor Decomposition
-
+- **Community detection, link prediction, and layer interdependence in multilayer networks (Physical Review E 2017)**
+  - Caterina De Bacco, Eleanor A. Power, Daniel B. Larremore and Cristopher Moore
+  - [[paper]](https://arxiv.org/abs/1701.01369)
+  - [[Python Reference]](https://github.com/cdebacco/MultiTensor)
+  
 - **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
   - Furong Huang and Niranjan, UN and Hakeem, M and Anandkumar, Animashree
   - [[paper]](https://www.semanticscholar.org/paper/Fast-Detection-of-Overlapping-Communities-via-on-Huang-Niranjan/356e6c7eacca6caa94a5a96f41a9c785064f5693)
@@ -117,6 +121,5 @@ A collection of community detection papers with implementations.
   
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
-  - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
+  - [[paper]](https://ieeexplore.ieee.org/document/8253904)
   - [[Reference]](https://github.com/he-tiantian/FSPGA)
-  
