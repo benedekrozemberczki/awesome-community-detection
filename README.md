@@ -9,12 +9,13 @@ A collection of community detection papers with implementations.
 </p>
 
 ##### Table of Contents  
-1. [Factorization](#factorization)  
-2. [Deep Learning](#deep-learning) 
+1. [Deep Learning](#deep-learning) 
+2. [Factorization](#factorization)  
 3. [Percolation](#deep-learning) 
 4. [Label Propagation](#deep-learning) 
-5. [Tensor Decomposition](#deep-learning) 
-6. [Dynamics](#deep-learning) 
+5. [Tensor Decomposition](#deep-learning)
+6. [Spectral Methods](#deep-learning) 
+7. [Dynamics](#deep-learning) 
 
 ## Deep Learning
 - **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
