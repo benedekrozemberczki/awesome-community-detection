@@ -55,6 +55,12 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](http://yangliang.github.io/pdf/06985550.pdf)
   - [[Matlab reference]](http://yangliang.github.io/code/LSGR.rar)
   
+- **Overlapping Community Detection at Scale: a Nonnegative Matrix Factorization Approach (WSDM 2013)**
+  - Jaewon Yang and Jure Leskovec
+  - [[paper]](http://i.stanford.edu/~crucis/pubs/paper-nmfagm.pdf)
+  - [[C++ reference]](https://github.com/snap-stanford/snap/tree/master/examples/bigclam)
+  - [[Java Spark]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
+  
 - **Overlapping Community Detection Using Bayesian Non-negative Matrix Factorization (Physical Review E 2011)**
   - Ionnis Psorakis, Stephen Roberts, Mark Ebden, and Ben Sheldon
   - [[paper]](http://www.orchid.ac.uk/eprints/38/1/PRE_NMF.pdf)
