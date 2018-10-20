@@ -30,6 +30,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
+- **Sentiment-driven Community Profiling and Detection on Social Media (ACM HSM 2018)**
+  - Amin Salehi, Mert Ozer, and Hasan Davulcu
+  - [[paper]](https://arxiv.org/abs/1805.04191)
+  - [[Python reference]](https://github.com/amin-salehi/GSNMF)
+  
 - **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
   - Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang and Leyu Lin
   - [[paper]](https://arxiv.org/pdf/1611.06645.pdf)
