@@ -136,6 +136,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
   
+- **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
+  - Bin Jiang and Ding Ma
+  - [[paper]](https://arxiv.org/pdf/1502.00284.pdf)
+  - [[Python]](https://github.com/dingmartin/HeadTailCommunityDetection)
+  
 - **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
   - Ludo Waltman and Nees Jan Van Eck
   - [[paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
