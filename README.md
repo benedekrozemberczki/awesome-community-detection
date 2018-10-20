@@ -60,6 +60,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](http://i.stanford.edu/~crucis/pubs/paper-nmfagm.pdf)
   - [[C++ reference]](https://github.com/snap-stanford/snap/tree/master/examples/bigclam)
   - [[Java Spark]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
+  - [[Python]](https://github.com/RobRomijnders/bigclam)
   
 - **Overlapping Community Detection Using Bayesian Non-negative Matrix Factorization (Physical Review E 2011)**
   - Ionnis Psorakis, Stephen Roberts, Mark Ebden, and Ben Sheldon
