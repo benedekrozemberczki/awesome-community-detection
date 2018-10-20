@@ -109,6 +109,11 @@ A collection of community detection papers with implementations.
   
 ## Others
 
+- **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
+  - Tiantian He  and Keith C. C. Chan 
+  - [[paper]](https://ieeexplore.ieee.org/document/8253904)
+  - [[Reference]](https://github.com/he-tiantian/FSPGA)
+  
 - **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
   - Xueying Bai, Peilin Yang and Xiaohu Shi
   - [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
@@ -119,7 +124,7 @@ A collection of community detection papers with implementations.
   - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
   
-- **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
-  - Tiantian He  and Keith C. C. Chan 
-  - [[paper]](https://ieeexplore.ieee.org/document/8253904)
-  - [[Reference]](https://github.com/he-tiantian/FSPGA)
+- **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
+  - Ludo Waltman and Nees Jan Van Eck
+  - [[paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
+  - [[Python]](https://github.com/chen198328/slm)
