@@ -132,11 +132,21 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Juan Ignacio Perotti, Claudio Juan Tessone, Aaron Clauset and Guido Caldarelli
   - [[paper]](https://arxiv.org/pdf/1806.07005.pdf)
   - [[Python Reference]](https://github.com/jipphysics/bmdl_edm)
+
+- **A Local Perspective on Community Structure in Multilayer Networks (Network Science 2017)**
+  - Lucas GS Jeub, Michael Mahoney, Peter J Mucha and Mason A Porter
+  - [[paper]](https://arxiv.org/pdf/1510.05185.pdf)
+  - [[Python]](https://github.com/LJeub/LocalCommunities)
   
 - **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
   - Bin Jiang and Ding Ma
   - [[paper]](https://arxiv.org/pdf/1502.00284.pdf)
   - [[Python]](https://github.com/dingmartin/HeadTailCommunityDetection)
+  
+- **Think Locally, Act Locally: Detection of Small, Medium-Sized, and Large Communities in Large Networks (Physica Review E 2015)**
+  - Lucas G. S. Jeub, Prakash Balachandran, Mason A. Porter, Peter J. Mucha, and Michael W. Mahoney
+  - [[paper]](https://arxiv.org/abs/1403.3795v1)
+  - [[Python]](https://github.com/LJeub/LocalCommunities)
   
 ## Others
 
