@@ -111,6 +111,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Others
 
+- **Thermodynamics of the Minimum Description Length on Community Detection (ArXiv 2018)**
+  - Juan Ignacio Perotti, Claudio Juan Tessone, Aaron Clauset and Guido Caldarelli
+  - [[paper]](https://arxiv.org/pdf/1806.07005.pdf)
+  - [[Python Reference]](https://github.com/jipphysics/bmdl_edm)
+  
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
   - [[paper]](https://ieeexplore.ieee.org/document/8253904)
