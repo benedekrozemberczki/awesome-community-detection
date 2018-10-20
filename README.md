@@ -119,6 +119,16 @@ A collection of community detection papers with implementations.
   - [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
   - [[Matlab Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
   
+- **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
+  - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
+  - [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
+  - [[C++]](https://github.com/rtackx/ComSim)
+  
+- **Fast Heuristic Algorithm for Multi-scale Hierarchical Community Detection (ASONAM 2017)**
+  - Eduar Castrillo, Elizabeth León and Jonatan Gómez
+  - [[paper]](https://arxiv.org/abs/1707.02362)
+  - [[Python Reference]](https://github.com/eduarc/HAMUHI)
+  
 - **Real-Time Community Detection in Large Social Networks on a Laptop (ArXiv 2017)**
   - Benjamin Paul Chamberlain, Josh Levy-Kramer, Clive Humby, and Marc Peter Deisenroth
   - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
@@ -128,8 +138,3 @@ A collection of community detection papers with implementations.
   - Ludo Waltman and Nees Jan Van Eck
   - [[paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
   - [[Python]](https://github.com/chen198328/slm)
-  
-- **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
-  - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
-  - [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
-  - [[C++]](https://github.com/rtackx/ComSim)
