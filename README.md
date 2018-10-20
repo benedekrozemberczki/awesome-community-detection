@@ -104,13 +104,12 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/abs/1509.07715)
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
-## Dynamic Networks
+## Temporal Methods
 
 - **Sequential Detection of Temporal Communities by Estrangement Confinement (Scientific Reports 2012)**
   - Vikas Kawadia and Sameet Sreenivasan
   - [[paper]](https://www.nature.com/articles/srep00794)
   - [[Python Reference]](https://github.com/kawadia/estrangement)
-  
   
 ## Cyclic Patterns
 
