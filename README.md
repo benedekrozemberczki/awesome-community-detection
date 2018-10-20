@@ -21,7 +21,8 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 7. [Temporal Methods](#temporal-methods) 
 8. [Cyclic Patterns](#cyclic-patterns)
 9. [Centrality and Cuts](#centrality-and-cuts) 
-10. [Others](#others) 
+10. [Physics Inspired](#physics-inspired) 
+11. [Others](#others) 
   
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
@@ -125,6 +126,18 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
   
+## Physics Inspired
+
+- **Thermodynamics of the Minimum Description Length on Community Detection (ArXiv 2018)**
+  - Juan Ignacio Perotti, Claudio Juan Tessone, Aaron Clauset and Guido Caldarelli
+  - [[paper]](https://arxiv.org/pdf/1806.07005.pdf)
+  - [[Python Reference]](https://github.com/jipphysics/bmdl_edm)
+  
+- **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
+  - Bin Jiang and Ding Ma
+  - [[paper]](https://arxiv.org/pdf/1502.00284.pdf)
+  - [[Python]](https://github.com/dingmartin/HeadTailCommunityDetection)
+  
 ## Others
 
 - **Thermodynamics of the Minimum Description Length on Community Detection (ArXiv 2018)**
@@ -146,11 +159,6 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Eduar Castrillo, Elizabeth León and Jonatan Gómez
   - [[paper]](https://arxiv.org/abs/1707.02362)
   - [[Python Reference]](https://github.com/eduarc/HAMUHI)
-  
-- **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
-  - Bin Jiang and Ding Ma
-  - [[paper]](https://arxiv.org/pdf/1502.00284.pdf)
-  - [[Python]](https://github.com/dingmartin/HeadTailCommunityDetection)
   
 - **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
   - Ludo Waltman and Nees Jan Van Eck
