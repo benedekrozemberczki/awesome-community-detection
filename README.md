@@ -128,3 +128,8 @@ A collection of community detection papers with implementations.
   - Ludo Waltman and Nees Jan Van Eck
   - [[paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
   - [[Python]](https://github.com/chen198328/slm)
+  
+- **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
+  - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
+  - [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
+  - [[C++]](https://github.com/rtackx/ComSim)
