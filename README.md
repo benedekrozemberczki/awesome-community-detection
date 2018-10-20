@@ -4,6 +4,8 @@
 
 A collection of community detection papers with implementations.
 
+A similar collection of [[graph embedding]](https://github.com/benedekrozemberczki/awesome-graph-embedding) papers.
+
 <p align="center">
   <img width="460" src="coms.png">
 </p>
