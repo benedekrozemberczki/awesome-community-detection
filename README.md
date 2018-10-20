@@ -100,6 +100,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Local Lanczos Spectral Approximation for Community Detection (ECML PKDD 2017)**
+  - Pan Shi and He Kun and David Bindel and John Hopcroft
+  - [[paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
+  - [[Python Reference]](https://github.com/PanShi2016/LLSA)
+  
 - **Uncovering the Small Community Structure in Large Networks: a Local Spectral Approach (WWW 2015)**
   - Li Yixuan and He Kun and David Bindel and John Hopcroft
   - [[paper]](https://arxiv.org/abs/1509.07715)
