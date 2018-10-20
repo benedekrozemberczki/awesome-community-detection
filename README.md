@@ -18,7 +18,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 4. [Label Propagation and Random Walks](#label-propagation-and-random-walks) 
 5. [Tensor Decomposition](#tensor-decomposition)
 6. [Spectral Methods](#spectral-methods) 
-7. [Dynamic Networks](#dynamic-networks) 
+7. [Temporal Methods](#temporal-methods) 
 8. [Cyclic Patterns](#cyclic-patterns)
 9. [Centrality and Cuts](#centrality-and-cuts) 
 10. [Others](#others) 
