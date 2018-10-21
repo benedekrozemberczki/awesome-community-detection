@@ -88,8 +88,13 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Label Propagation and Random Walks
 
+- **Community Detection by Information Flow Simulation (ArXiv 2018)**
+  - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
+  - [[paper]](https://arxiv.org/abs/1805.04920)
+  - [[Python Reference]](https://github.com/rajagopalvenkat/Community_Detection-Flow_Simulation)
+
 - **Community Detection Based on Structure and Content: A Content Propagation Perspective (ICDM 2015)**
-  -  Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
+  - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
   - [[paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
   - [[Matlab reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
   
