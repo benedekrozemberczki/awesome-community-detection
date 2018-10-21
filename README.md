@@ -106,10 +106,15 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[C++]](https://github.com/arminbalalaie/graphlab-slpa)
   
 ## Tensor Decomposition
-- **Community detection, link prediction, and layer interdependence in multilayer networks (Physical Review E 2017)**
+- **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
   - Caterina De Bacco, Eleanor A. Power, Daniel B. Larremore and Cristopher Moore
   - [[paper]](https://arxiv.org/abs/1701.01369)
   - [[Python Reference]](https://github.com/cdebacco/MultiTensor)
+  
+- **Overlapping Community Detection via Constrained PARAFAC: A Divide and Conquer Approach (ICDM 2017)**
+  - Fatemeh Sheikholeslami and Georgios B. Giannakis 
+  - [[Paper]](https://ieeexplore.ieee.org/document/8215485)
+  - [[Python Reference]](https://github.com/FatemehSheikholeslami/EgoTen)
   
 - **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
   - Furong Huang and Niranjan, UN and Hakeem, M and Anandkumar, Animashree
