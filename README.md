@@ -122,6 +122,16 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/abs/1509.07715)
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
+- **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
+  - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
+  -[[paper]](https://arxiv.org/abs/1109.3041)
+  -[[C++]](https://github.com/junipertcy/sbm-bp)
+  
+- **Phase Transition in the Detection of Modules in Sparse Networks (Physical Review Letters 2011)**
+  - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
+  -[[paper]](https://arxiv.org/abs/1102.1182)
+  -[[C++]](https://github.com/junipertcy/sbm-bp)
+  
 ## Temporal Methods
 
 - **Sequential Detection of Temporal Communities by Estrangement Confinement (Scientific Reports 2012)**
@@ -166,11 +176,6 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python]](https://github.com/LJeub/LocalCommunities)
   
 ## Others
-
-- **Thermodynamics of the Minimum Description Length on Community Detection (ArXiv 2018)**
-  - Juan Ignacio Perotti, Claudio Juan Tessone, Aaron Clauset and Guido Caldarelli
-  - [[paper]](https://arxiv.org/pdf/1806.07005.pdf)
-  - [[Python Reference]](https://github.com/jipphysics/bmdl_edm)
   
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
