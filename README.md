@@ -160,7 +160,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
   
 ## Physics Inspired
-
+- **Community Detection Using Preference Networks (Physica A 2018)**
+  - Mursel Tasgin and Halu Bingol
+  - [[paper]](https://arxiv.org/pdf/1708.08305.pdf)
+  - [[Java Reference]](https://github.com/murselTasginBoun/CDPN)
+  
 - **Thermodynamics of the Minimum Description Length on Community Detection (ArXiv 2018)**
   - Juan Ignacio Perotti, Claudio Juan Tessone, Aaron Clauset and Guido Caldarelli
   - [[paper]](https://arxiv.org/pdf/1806.07005.pdf)
