@@ -159,6 +159,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
   
+- **A Community Detection Algorithm Using Network Topologies and Rule-based Hierarchical Arc-merging Strategies (PLOS 2018)**
+  - Yu-Hsiang Fu, Chung-Yuan Huang, and Chuen-Tsai Sun
+  - [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
+  - [[Python Reference]](https://github.com/yuhsiangfu/Hierarchical-Arc-Merging)
+  
 ## Physics Inspired
 - **Community Detection Using Preference Networks (Physica A 2018)**
   - Mursel Tasgin and Halu Bingol
