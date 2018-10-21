@@ -113,6 +113,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Community detection by L0-penalized graph Laplacian (Electronic Journal of Statistics 2018)**
+  - Chong Chen, Ruibin Xi, and Nan Lin
+  - [[paper]](https://projecteuclid.org/euclid.ejs/1528769122)
+  - [[Matlab Reference]](https://github.com/ChongC1990/L0Lap)
+
 - **Local Lanczos Spectral Approximation for Community Detection (ECML PKDD 2017)**
   - Pan Shi and He Kun and David Bindel and John Hopcroft
   - [[paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
