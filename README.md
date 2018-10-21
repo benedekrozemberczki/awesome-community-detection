@@ -77,6 +77,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Zhengdao Chen, Xiang Li, Joan Bruna
   - [[paper]](https://arxiv.org/abs/1705.08415)
   - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
+  - [[Python reference]](https://github.com/afansi/multiscalegnn)
   
 - **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
   - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhan
