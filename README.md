@@ -177,6 +177,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://wwwconference.org/proceedings/www2014/proceedings/p225.pdf)
   - [[C++ Reference]](https://github.com/Het-SCD/Het-SCD)
   
+- **GMAC: A Seed-Insensitive Approach to Local Community Detection (DaWak 2013)**
+  - Lianhang Ma, Hao Huang, Qinming He, Kevin Chiew, Jianan Wu, and Yanzhe Che
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-40131-2_26)
+  - [[Python Reference]](https://github.com/SnehaManjunatha/Local-Community-Detection)
+  
 ## Centrality and Cuts
 
 - **Real-Time Community Detection in Large Social Networks on a Laptop (PLOS 2018)**
