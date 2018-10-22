@@ -123,6 +123,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Community Detection on Euclidean Random Graphs (Electronic Journal of Statistics 2018)**
+  - Abishek Sankararaman and Francois Baccelli
+  - [[paper]](hhttp://abishek90.github.io/CommDet.pdf)
+  - [[Python Reference]](https://github.com/abishek90/Community-Detection-on-a-Spatial-Graph)
+
 - **Community detection by L0-penalized graph Laplacian (Electronic Journal of Statistics 2018)**
   - Chong Chen, Ruibin Xi, and Nan Lin
   - [[paper]](https://projecteuclid.org/euclid.ejs/1528769122)
