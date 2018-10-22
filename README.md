@@ -50,6 +50,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](http://sentic.net/community-embedding.pdf)
   - [[Python Reference]](https://github.com/andompesta/ComE)
   
+- **Joint Community and Structural Hole Spanner Detection via Harmonic Modularity (KDD 2016)**
+  - Lifang He, Chun-Ta Lu, Jiaqi Mu, Jianping Cao, Linlin Shen, and Philip S Yu
+  - [[paper]](https://www.kdd.org/kdd2016/papers/files/rfp1184-heA.pdf)
+  - [[Python Reference]](https://github.com/LifangHe/KDD16_HAM)
+  
 - **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
   - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
   - [[paper]](http://yangliang.github.io/pdf/06985550.pdf)
