@@ -204,6 +204,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
   - [[Python Reference]](https://github.com/yuhsiangfu/Hierarchical-Arc-Merging)
   
+- **Detecting Community Structures in Social Networks by Graph Sparsification (CODS 2016)**
+  - Partha Basuchowdhuri, Satyaki Sikdar, Sonu Shreshtha, and Subhasis Majumder
+  - [[paper]](http://dl.acm.org/citation.cfm?id=2888479)
+  - [[Python Reference]](https://github.com/satyakisikdar/spanner-comm-detection)
+  
 ## Physics Inspired
 - **Community Detection Using Preference Networks (Physica A 2018)**
   - Mursel Tasgin and Halu Bingol
