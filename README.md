@@ -162,6 +162,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[C++]](https://github.com/rtackx/ComSim)
   
+- **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
+  - Arnau Prat-Perez David Dominguez-Sal and Josep-Lluis Larriba-Pey
+  - [[Paper]](http://wwwconference.org/proceedings/www2014/proceedings/p225.pdf)
+  - [[C++ Reference]](https://github.com/Het-SCD/Het-SCD)
+  
 ## Centrality and Cuts
 
 - **Real-Time Community Detection in Large Social Networks on a Laptop (PLOS 2018)**
