@@ -41,9 +41,14 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Java Reference]](http://nlp.csai.tsinghua.edu.cn//~tcc/datasets/simplified_CNRL.zip)
   
 - **Community Preserving Network Embedding (AAAI 17)**
-  -  Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
+  - Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
   - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
   - [[Python Reference]](https://github.com/benedekrozemberczki/M-NMF)
+  
+- **Semi-supervised Clustering in Attributed Heterogeneous Information Networks (WWW 17)**
+  - Xiang Li, Yao Wu, Martin Ester, Ben Kao, Xin Wang, and Yudian Zheng
+  - [[paper]](https://dl.acm.org/citation.cfm?id=3052576)
+  - [[Python Reference]](https://github.com/wedoso/SCHAIN-NL)
   
 - **Learning Community Embedding with Community Detection and Node Embedding on Graph (CIKM 2017)**
   - Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin Chen-Chuan Chang, and Erik Cambria
