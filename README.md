@@ -98,10 +98,15 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/abs/1805.04920)
   - [[Python Reference]](https://github.com/rajagopalvenkat/Community_Detection-Flow_Simulation)
 
-- **Community Detection Based on Structure and Content: A Content Propagation Perspective (ICDM 2015)**
+- **Community Detection Based on Structure and Content: A Content Propagation Perspective (CIKM 2015)**
   - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
   - [[paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
   - [[Matlab reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
+  
+- **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
+  - Joyce Jiyoung Whang, David F. Gleich and Inderjit S. Dhillon
+  - [[paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
+  - [[Python reference]](https://github.com/pratham16/community-detection-by-seed-expansion)
   
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
   - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
