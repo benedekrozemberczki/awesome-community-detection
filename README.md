@@ -147,6 +147,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Chong Chen, Ruibin Xi, and Nan Lin
   - [[paper]](https://projecteuclid.org/euclid.ejs/1528769122)
   - [[Matlab Reference]](https://github.com/ChongC1990/L0Lap)
+  
+- **An Algorithm J-SC of Detecting Communities in Complex Networks (Physics Letters A 2017)**
+  - Fang Hu, Mingzhu Wang, Yanran Wang, Zhehao Hong, and Yanhui Zhu
+  - [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0375960117308678)
+  - [[Matlab reference]](https://github.com/yanhueiju/community_detection_J-SC)
 
 - **Local Lanczos Spectral Approximation for Community Detection (ECML PKDD 2017)**
   - Pan Shi and He Kun and David Bindel and John Hopcroft
