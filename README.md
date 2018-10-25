@@ -113,6 +113,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://hal.archives-ouvertes.fr/hal-01625444)
   - [[Python rererence]](https://github.com/ahollocou/multicom)
 
+- **Improving PageRank for Local Community Detection (ArXiv 2016)**
+  - Alexandre Hollocou, Thomas Bonald and Marc Lelarge
+  - [[paper]](https://arxiv.org/abs/1610.08722)
+  - [[C++ reference]](https://github.com/ahollocou/walkscan)
+  
 - **Community Detection Based on Structure and Content: A Content Propagation Perspective (CIKM 2015)**
   - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
   - [[paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
