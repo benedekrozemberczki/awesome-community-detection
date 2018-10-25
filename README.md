@@ -219,6 +219,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/satyakisikdar/spanner-comm-detection)
   
 ## Physics Inspired
+
 - **Community Detection Using Preference Networks (Physica A 2018)**
   - Mursel Tasgin and Halu Bingol
   - [[paper]](https://arxiv.org/pdf/1708.08305.pdf)
@@ -229,6 +230,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/pdf/1806.07005.pdf)
   - [[Python Reference]](https://github.com/jipphysics/bmdl_edm)
 
+- **Fluid Communities: A Community Detection Algorithm (Complenet 2017)**
+  - Ferran Parés, Dario Garcia-Gasulla, Armand Vilalta, Jonatan Moreno, Eduard Ayguadé, Jesús Labarta, Ulises Cortés and Toyotaro Suzumura
+  - [[paper]](https://arxiv.org/abs/1703.09307)
+  - [[Python Reference]](https://github.com/HPAI-BSC/Fluid-Communities)
+  
 - **A Local Perspective on Community Structure in Multilayer Networks (Network Science 2017)**
   - Lucas GS Jeub, Michael Mahoney, Peter J Mucha and Mason A Porter
   - [[paper]](https://arxiv.org/pdf/1510.05185.pdf)
