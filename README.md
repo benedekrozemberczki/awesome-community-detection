@@ -97,20 +97,26 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 ## Percolation
 
 ## Label Propagation and Random Walks
-- **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
-  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
-  - [[paper]](https://hal.archives-ouvertes.fr/hal-01625444)
-  - [[Python rererence]](https://github.com/ahollocou/multicom)
-  
+
 - **Community Detection by Information Flow Simulation (ArXiv 2018)**
   - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
   - [[paper]](https://arxiv.org/abs/1805.04920)
   - [[Python Reference]](https://github.com/rajagopalvenkat/Community_Detection-Flow_Simulation)
 
+- **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
+  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
+  - [[paper]](https://hal.archives-ouvertes.fr/hal-01625444)
+  - [[Python rererence]](https://github.com/ahollocou/multicom)
+
 - **Community Detection Based on Structure and Content: A Content Propagation Perspective (CIKM 2015)**
   - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
   - [[paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
   - [[Matlab reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
+  
+- **Modeling Community Detection Using Slow Mixing Random Walks (IEEE Big Data 2015)**
+  - Ramezan Paravi Torghabeh and Narayana Prasad Santhanam
+  - [[paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
+  - [[Python reference]](https://github.com/paravi/MarovCommunity)
   
 - **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
   - Joyce Jiyoung Whang, David F. Gleich and Inderjit S. Dhillon
@@ -125,6 +131,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[C++]](https://github.com/arminbalalaie/graphlab-slpa)
   
 ## Tensor Decomposition
+
 - **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
   - Caterina De Bacco, Eleanor A. Power, Daniel B. Larremore and Cristopher Moore
   - [[paper]](https://arxiv.org/abs/1701.01369)
