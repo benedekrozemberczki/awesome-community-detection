@@ -267,7 +267,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[paper]](https://arxiv.org/abs/1707.02362)
   - [[Python Reference]](https://github.com/eduarc/HAMUHI)
 
-- **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2013)**
+- **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2014)**
   - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
   - [[paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
   - [[Python Reference]](https://github.com/Casyfill/pyCombo)
