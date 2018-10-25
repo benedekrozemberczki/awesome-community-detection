@@ -135,7 +135,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
   - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
-  - [[Paper](https://arxiv.org/pdf/1109.5720.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1109.5720.pdf)
   - [[Java Reference]]](https://github.com/sebastianliu/SLPA-community-detection)
   - [[Python Reference]]](https://github.com/kbalasu/SLPA)
   - [[C++ Reference]]](https://github.com/arminbalalaie/graphlab-slpa)
@@ -154,63 +154,63 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   
 - **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
   - Furong Huang and Niranjan, UN and Hakeem, M and Anandkumar, Animashree
-  - [[paper]](https://www.semanticscholar.org/paper/Fast-Detection-of-Overlapping-Communities-via-on-Huang-Niranjan/356e6c7eacca6caa94a5a96f41a9c785064f5693)
-  - [[C++](https://github.com/mapleyustat/Fast-Detection-of-Overlapping-Communities-via-Online-Tensor-Methods)
+  - [[Paper]](https://www.semanticscholar.org/paper/Fast-Detection-of-Overlapping-Communities-via-on-Huang-Niranjan/356e6c7eacca6caa94a5a96f41a9c785064f5693)
+  - [[C++ Reference]](https://github.com/mapleyustat/Fast-Detection-of-Overlapping-Communities-via-Online-Tensor-Methods)
 
 ## Spectral Methods
 
 - **Community Detection on Euclidean Random Graphs (Electronic Journal of Statistics 2018)**
   - Abishek Sankararaman and Francois Baccelli
-  - [[paper]](hhttp://abishek90.github.io/CommDet.pdf)
+  - [[Paper]](hhttp://abishek90.github.io/CommDet.pdf)
   - [[Python Reference]](https://github.com/abishek90/Community-Detection-on-a-Spatial-Graph)
 
 - **Community detection by L0-penalized graph Laplacian (Electronic Journal of Statistics 2018)**
   - Chong Chen, Ruibin Xi, and Nan Lin
-  - [[paper]](https://projecteuclid.org/euclid.ejs/1528769122)
+  - [[Paper]](https://projecteuclid.org/euclid.ejs/1528769122)
   - [[Matlab Reference]](https://github.com/ChongC1990/L0Lap)
   
 - **An Algorithm J-SC of Detecting Communities in Complex Networks (Physics Letters A 2017)**
   - Fang Hu, Mingzhu Wang, Yanran Wang, Zhehao Hong, and Yanhui Zhu
-  - [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0375960117308678)
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0375960117308678)
   - [[Matlab reference]](https://github.com/yanhueiju/community_detection_J-SC)
 
 - **Local Lanczos Spectral Approximation for Community Detection (ECML PKDD 2017)**
   - Pan Shi and He Kun and David Bindel and John Hopcroft
-  - [[paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
+  - [[Paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
   - [[Python Reference]](https://github.com/PanShi2016/LLSA)
   
 - **Uncovering the Small Community Structure in Large Networks: a Local Spectral Approach (WWW 2015)**
   - Li Yixuan and He Kun and David Bindel and John Hopcroft
-  - [[paper]](https://arxiv.org/abs/1509.07715)
+  - [[Paper]](https://arxiv.org/abs/1509.07715)
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
 - **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
-  - [[paper]](https://arxiv.org/abs/1109.3041)
+  - [[Paper Reference]](https://arxiv.org/abs/1109.3041)
   - [[C++]](https://github.com/junipertcy/sbm-bp)
   
 - **Phase Transition in the Detection of Modules in Sparse Networks (Physical Review Letters 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
-  - [[paper]](https://arxiv.org/abs/1102.1182)
+  - [[Paper Reference]](https://arxiv.org/abs/1102.1182)
   - [[C++]](https://github.com/junipertcy/sbm-bp)
   
 ## Temporal Methods
 
 - **Sequential Detection of Temporal Communities by Estrangement Confinement (Scientific Reports 2012)**
   - Vikas Kawadia and Sameet Sreenivasan
-  - [[paper]](https://www.nature.com/articles/srep00794)
+  - [[Paper]](https://www.nature.com/articles/srep00794)
   - [[Python Reference]](https://github.com/kawadia/estrangement)
   
 ## Cyclic Patterns
 
 - **Adaptive Modularity Maximization via Edge Weighting Scheme (Information Sciences 2018)**
   - Xiaoyan Lu, Konstantin Kuzmin, Mingming Chen, and Boleslaw K Szymanski
-  - [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[Python Reference]](https://github.com/xil12008/adaptive_modularity)
   
 - **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
   - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
-  - [[paper]](https://arxiv.org/pdf/1705.04863.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1705.04863.pdf)
   - [[C++]](https://github.com/rtackx/ComSim)
   
 - **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
@@ -227,79 +227,79 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 
 - **Real-Time Community Detection in Large Social Networks on a Laptop (PLOS 2018)**
   - Benjamin Paul Chamberlain, Josh Levy-Kramer, Clive Humby, and Marc Peter Deisenroth
-  - [[paper]](https://arxiv.org/pdf/1601.03958.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1601.03958.pdf)
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
   
 - **A Community Detection Algorithm Using Network Topologies and Rule-based Hierarchical Arc-merging Strategies (PLOS 2018)**
   - Yu-Hsiang Fu, Chung-Yuan Huang, and Chuen-Tsai Sun
-  - [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
+  - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
   - [[Python Reference]](https://github.com/yuhsiangfu/Hierarchical-Arc-Merging)
   
 - **Detecting Community Structures in Social Networks by Graph Sparsification (CODS 2016)**
   - Partha Basuchowdhuri, Satyaki Sikdar, Sonu Shreshtha, and Subhasis Majumder
-  - [[paper]](http://dl.acm.org/citation.cfm?id=2888479)
+  - [[Paper]](http://dl.acm.org/citation.cfm?id=2888479)
   - [[Python Reference]](https://github.com/satyakisikdar/spanner-comm-detection)
   
 ## Physics Inspired
 
 - **Community Detection Using Preference Networks (Physica A 2018)**
   - Mursel Tasgin and Halu Bingol
-  - [[paper]](https://arxiv.org/pdf/1708.08305.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1708.08305.pdf)
   - [[Java Reference]](https://github.com/murselTasginBoun/CDPN)
   
 - **Thermodynamics of the Minimum Description Length on Community Detection (ArXiv 2018)**
   - Juan Ignacio Perotti, Claudio Juan Tessone, Aaron Clauset and Guido Caldarelli
-  - [[paper]](https://arxiv.org/pdf/1806.07005.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1806.07005.pdf)
   - [[Python Reference]](https://github.com/jipphysics/bmdl_edm)
 
 - **Fluid Communities: A Community Detection Algorithm (Complenet 2017)**
   - Ferran Parés, Dario Garcia-Gasulla, Armand Vilalta, Jonatan Moreno, Eduard Ayguadé, Jesús Labarta, Ulises Cortés and Toyotaro Suzumura
-  - [[paper]](https://arxiv.org/abs/1703.09307)
+  - [[Paper]](https://arxiv.org/abs/1703.09307)
   - [[Python Reference]](https://github.com/HPAI-BSC/Fluid-Communities)
   
 - **A Local Perspective on Community Structure in Multilayer Networks (Network Science 2017)**
   - Lucas GS Jeub, Michael Mahoney, Peter J Mucha and Mason A Porter
-  - [[paper]](https://arxiv.org/pdf/1510.05185.pdf)
-  - [[Python]](https://github.com/LJeub/LocalCommunities)
+  - [[Paper]](https://arxiv.org/pdf/1510.05185.pdf)
+  - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
 - **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
   - Bin Jiang and Ding Ma
-  - [[paper]](https://arxiv.org/pdf/1502.00284.pdf)
-  - [[Python]](https://github.com/dingmartin/HeadTailCommunityDetection)
+  - [[Paper]](https://arxiv.org/pdf/1502.00284.pdf)
+  - [[Python Reference]](https://github.com/dingmartin/HeadTailCommunityDetection)
   
 - **Think Locally, Act Locally: Detection of Small, Medium-Sized, and Large Communities in Large Networks (Physica Review E 2015)**
   - Lucas G. S. Jeub, Prakash Balachandran, Mason A. Porter, Peter J. Mucha, and Michael W. Mahoney
-  - [[paper]](https://arxiv.org/abs/1403.3795v1)
-  - [[Python]](https://github.com/LJeub/LocalCommunities)
+  - [[Paper]](https://arxiv.org/abs/1403.3795v1)
+  - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
 ## Others
   
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
-  - [[paper]](https://ieeexplore.ieee.org/document/8253904)
+  - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
   - [[Reference]](https://github.com/he-tiantian/FSPGA)
   
 - **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
   - Xueying Bai, Peilin Yang and Xiaohu Shi
-  - [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
   - [[Matlab Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
   
 - **Fast Heuristic Algorithm for Multi-scale Hierarchical Community Detection (ASONAM 2017)**
   - Eduar Castrillo, Elizabeth León and Jonatan Gómez
-  - [[paper]](https://arxiv.org/abs/1707.02362)
+  - [[Paper]](https://arxiv.org/abs/1707.02362)
   - [[Python Reference]](https://github.com/eduarc/HAMUHI)
 
 - **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2014)**
   - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
-  - [[paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
+  - [[Paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
   - [[Python Reference]](https://github.com/Casyfill/pyCombo)
   
 - **Community Detection via Maximization of Modularity and Its Variants (IEEE TCSS 2014)**
   - Mingming Chen, Konstantin Kuzmin, and Boleslaw K. Szymanski 
-  - [[paper]](https://www.cs.rpi.edu/~szymansk/papers/TCSS-14.pdf)
+  - [[Paper]](https://www.cs.rpi.edu/~szymansk/papers/TCSS-14.pdf)
   - [[Python Reference]](https://github.com/itaneja2/community-detection)
 
 - **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
   - Ludo Waltman and Nees Jan Van Eck
-  - [[paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
-  - [[Python]](https://github.com/chen198328/slm)
+  - [[Paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
+  - [[Python Reference]](https://github.com/chen198328/slm)
