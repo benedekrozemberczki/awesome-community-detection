@@ -27,76 +27,76 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
   - Benedek Rozemberczki, Ryan Davies, Rik Sarkar and Charles Sutton
-  - [[paper]](https://arxiv.org/abs/1802.03997)
+  - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
 - **Sentiment-driven Community Profiling and Detection on Social Media (ACM HSM 2018)**
   - Amin Salehi, Mert Ozer, and Hasan Davulcu
-  - [[paper]](https://arxiv.org/abs/1805.04191)
+  - [[Paper]](https://arxiv.org/abs/1805.04191)
   - [[Python reference]](https://github.com/amin-salehi/GSNMF)
   
 - **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
   - Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang and Leyu Lin
-  - [[paper]](https://arxiv.org/pdf/1611.06645.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1611.06645.pdf)
   - [[Java Reference]](http://nlp.csai.tsinghua.edu.cn//~tcc/datasets/simplified_CNRL.zip)
   
 - **Community Preserving Network Embedding (AAAI 17)**
   - Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
-  - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
   - [[Python Reference]](https://github.com/benedekrozemberczki/M-NMF)
   
 - **Semi-supervised Clustering in Attributed Heterogeneous Information Networks (WWW 17)**
   - Xiang Li, Yao Wu, Martin Ester, Ben Kao, Xin Wang, and Yudian Zheng
-  - [[paper]](https://dl.acm.org/citation.cfm?id=3052576)
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=3052576)
   - [[Python Reference]](https://github.com/wedoso/SCHAIN-NL)
   
 - **Learning Community Embedding with Community Detection and Node Embedding on Graph (CIKM 2017)**
   - Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin Chen-Chuan Chang, and Erik Cambria
-  - [[paper]](http://sentic.net/community-embedding.pdf)
+  - [[Paper]](http://sentic.net/community-embedding.pdf)
   - [[Python Reference]](https://github.com/andompesta/ComE)
   
 - **Joint Community and Structural Hole Spanner Detection via Harmonic Modularity (KDD 2016)**
   - Lifang He, Chun-Ta Lu, Jiaqi Mu, Jianping Cao, Linlin Shen, and Philip S Yu
-  - [[paper]](https://www.kdd.org/kdd2016/papers/files/rfp1184-heA.pdf)
+  - [[Paper]](https://www.kdd.org/kdd2016/papers/files/rfp1184-heA.pdf)
   - [[Python Reference]](https://github.com/LifangHe/KDD16_HAM)
   
 - **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
   - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
-  - [[paper]](http://yangliang.github.io/pdf/06985550.pdf)
+  - [[Paper]](http://yangliang.github.io/pdf/06985550.pdf)
   - [[Matlab Reference]](http://yangliang.github.io/code/LSGR.rar)
   
 - **Community Detection for Clustered Attributed Graphs via a Variational EM Algorithm (Big Data 2014)**
   - Xiangyong Cao, Xiangyu Chang, and Zongben Xu
-  - [[paper]](https://dl.acm.org/citation.cfm?id=2644179)
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2644179)
   - [[Matlab Reference]](https://github.com/xiangyongcao/Variational-EM-for-Community-Detection)
   
 - **Overlapping Community Detection at Scale: a Nonnegative Matrix Factorization Approach (WSDM 2013)**
   - Jaewon Yang and Jure Leskovec
-  - [[paper]](http://i.stanford.edu/~crucis/pubs/paper-nmfagm.pdf)
-  - [[C++ reference]](https://github.com/snap-stanford/snap/tree/master/examples/bigclam)
-  - [[Java Spark]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
-  - [[Python]](https://github.com/RobRomijnders/bigclam)
+  - [[Paper]](http://i.stanford.edu/~crucis/pubs/paper-nmfagm.pdf)
+  - [[C++ Reference]](https://github.com/snap-stanford/snap/tree/master/examples/bigclam)
+  - [[Java Spark Reference]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
+  - [[Python Reference]](https://github.com/RobRomijnders/bigclam)
   
 - **Overlapping Community Detection Using Bayesian Non-negative Matrix Factorization (Physical Review E 2011)**
   - Ionnis Psorakis, Stephen Roberts, Mark Ebden, and Ben Sheldon
-  - [[paper]](http://www.orchid.ac.uk/eprints/38/1/PRE_NMF.pdf)
-  - [[Matlab reference]](https://github.com/ipsorakis/commDetNMF)
+  - [[Paper]](http://www.orchid.ac.uk/eprints/38/1/PRE_NMF.pdf)
+  - [[Matlab Reference]](https://github.com/ipsorakis/commDetNMF)
   
 ## Deep Learning
 - **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
   - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao and Francoise Fogelman-Soulie
-  - [[paper]](http://yangliang.github.io/pdf/sr17.pdf)
+  - [[Paper]](http://yangliang.github.io/pdf/sr17.pdf)
   - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
   
 - **Community Detection with Graph Neural Networks (ArXiv 2017)**
   - Zhengdao Chen, Xiang Li, Joan Bruna
-  - [[paper]](https://arxiv.org/abs/1705.08415)
+  - [[Paper]](https://arxiv.org/abs/1705.08415)
   - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
-  - [[Python reference]](https://github.com/afansi/multiscalegnn)
+  - [[Python Reference]](https://github.com/afansi/multiscalegnn)
   
 - **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
   - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhan
-  - [[paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
+  - [[Paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
   - [[Python Reference]](http://yangliang.github.io/code/DC.zip)
   
 ## Percolation
@@ -105,46 +105,46 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 
 - **Community Detection by Information Flow Simulation (ArXiv 2018)**
   - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
-  - [[paper]](https://arxiv.org/abs/1805.04920)
+  - [[Paper]](https://arxiv.org/abs/1805.04920)
   - [[Python Reference]](https://github.com/rajagopalvenkat/Community_Detection-Flow_Simulation)
 
 - **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
   - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
-  - [[paper]](https://hal.archives-ouvertes.fr/hal-01625444)
-  - [[Python rererence]](https://github.com/ahollocou/multicom)
+  - [[Paper]](https://hal.archives-ouvertes.fr/hal-01625444)
+  - [[Python Reference]](https://github.com/ahollocou/multicom)
 
 - **Improving PageRank for Local Community Detection (ArXiv 2016)**
   - Alexandre Hollocou, Thomas Bonald and Marc Lelarge
-  - [[paper]](https://arxiv.org/abs/1610.08722)
-  - [[C++ reference]](https://github.com/ahollocou/walkscan)
+  - [[Paper]](https://arxiv.org/abs/1610.08722)
+  - [[C++ Reference]](https://github.com/ahollocou/walkscan)
   
 - **Community Detection Based on Structure and Content: A Content Propagation Perspective (CIKM 2015)**
   - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
-  - [[paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
-  - [[Matlab reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
+  - [[Paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
+  - [[Matlab Reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
   
 - **Modeling Community Detection Using Slow Mixing Random Walks (IEEE Big Data 2015)**
   - Ramezan Paravi Torghabeh and Narayana Prasad Santhanam
-  - [[paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
-  - [[Python reference]](https://github.com/paravi/MarovCommunity)
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
+  - [[Python Reference]](https://github.com/paravi/MarovCommunity)
   
 - **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
   - Joyce Jiyoung Whang, David F. Gleich and Inderjit S. Dhillon
-  - [[paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
-  - [[Python reference]](https://github.com/pratham16/community-detection-by-seed-expansion)
+  - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
+  - [[Python Reference]](https://github.com/pratham16/community-detection-by-seed-expansion)
   
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
   - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
-  - [[paper]](https://arxiv.org/pdf/1109.5720.pdf)
-  - [[Java]](https://github.com/sebastianliu/SLPA-community-detection)
-  - [[Python]](https://github.com/kbalasu/SLPA)
-  - [[C++]](https://github.com/arminbalalaie/graphlab-slpa)
+  - [[Paper](https://arxiv.org/pdf/1109.5720.pdf)
+  - [[Java Reference]]](https://github.com/sebastianliu/SLPA-community-detection)
+  - [[Python Reference]]](https://github.com/kbalasu/SLPA)
+  - [[C++ Reference]]](https://github.com/arminbalalaie/graphlab-slpa)
   
 ## Tensor Decomposition
 
 - **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
   - Caterina De Bacco, Eleanor A. Power, Daniel B. Larremore and Cristopher Moore
-  - [[paper]](https://arxiv.org/abs/1701.01369)
+  - [[Paper]](https://arxiv.org/abs/1701.01369)
   - [[Python Reference]](https://github.com/cdebacco/MultiTensor)
   
 - **Overlapping Community Detection via Constrained PARAFAC: A Divide and Conquer Approach (ICDM 2017)**
