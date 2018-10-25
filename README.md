@@ -266,7 +266,12 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Eduar Castrillo, Elizabeth León and Jonatan Gómez
   - [[paper]](https://arxiv.org/abs/1707.02362)
   - [[Python Reference]](https://github.com/eduarc/HAMUHI)
-  
+
+- **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2013)**
+  - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
+  - [[paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
+  - [[Python Reference]](https://github.com/Casyfill/pyCombo)
+
 - **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
   - Ludo Waltman and Nees Jan Van Eck
   - [[paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
