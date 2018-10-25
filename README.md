@@ -97,7 +97,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 ## Percolation
 
 ## Label Propagation and Random Walks
-
+- **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
+  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
+  - [[paper]](https://hal.archives-ouvertes.fr/hal-01625444)
+  - [[Python rererence]](https://github.com/ahollocou/multicom)
+  
 - **Community Detection by Information Flow Simulation (ArXiv 2018)**
   - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
   - [[paper]](https://arxiv.org/abs/1805.04920)
