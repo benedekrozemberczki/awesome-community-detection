@@ -63,7 +63,12 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 - **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
   - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
   - [[paper]](http://yangliang.github.io/pdf/06985550.pdf)
-  - [[Matlab reference]](http://yangliang.github.io/code/LSGR.rar)
+  - [[Matlab Reference]](http://yangliang.github.io/code/LSGR.rar)
+  
+- **Community Detection for Clustered Attributed Graphs via a Variational EM Algorithm (Big Data 2014)**
+  - Xiangyong Cao, Xiangyu Chang, and Zongben Xu
+  - [[paper]](https://dl.acm.org/citation.cfm?id=2644179)
+  - [[Matlab Reference]](https://github.com/xiangyongcao/Variational-EM-for-Community-Detection)
   
 - **Overlapping Community Detection at Scale: a Nonnegative Matrix Factorization Approach (WSDM 2013)**
   - Jaewon Yang and Jure Leskovec
