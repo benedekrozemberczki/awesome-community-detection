@@ -288,6 +288,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
   - [[paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
   - [[Python Reference]](https://github.com/Casyfill/pyCombo)
+  
+- **Community Detection via Maximization of Modularity and Its Variants (IEEE TCSS 2014)**
+  - Mingming Chen, Konstantin Kuzmin, and Boleslaw K. Szymanski 
+  - [[paper]](https://www.cs.rpi.edu/~szymansk/papers/TCSS-14.pdf)
+  - [[Python Reference]](https://github.com/itaneja2/community-detection)
 
 - **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
   - Ludo Waltman and Nees Jan Van Eck
