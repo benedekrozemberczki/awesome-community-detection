@@ -193,9 +193,14 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Cyclic Patterns
 
+- **Adaptive Modularity Maximization via Edge Weighting Scheme (Information Sciences 2018)**
+  - Xiaoyan Lu, Konstantin Kuzmin, Mingming Chen, and Boleslaw K Szymanski
+  - [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
+  - [[Python Reference]](https://github.com/xil12008/adaptive_modularity)
+  
 - **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
   - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
-  - [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
+  - [[paper]](https://arxiv.org/pdf/1705.04863.pdf)
   - [[C++]](https://github.com/rtackx/ComSim)
   
 - **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
