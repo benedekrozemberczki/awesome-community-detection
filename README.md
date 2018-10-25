@@ -187,12 +187,12 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 - **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
   - [[Paper Reference]](https://arxiv.org/abs/1109.3041)
-  - [[C++]](https://github.com/junipertcy/sbm-bp)
+  - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
 - **Phase Transition in the Detection of Modules in Sparse Networks (Physical Review Letters 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
   - [[Paper Reference]](https://arxiv.org/abs/1102.1182)
-  - [[C++]](https://github.com/junipertcy/sbm-bp)
+  - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
 ## Temporal Methods
 
@@ -211,7 +211,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 - **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
   - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
   - [[Paper]](https://arxiv.org/pdf/1705.04863.pdf)
-  - [[C++]](https://github.com/rtackx/ComSim)
+  - [[C++ Reference]](https://github.com/rtackx/ComSim)
   
 - **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
   - Arnau Prat-Perez David Dominguez-Sal and Josep-Lluis Larriba-Pey
@@ -277,7 +277,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
   - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
-  - [[Reference]](https://github.com/he-tiantian/FSPGA)
+  - [[Executable Reference]](https://github.com/he-tiantian/FSPGA)
   
 - **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
   - Xueying Bai, Peilin Yang and Xiaohu Shi
