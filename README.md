@@ -60,6 +60,10 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://www.kdd.org/kdd2016/papers/files/rfp1184-heA.pdf)
   - [[Python Reference]](https://github.com/LifangHe/KDD16_HAM)
   
+- **Community Detection via Fused Loadings Principal Component Analysis (2016)**
+  - Richard Samworth, Yang Feng and Yi Yu
+  -[[R Reference]](https://github.com/cran/FusedPCA)
+  
 - **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
   - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
   - [[Paper]](http://yangliang.github.io/pdf/06985550.pdf)
@@ -293,6 +297,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
   - [[Paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
   - [[Python Reference]](https://github.com/Casyfill/pyCombo)
+  
+- **Community Detection in Multi-Partite Multi-Relational Networks Based on Information Compression (New Generation Computing 2016)**
+  - Xin Liu, Weichu Liu, Tsuyoshi Murata, and Ken Wakita
+  - [[Paper]](https://link.springer.com/article/10.1007/s00354-016-0206-1)
+  - [[Scala Reference]](https://github.com/weichuliu/hetero_scala)
   
 - **Community Detection via Maximization of Modularity and Its Variants (IEEE TCSS 2014)**
   - Mingming Chen, Konstantin Kuzmin, and Boleslaw K. Szymanski 
