@@ -157,7 +157,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/FatemehSheikholeslami/EgoTen)
   
 - **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
-  - Furong Huang and Niranjan, UN and Hakeem, M and Anandkumar, Animashree
+  - Furong Huang and  Animashree Anandkumar
   - [[Paper]](https://www.semanticscholar.org/paper/Fast-Detection-of-Overlapping-Communities-via-on-Huang-Niranjan/356e6c7eacca6caa94a5a96f41a9c785064f5693)
   - [[C++ Reference]](https://github.com/mapleyustat/Fast-Detection-of-Overlapping-Communities-via-Online-Tensor-Methods)
 
@@ -248,6 +248,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - Tao Youa, Hui-Min Chenga, Yi-Zi Ninga, Ben-Chang Shiab, Zhong-Yuan Zhang
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437116304563)
   - [[Matlab Reference]](https://github.com/isaac-you/IsoFpd)
+  
+- **Online Community Detection for Large Complex Networks (IJCAI 2013)**
+  - Wangsheng Zhang, Gang Pan, Zhaohui Wu and Shijian Li
+  - [[Paper]](https://github.com/castigliano/olcd)
+  - [[C++ Reference]](https://github.com/isaac-you/IsoFpd)
   
 ## Physics Inspired
 
