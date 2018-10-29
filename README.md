@@ -140,9 +140,9 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
   - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
   - [[Paper]](https://arxiv.org/pdf/1109.5720.pdf)
-  - [[Java Reference]]](https://github.com/sebastianliu/SLPA-community-detection)
-  - [[Python Reference]]](https://github.com/kbalasu/SLPA)
-  - [[C++ Reference]]](https://github.com/arminbalalaie/graphlab-slpa)
+  - [[Java Reference]](https://github.com/sebastianliu/SLPA-community-detection)
+  - [[Python Reference]](https://github.com/kbalasu/SLPA)
+  - [[C++ Reference]](https://github.com/arminbalalaie/graphlab-slpa)
   
 ## Tensor Decomposition
 
