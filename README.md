@@ -244,6 +244,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://dl.acm.org/citation.cfm?id=2888479)
   - [[Python Reference]](https://github.com/satyakisikdar/spanner-comm-detection)
   
+- **Community Detection in Complex Networks Using Density-Based Clustering Algorithm and Manifold Learning (Physica A 2016)**
+  - Tao Youa, Hui-Min Chenga, Yi-Zi Ninga, Ben-Chang Shiab, Zhong-Yuan Zhang
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437116304563)
+  - [[Matlab Reference]](https://github.com/isaac-you/IsoFpd)
+  
 ## Physics Inspired
 
 - **Community Detection Using Preference Networks (Physica A 2018)**
