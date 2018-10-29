@@ -132,6 +132,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
   - [[Python Reference]](https://github.com/paravi/MarovCommunity)
   
+- **GossipMap: A Distributed Community Detection Algorithm for Billion-Edge Directe Graphs (SC 2015)**
+  - Seung-Hee Bae and Bill Howe
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2807668)
+  - [[C++ Reference]](https://github.com/uwescience/GossipMap)
+  
 - **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
   - Joyce Jiyoung Whang, David F. Gleich and Inderjit S. Dhillon
   - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
