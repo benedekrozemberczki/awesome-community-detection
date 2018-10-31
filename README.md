@@ -164,6 +164,18 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
   - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
   
+- **Bridge Bounding: A Local Approach for Efficient Community Discovery in Complex Networks (ArXiv 2009)**
+  - Symeon Papadopoulos, Andre Skusa, Athena Vakali, Yiannis Kompatsiaris, Nadine Wagner
+  - [[Paper]](https://arxiv.org/abs/0902.0871)
+  - [[Java Reference]](https://github.com/kleinmind/bridge-bounding)
+  
+- **The Map Equation (The European Physical Journal Special Topics 2009)**
+  - Martin Rossvall and Daniel Axelsson, and Carl T Bergstrom
+  - [[Paper]](https://arxiv.org/abs/0906.1405)
+  - [[R Reference]](igraph.org/r/doc/cluster_infomap.html)
+  - [[C Reference]](http://igraph.org/c/)
+  - [[Python Reference]](https://github.com/Tavpritesh/MapEquation)
+  
 ## Tensor Decomposition
 
 - **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
