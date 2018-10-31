@@ -323,6 +323,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1403.3795v1)
   - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
+- **Parallel Community Detection on Large Networks with Propinquity Dynamics (KDD 2009)**
+  - Yuzhou Zhang, Jianyong Wang, Yi Wang, and Lizhu Zhou 
+  - [[Paper]](https://grid.cs.gsu.edu/~myan2/communitydetection/16.pdf)
+  - [[Java Reference]](https://github.com/csdashes/GraphStreamCommunityDetection)
+    
 - **Laplacian Dynamics and Multiscale Modular Structure in Networks (IEEE TNSE 2008)**
   - Renaud Lambiotte, J-C Delvenne, and Mauricio Barahona
   - [[Paper]](https://arxiv.org/abs/0812.1770v3)
