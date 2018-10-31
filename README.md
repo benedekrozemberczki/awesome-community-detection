@@ -269,9 +269,14 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437116304563)
   - [[Matlab Reference]](https://github.com/isaac-you/IsoFpd)
   
+- **Smart Partitioning of Geo-Distributed Resources to Improve Cloud Network Performance (CloudNet 2015)**
+  - Hooman Peiro Sajjad, Fatemeh Rahimian, and Vladimir Vlassov 
+  - [[Paper]](https://ieeexplore.ieee.org/document/7335292)
+  - [[Java Reference]](https://github.com/shps/mdc-community-detection)
+  
 - **Online Community Detection for Large Complex Networks (IJCAI 2013)**
   - Wangsheng Zhang, Gang Pan, Zhaohui Wu and Shijian Li
-  - [[Paper]](https://github.com/castigliano/olcd)
+  - [[Paper]](https://www.ijcai.org/Proceedings/13/Papers/281.pdf)
   - [[C++ Reference]](https://github.com/isaac-you/IsoFpd)
   
 ## Physics Inspired
@@ -297,7 +302,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
 - **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
-  - Bin Jiang and Ding Ma
+  - Lambiotte, Renaud and Delvenne, J-C and Barahona, Mauricio
   - [[Paper]](https://arxiv.org/pdf/1502.00284.pdf)
   - [[Python Reference]](https://github.com/dingmartin/HeadTailCommunityDetection)
   
@@ -305,6 +310,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Lucas G. S. Jeub, Prakash Balachandran, Mason A. Porter, Peter J. Mucha, and Michael W. Mahoney
   - [[Paper]](https://arxiv.org/abs/1403.3795v1)
   - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
+  
+- **Laplacian Dynamics and Multiscale Modular Structure in Networks (IEEE TNSE 2008)**
+  - Renaud Lambiotte, J-C Delvenne, and Mauricio Barahona
+  - [[Paper]](https://arxiv.org/abs/0812.1770v3)
+  - [[R Reference]](https://github.com/buzzlumberjack/Communities-Detection)
   
 ## Others
   
