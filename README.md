@@ -210,12 +210,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 - **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
-  - [[Paper Reference]](https://arxiv.org/abs/1109.3041)
+  - [[Paper]](https://arxiv.org/abs/1109.3041)
   - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
 - **Phase Transition in the Detection of Modules in Sparse Networks (Physical Review Letters 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
-  - [[Paper Reference]](https://arxiv.org/abs/1102.1182)
+  - [[Paper]](https://arxiv.org/abs/1102.1182)
   - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
 ## Temporal Methods
