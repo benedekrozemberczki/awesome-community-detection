@@ -107,6 +107,11 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Label Propagation and Random Walks
 
+- **Dynamic graph-based label propagation for density peaks clustering (Expert Systems 2019)**
+  - Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi and Nooruldeen Nasih Qader
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417418304998?via%3Dihub)
+  - [[Python Reference]](https://github.com/amjadseyedi/DPC-DLP)
+
 - **Community Detection by Information Flow Simulation (ArXiv 2018)**
   - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
   - [[Paper]](https://arxiv.org/abs/1805.04920)
