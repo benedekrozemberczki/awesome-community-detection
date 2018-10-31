@@ -316,6 +316,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/0812.1770v3)
   - [[R Reference]](https://github.com/buzzlumberjack/Communities-Detection)
   
+- **Statistical Mechanics of Community Detection (Phyics Review E 2006)**
+  - Jorh Reichardt and Stefan Bornholdt
+  - [[Paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.016110)
+  - [[Ruby Reference]](https://github.com/duett/community-detection)
+  
 ## Others
   
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
