@@ -110,7 +110,7 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
 - **Dynamic graph-based label propagation for density peaks clustering (Expert Systems 2019)**
   - Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi and Nooruldeen Nasih Qader
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417418304998?via%3Dihub)
-  - [[Python Reference]](https://github.com/amjadseyedi/DPC-DLP)
+  - [[Matlab Reference]](https://github.com/amjadseyedi/DPC-DLP)
 
 - **Community Detection by Information Flow Simulation (ArXiv 2018)**
   - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
@@ -153,6 +153,16 @@ A similar collection of [[graph embedding]](https://github.com/benedekrozembercz
   - [[Java Reference]](https://github.com/sebastianliu/SLPA-community-detection)
   - [[Python Reference]](https://github.com/kbalasu/SLPA)
   - [[C++ Reference]](https://github.com/arminbalalaie/graphlab-slpa)
+  
+- **On the Generation of Stable Communities of Users for Dynamic Mobile Ad Hoc Social Networks (IEEE ICOIN  2011)**
+  - Guillaume-Jean Herbiet and Pascal Bouvry
+  - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
+  - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
+  
+- **SHARC: Community-Based Partitioning for Mobile Ad Hoc Networks Using Neighborhood Similarity (IEEE WoWMoM 2010)**
+  - Guillaume-Jean Herbiet and Pascal Bouvry
+  - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
+  - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
   
 ## Tensor Decomposition
 
