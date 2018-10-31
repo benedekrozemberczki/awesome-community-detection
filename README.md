@@ -244,6 +244,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[Python Reference]](https://github.com/xil12008/adaptive_modularity)
   
+- **Graph Learning for Multiview Clustering (IEEE Transactions on Cybernetics 2017)**
+  - Kun Zhan, Changqing Zhang, Junpeng Guan, and Junsheng Wang
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
+  - [[Matlab Reference]](https://github.com/kunzhan/MVGL)
+  
 - **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
   - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
   - [[Paper]](https://arxiv.org/pdf/1705.04863.pdf)
