@@ -287,6 +287,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://www.nature.com/articles/srep00794)
   - [[Python Reference]](https://github.com/kawadia/estrangement)
   
+- **GraphScope: Parameter-Free Mining of Large Time-Evolving Graphs (KDD 2007)**
+  - Jimeng Sun, Christos Faloutsos, Spiros Papadimitriou, and Philip S. Yu
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1281266)
+  - [[Java Reference]](https://github.com/sarovios/social-graph-cluster)
+  
 ## Cyclic Patterns
 
 - **Adaptive Modularity Maximization via Edge Weighting Scheme (Information Sciences 2018)**
