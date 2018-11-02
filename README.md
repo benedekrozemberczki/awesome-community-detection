@@ -214,7 +214,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Pan Shi and He Kun and David Bindel and John Hopcroft
   - [[Paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
   - [[Python Reference]](https://github.com/PanShi2016/LLSA)
-  
+
+- **Spectral Clustering with Graph Filtering and Landmark Based Representation (ICASSP 2016)**
+  - Nicolas Tremblay, Gilles Puy, Pierre Borgnat, Rémi Gribonval, and Pierre Vandergheynst
+  - [[Paper]](https://arxiv.org/pdf/1509.08863.pdf)
+  - [[Python Reference]](https://github.com/cylindricalcow/FastSpectralClustering)
+
 - **Uncovering the Small Community Structure in Large Networks: a Local Spectral Approach (WWW 2015)**
   - Li Yixuan and He Kun and David Bindel and John Hopcroft
   - [[Paper]](https://arxiv.org/abs/1509.07715)
@@ -230,6 +235,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1102.1182)
   - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
+- **Spectral Clustering Based on the Graph p-Laplacian (ICML 2009)**
+  - Thomas Buhler and  Matthias Hein 
+  - [[Paper]](https://www.ml.uni-saarland.de/Publications/BueHei-pSpectralClustering2009.pdf)
+  - [[Matlab Reference]](https://github.com/tbuehler/pSpectralClustering)
+  
 ## Temporal Methods
 
 - **Sequential Detection of Temporal Communities by Estrangement Confinement (Scientific Reports 2012)**
@@ -244,8 +254,13 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[Python Reference]](https://github.com/xil12008/adaptive_modularity)
   
+- **Graph sketching-based Space-efficient Data Clustering (SDM 2018)**
+  - Xiaoyan Lu, Konstantin Kuzmin, Mingming Chen, and Boleslaw K Szymanski
+  - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.2)
+  - [[Python Reference]](https://github.com/annemorvan/DBMSTClu)
+  
 - **Graph Learning for Multiview Clustering (IEEE Transactions on Cybernetics 2017)**
-  - Kun Zhan, Changqing Zhang, Junpeng Guan, and Junsheng Wang
+  - Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, and Jamal Atif
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[Matlab Reference]](https://github.com/kunzhan/MVGL)
   
