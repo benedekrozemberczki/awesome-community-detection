@@ -196,6 +196,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[C Reference]](http://igraph.org/c/)
   - [[Python Reference]](https://github.com/Tavpritesh/MapEquation)
   
+- **Chinese Whispers: an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems (HLT NAACL 2006)**
+  - Chris Biemann
+  - [[Paper]](http://www.aclweb.org/anthology/W06-3812)
+  - [[Python Reference]](https://github.com/sanmayaj/ChineseWhispers)
+  
 ## Tensor Decomposition
 
 - **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
@@ -365,6 +370,16 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Wangsheng Zhang, Gang Pan, Zhaohui Wu and Shijian Li
   - [[Paper]](https://www.ijcai.org/Proceedings/13/Papers/281.pdf)
   - [[C++ Reference]](https://github.com/isaac-you/IsoFpd)
+  
+- **Agglomerative Clustering via Maximum Incremental Path Integral (Pattern Recognition 2013)**
+  - Wei Zhang, Deli Zhao, and Xiaogang Wang
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320313001830)
+  - [[Matlab Reference]](https://github.com/waynezhanghk/gactoolbox)
+  
+- **Graph Degree Linkage: Agglomerative Clustering on a Directed Graph (ECCV 2012)**
+  - Wei Zhang, Xiaogang Wang, Deli Zhao and Xiaoou Tang
+  - [[Paper]](https://arxiv.org/abs/1208.5092)
+  - [[Matlab Reference]](https://github.com/waynezhanghk/gactoolbox)
   
 ## Physics Inspired
 
