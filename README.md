@@ -289,6 +289,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/pdf/1705.04863.pdf)
   - [[C++ Reference]](https://github.com/rtackx/ComSim)
   
+- **Evolutionary Graph Clustering for Protein Complex Identification (IEEE Transactions on Computational Biology and Bioinformatics  2016)**
+  - Tiantian He and Keith C.C. Chan 
+  - [[Paper]](https://ieeexplore.ieee.org/document/7792218)
+  - [[Java Reference]](https://github.com/he-tiantian/EGCPI)
+  
 - **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
   - Arnau Prat-Perez David Dominguez-Sal and Josep-Lluis Larriba-Pey
   - [[Paper]](http://wwwconference.org/proceedings/www2014/proceedings/p225.pdf)
