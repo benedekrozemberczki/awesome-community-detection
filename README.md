@@ -30,7 +30,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
-- **Learning Latent Factors for Community Identification and Summarization (EEE Access 2018)**
+- **Learning Latent Factors for Community Identification and Summarization (IEEE Access 2018)**
   -  Tiantian He, Lun Hu, Keith C. C. Chan, and Pengwei Hu 
   - [[Paper]](https://ieeexplore.ieee.org/document/8374421)
   - [[Executable Reference]](https://github.com/abojchevski/paican)
