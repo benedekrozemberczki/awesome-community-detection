@@ -245,6 +245,16 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1509.07715)
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
+- **Self-Taught Spectral Clustering via Constraint Augmentation (SDM 2014)**
+  - Xiang Wang, Jun Wang, Buyue Qian, Fei Wang and Ian Davidson
+  - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.48)
+  - [[Matlab Reference]](https://github.com/gnaixgnaw/CSP)
+  
+- **Multi-Objective Multi-View Spectral Clustering via Pareto Optimization (SDM 2013)**
+  - Xiang Wang, Buyue Qian, Jieping Ye, and Ian Davidson
+  - [[Paper]](http://www2.cs.uh.edu/~ceick/DM/P4_DM4.pdf)
+  - [[Matlab Reference]](https://github.com/gnaixgnaw/CSP)
+  
 - **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
   - [[Paper]](https://arxiv.org/abs/1109.3041)
@@ -254,6 +264,16 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
   - [[Paper]](https://arxiv.org/abs/1102.1182)
   - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
+  
+- **Active Spectral Clustering (ICDM 2010)**
+  - Xiang Wang and Ian Davidson
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.7661&rep=rep1&type=pdf)
+  - [[Matlab Reference]](https://github.com/gnaixgnaw/CSP)
+
+- **Flexible Constrained Spectral Clustering (KDD 2010)**
+  - Xiang Wang and Ian Davidson
+  - [[Paper]](http://web.cs.ucdavis.edu/~davidson/Publications/rp058d-wang.pdf)
+  - [[Matlab Reference]](https://github.com/gnaixgnaw/CSP)
   
 - **Spectral Clustering Based on the Graph p-Laplacian (ICML 2009)**
   - Thomas Buhler and  Matthias Hein 
