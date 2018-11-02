@@ -291,6 +291,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Centrality and Cuts
 
+- **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
+  - Yulin Che, Yulin Che, and Yulin Che
+  - [[Paper]](https://dl.acm.org/citation.cfm?doid=3225058.3225063)
+  - [[C++ Reference]](https://github.com/GraphProcessor/ppSCAN)
+  
 - **Real-Time Community Detection in Large Social Networks on a Laptop (PLOS 2018)**
   - Benjamin Paul Chamberlain, Josh Levy-Kramer, Clive Humby, and Marc Peter Deisenroth
   - [[Paper]](https://arxiv.org/pdf/1601.03958.pdf)
