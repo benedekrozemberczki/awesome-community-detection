@@ -113,6 +113,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
   - [[Python Reference]](https://github.com/afansi/multiscalegnn)
   
+- **MGAE: Marginalized Graph Autoencoder for Graph Clustering (CIKM 2017)**
+  - Chun Wang, Shirui Pan, Guodong Long, Xingquabn Zhu, and Jing Jiang
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=3132967)
+  - [[Matlab Reference]](https://github.com/FakeTibbers/MGAE)
+  
 - **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
   - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhan
   - [[Paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
