@@ -381,6 +381,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1208.5092)
   - [[Matlab Reference]](https://github.com/waynezhanghk/gactoolbox)
   
+- **Weighted Graph Cuts without Eigenvectors a Multilevel Approach (IEEE TPAMI 2007)**
+  - Inderjit S Dhillon, Brian Kulis, and Yuqiang Guan 
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4302760)
+  - [[C Reference]](https://github.com/iromu/Graclus)
+  
 ## Physics Inspired
 
 - **Community Detection Using Preference Networks (Physica A 2018)**
