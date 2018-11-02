@@ -30,15 +30,20 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
+- **Learning Latent Factors for Community Identification and Summarization (EEE Access 2018)**
+  -  Tiantian He, Lun Hu, Keith C. C. Chan, and Pengwei Hu 
+  - [[Paper]](https://ieeexplore.ieee.org/document/8374421)
+  - [[Executable Reference]](https://github.com/abojchevski/paican)
+  
 - **Bayesian Robust Attributed Graph Clustering: Joint Learning of Partial Anomalies and Group Structure (AAAI 2018)**
   - Aleksandar Bojchevski and Stephan Günnemann
   - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16363/16542)
-  - [[Python reference]](https://github.com/abojchevski/paican)
+  - [[Python Reference]](https://github.com/abojchevski/paican)
   
 - **Sentiment-driven Community Profiling and Detection on Social Media (ACM HSM 2018)**
   - Amin Salehi, Mert Ozer, and Hasan Davulcu
   - [[Paper]](https://arxiv.org/abs/1805.04191)
-  - [[Python reference]](https://github.com/amin-salehi/GSNMF)
+  - [[Python Reference]](https://github.com/amin-salehi/GSNMF)
   
 - **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
   - Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang and Leyu Lin
