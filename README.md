@@ -31,9 +31,9 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
 - **Learning Latent Factors for Community Identification and Summarization (IEEE Access 2018)**
-  -  Tiantian He, Lun Hu, Keith C. C. Chan, and Pengwei Hu 
+  - Tiantian He, Lun Hu, Keith C. C. Chan, and Pengwei Hu 
   - [[Paper]](https://ieeexplore.ieee.org/document/8374421)
-  - [[Executable Reference]](https://github.com/abojchevski/paican)
+  - [[Executable Reference]](https://github.com/he-tiantian/LFCIS)
   
 - **Bayesian Robust Attributed Graph Clustering: Joint Learning of Partial Anomalies and Group Structure (AAAI 2018)**
   - Aleksandar Bojchevski and Stephan Günnemann
