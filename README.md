@@ -70,6 +70,16 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://sentic.net/community-embedding.pdf)
   - [[Python Reference]](https://github.com/andompesta/ComE)
   
+- **Cross-Validation Estimate of the Number of Clusters in a Network (Scientific Report 2017)**
+  - Matsuro Kawamoto and Yoshiyuki Kabashima
+  - [[Paper]](https://arxiv.org/abs/1605.07915)
+  - [[Julia Reference]](https://github.com/tatsuro-kawamoto/graphBIX)
+  
+- **Comparative Analysis on the Selection of Number of Clusters in Community Detection (ArXiv 2017)**
+  - Matsuro Kawamoto and Yoshiyuki Kabashima
+  - [[Paper]](https://arxiv.org/abs/1606.07668)
+  - [[Julia Reference]](https://github.com/tatsuro-kawamoto/graphBIX)
+  
 - **Joint Community and Structural Hole Spanner Detection via Harmonic Modularity (KDD 2016)**
   - Lifang He, Chun-Ta Lu, Jiaqi Mu, Jianping Cao, Linlin Shen, and Philip S Yu
   - [[Paper]](https://www.kdd.org/kdd2016/papers/files/rfp1184-heA.pdf)
@@ -95,6 +105,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[C++ Reference]](https://github.com/snap-stanford/snap/tree/master/examples/bigclam)
   - [[Java Spark Reference]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
   - [[Python Reference]](https://github.com/RobRomijnders/bigclam)
+  
+- **Symmetric Nonnegative Matrix Factorization for Graph Clustering (SDM 2012)**
+  - Da Kuang, Chris Ding and Haesun Park
+  - [[Paper]](https://www.cc.gatech.edu/~hpark/papers/DaDingParkSDM12.pdf)
+  - [[Matlab Reference]](https://github.com/dakuang/symnmf)
   
 - **Overlapping Community Detection Using Bayesian Non-negative Matrix Factorization (Physical Review E 2011)**
   - Ionnis Psorakis, Stephen Roberts, Mark Ebden, and Ben Sheldon
