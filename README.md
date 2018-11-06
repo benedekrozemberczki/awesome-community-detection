@@ -60,6 +60,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
   - [[Python Reference]](https://github.com/benedekrozemberczki/M-NMF)
   
+- **Self-weighted Multiview Clustering with Multiple Graphs (IJCAI 17)**
+  - Feiping Nie, Jing Li, and Xuelong Li
+  - [[Paper]](https://www.ijcai.org/proceedings/2017/0357.pdf)
+  - [[Matlab Reference]](https://github.com/kylejingli/SwMC-IJCAI17)
+  
 - **Semi-supervised Clustering in Attributed Heterogeneous Information Networks (WWW 17)**
   - Xiang Li, Yao Wu, Martin Ester, Ben Kao, Xin Wang, and Yudian Zheng
   - [[Paper]](https://dl.acm.org/citation.cfm?id=3052576)
