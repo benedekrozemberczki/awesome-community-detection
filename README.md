@@ -14,7 +14,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 1. [Factorization](#factorization)  
 2. [Deep Learning](#deep-learning) 
-3. [Label Propagation, Percolation and Random Walks](#label-propagation,-percolation-and-random-walks) 
+3. [Label Propagation, Percolation and Random Walks](#label-propagation-percolation-and-random-walks) 
 4. [Tensor Decomposition](#tensor-decomposition)
 5. [Spectral Methods](#spectral-methods) 
 6. [Temporal Methods](#temporal-methods) 
