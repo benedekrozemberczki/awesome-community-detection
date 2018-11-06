@@ -14,15 +14,14 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 1. [Factorization](#factorization)  
 2. [Deep Learning](#deep-learning) 
-3. [Percolation](#percolation) 
-4. [Label Propagation and Random Walks](#label-propagation-and-random-walks) 
-5. [Tensor Decomposition](#tensor-decomposition)
-6. [Spectral Methods](#spectral-methods) 
-7. [Temporal Methods](#temporal-methods) 
-8. [Cyclic Patterns](#cyclic-patterns)
-9. [Centrality and Cuts](#centrality-and-cuts) 
-10. [Physics Inspired](#physics-inspired) 
-11. [Others](#others) 
+3. [Label Propagation, Percolation and Random Walks](#label-propagation,-peroclation-and-random-walks) 
+4. [Tensor Decomposition](#tensor-decomposition)
+5. [Spectral Methods](#spectral-methods) 
+6. [Temporal Methods](#temporal-methods) 
+7. [Cyclic Patterns](#cyclic-patterns)
+8. [Centrality and Cuts](#centrality-and-cuts) 
+9. [Physics Inspired](#physics-inspired) 
+10. [Others](#others) 
   
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
@@ -99,6 +98,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://yangliang.github.io/pdf/06985550.pdf)
   - [[Matlab Reference]](http://yangliang.github.io/code/LSGR.rar)
   
+- **Community Detection via Measure Space Embedding (NIPS 2015)**
+  - Mark Kozdoba and Shie Mannor
+  - [[Paper]](https://papers.nips.cc/paper/5808-community-detection-via-measure-space-embedding.pdf)
+  - [[Python Reference]](https://github.com/komarkdev/der_graph_clustering)
+  
 - **Community Detection for Clustered Attributed Graphs via a Variational EM Algorithm (Big Data 2014)**
   - Xiangyong Cao, Xiangyu Chang, and Zongben Xu
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2644179)
@@ -143,9 +147,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
   - [[Python Reference]](http://yangliang.github.io/code/DC.zip)
   
-## Percolation
-
-## Label Propagation and Random Walks
+- **Learning Deep Representations for Graph Clustering (AAAI 2014)**
+  - Fei Tian, Bin Gao, Qing Cui, Enhong Chen and Tie-Yan Liu
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527)
+  - [[Python Reference]](https://github.com/quinngroup/deep-representations-clustering)
+  
+## Label Propagation, Percolation and Random Walks
 
 - **Dynamic graph-based label propagation for density peaks clustering (Expert Systems 2019)**
   - Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi and Nooruldeen Nasih Qader
