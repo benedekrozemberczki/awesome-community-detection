@@ -410,6 +410,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Wei Zhang, Xiaogang Wang, Deli Zhao and Xiaoou Tang
   - [[Paper]](https://arxiv.org/abs/1208.5092)
   - [[Matlab Reference]](https://github.com/waynezhanghk/gactoolbox)
+  - [[Python Reference]](https://github.com/myungjoon/GDL)
   
 - **Weighted Graph Cuts without Eigenvectors a Multilevel Approach (IEEE TPAMI 2007)**
   - Inderjit S Dhillon, Brian Kulis, and Yuqiang Guan 
