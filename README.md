@@ -147,6 +147,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1610.08722)
   - [[C++ Reference]](https://github.com/ahollocou/walkscan)
   
+- **Limited Random Walk Algorithm for Big Graph Data Clustering (Journal of Big Data 2016)**
+ - Honglei Zhang, Jenni Raitoharju, Serkan Kiranyaz, and Moncef Gabbouj
+ - [[Paper]](https://arxiv.org/abs/1606.06450)
+ - [[C++ Reference]](https://github.com/harleyzhang/LRW)
+  
 - **Community Detection Based on Structure and Content: A Content Propagation Perspective (CIKM 2015)**
   - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
   - [[Paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
@@ -323,6 +328,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Tiantian He and Keith C.C. Chan 
   - [[Paper]](https://ieeexplore.ieee.org/document/7792218)
   - [[Java Reference]](https://github.com/he-tiantian/EGCPI)
+  
+- **pSCAN: Fast and Exact Structural Graph Clustering (ICDE 2016)**
+  - T Lijun Chang, Wei Li, Xuemin Lin, Lu Qin, Wenjie Zhang 
+  - [[Paper]](https://ieeexplore.ieee.org/document/7498245)
+  - [[C++ Reference]](https://github.com/LijunChang/pSCAN)
   
 - **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
   - Arnau Prat-Perez David Dominguez-Sal and Josep-Lluis Larriba-Pey
