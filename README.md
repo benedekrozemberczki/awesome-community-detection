@@ -91,7 +91,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 - **Community Detection via Fused Loadings Principal Component Analysis (2016)**
   - Richard Samworth, Yang Feng and Yi Yu
-  -[[R Reference]](https://github.com/cran/FusedPCA)
+  - [[R Reference]](https://github.com/cran/FusedPCA)
+
+- **Feature Extraction via Multi-view Non-negative Matrix Factorization with Local Graph Regularization (IEEE ICIP 2015)**
+  - Zhenfan Wang, Xiangwei Kong, Hiayan Fu, Ming Li, and Yujia Zhang
+  - [[Paper]](https://ieeexplore.ieee.org/document/7351455)
+  - [[Matlab Reference]](https://github.com/DUT-DIPLab/Graph-Multi-NMF-Feature-Clustering)
   
 - **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
   - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
@@ -360,6 +365,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - T Lijun Chang, Wei Li, Xuemin Lin, Lu Qin, Wenjie Zhang 
   - [[Paper]](https://ieeexplore.ieee.org/document/7498245)
   - [[C++ Reference]](https://github.com/LijunChang/pSCAN)
+  
+- **Intra-Graph Clustering using Collaborative Similarity Measure (DPCD 2015)**
+  - Waqas Nawaz, Kifayat-Ullah Khan, Young-Koo Lee, and Sungyoung Lee
+  - [[Paper]](https://link.springer.com/article/10.1007/s10619-014-7170-x)
+  - [[Java Reference]](https://github.com/WNawaz/CSM)
   
 - **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
   - Arnau Prat-Perez David Dominguez-Sal and Josep-Lluis Larriba-Pey
