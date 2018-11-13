@@ -238,6 +238,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://www.aclweb.org/anthology/W06-3812)
   - [[Python Reference]](https://github.com/sanmayaj/ChineseWhispers)
   
+- **An Efficient Algorithm for Large-scale Detection of Protein Families (Nucleic Acids Research 2002)**
+  - Anton Enright, Stijn Van Dongen, and Christos Ouzounis
+  - [[Paper]](https://academic.oup.com/nar/article/30/7/1575/2376029)
+  - [[Python Reference]](https://github.com/HarshHarwani/markov-clustering-for-graphs)
+  - [[Python Reference]](https://github.com/lucagiovagnoli/Markov_clustering-Graph_API)
+  
 ## Tensor Decomposition
 
 - **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
@@ -287,6 +293,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1509.07715)
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
+- **Large-Scale Multi-View Spectral Clustering via Bipartite Graph (AAAI 2015)**
+  - Yeqing Li, Feiping Nie, Heng Huang, and Junzhou Huang
+  - [[Paper]](https://pdfs.semanticscholar.org/9383/f08c697b8aa43782e16c9a57e089911584d8.pdf)
+  - [[Matlab Reference]](https://github.com/zzz123xyz/MVSC)
+  
 - **Self-Taught Spectral Clustering via Constraint Augmentation (SDM 2014)**
   - Xiang Wang, Jun Wang, Buyue Qian, Fei Wang and Ian Davidson
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.48)
@@ -296,6 +307,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Xiang Wang, Buyue Qian, Jieping Ye, and Ian Davidson
   - [[Paper]](http://www2.cs.uh.edu/~ceick/DM/P4_DM4.pdf)
   - [[Matlab Reference]](https://github.com/gnaixgnaw/CSP)
+  
+- **Co-clustering for directed graphs: the Stochastic co-Blockmodel and spectral algorithm Di-Sim (ArXiv 2012)**
+  - Karl Rohe, Tai Qin, and Bin Yu
+  - [[Paper]](https://arxiv.org/abs/1204.2296)
+  - [[Matlab Reference]](https://github.com/karlrohe/disim)
   
 - **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
@@ -345,6 +361,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Xiaoyan Lu, Konstantin Kuzmin, Mingming Chen, and Boleslaw K Szymanski
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.2)
   - [[Python Reference]](https://github.com/annemorvan/DBMSTClu)
+  
+- **Graph Sketching-based Space-efficient Data Clustering (SDM 2018)**
+  - Mohsen Saadatpour, Sayyed Kamyar Izadi, Mohammad Nasirifar, Hamed Kavoosi
+  - [[Paper]](https://www.researchgate.net/publication/326622737_Priority-based_clustering_in_weighted_graph_streams)
+  - [[Java Reference]](https://github.com/farnasirim/pri-bas-clu)
   
 - **Graph Learning for Multiview Clustering (IEEE Transactions on Cybernetics 2017)**
   - Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, and Jamal Atif
@@ -397,6 +418,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Yu-Hsiang Fu, Chung-Yuan Huang, and Chuen-Tsai Sun
   - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
   - [[Python Reference]](https://github.com/yuhsiangfu/Hierarchical-Arc-Merging)
+  
+- **Query-oriented Graph Clustering (PAKDD 2017)**
+  -  Li-Yen Kuo, Chung-Kuang Chou, and Ming-Syan Chen
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_58)
+  - [[Python Reference]](https://github.com/iankuoli/QGC)
   
 - **Detecting Community Structures in Social Networks by Graph Sparsification (CODS 2016)**
   - Partha Basuchowdhuri, Satyaki Sikdar, Sonu Shreshtha, and Subhasis Majumder
