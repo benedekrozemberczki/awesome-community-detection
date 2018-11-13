@@ -121,9 +121,14 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/RobRomijnders/bigclam)
   
 - **Symmetric Nonnegative Matrix Factorization for Graph Clustering (SDM 2012)**
-  - Da Kuang, Chris Ding and Haesun Park
+  - Da Kuang, Chris Ding, and Haesun Park
   - [[Paper]](https://www.cc.gatech.edu/~hpark/papers/DaDingParkSDM12.pdf)
   - [[Matlab Reference]](https://github.com/dakuang/symnmf)
+  
+- **A Model-based Approach to Attributed Graph Clustering (SIGMOID 2012)**
+  - Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng, and James Cheng
+  - [[Paper]](http://www-std1.se.cuhk.edu.hk/~hcheng/paper/BAGC_sigmod12.pdf)
+  - [[Matlab Reference]](https://github.com/zhiqiangxu2001/BAGC)
   
 - **Overlapping Community Detection Using Bayesian Non-negative Matrix Factorization (Physical Review E 2011)**
   - Ionnis Psorakis, Stephen Roberts, Mark Ebden, and Ben Sheldon
