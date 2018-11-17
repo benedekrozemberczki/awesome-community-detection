@@ -185,9 +185,9 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[C++ Reference]](https://github.com/ahollocou/walkscan)
   
 - **Limited Random Walk Algorithm for Big Graph Data Clustering (Journal of Big Data 2016)**
- - Honglei Zhang, Jenni Raitoharju, Serkan Kiranyaz, and Moncef Gabbouj
- - [[Paper]](https://arxiv.org/abs/1606.06450)
- - [[C++ Reference]](https://github.com/harleyzhang/LRW)
+  - Honglei Zhang, Jenni Raitoharju, Serkan Kiranyaz, and Moncef Gabbouj
+  - [[Paper]](https://arxiv.org/abs/1606.06450)
+  - [[C++ Reference]](https://github.com/harleyzhang/LRW)
   
 - **Community Detection Based on Structure and Content: A Content Propagation Perspective (CIKM 2015)**
   - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
