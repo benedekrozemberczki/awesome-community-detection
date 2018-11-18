@@ -25,7 +25,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
-  - Benedek Rozemberczki, Ryan Davies, Rik Sarkar and Charles Sutton
+  - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
@@ -50,7 +50,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Java Reference]](http://nlp.csai.tsinghua.edu.cn//~tcc/datasets/simplified_CNRL.zip)
   
 - **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (ArXiv 2018)**
-  - Seiji Maekawa, Koh Takeuch and Makoto Onizuka 
+  - Seiji Maekawa, Koh Takeuch, and Makoto Onizuka 
   - [[Paper]](https://arxiv.org/abs/1810.00946)
   - [[Python Reference]](https://github.com/seijimaekawa/NAGC)
   
@@ -90,7 +90,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/LifangHe/KDD16_HAM)
   
 - **Community Detection via Fused Loadings Principal Component Analysis (2016)**
-  - Richard Samworth, Yang Feng and Yi Yu
+  - Richard Samworth, Yang Feng, and Yi Yu
   - [[R Reference]](https://github.com/cran/FusedPCA)
 
 - **Feature Extraction via Multi-view Non-negative Matrix Factorization with Local Graph Regularization (IEEE ICIP 2015)**
@@ -99,7 +99,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Matlab Reference]](https://github.com/DUT-DIPLab/Graph-Multi-NMF-Feature-Clustering)
   
 - **A Uniﬁed Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization (IEEE TOC 2015)**
-  - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng
+  - Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang, and Dan Meng
   - [[Paper]](http://yangliang.github.io/pdf/06985550.pdf)
   - [[Matlab Reference]](http://yangliang.github.io/code/LSGR.rar)
   
@@ -137,7 +137,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Deep Learning
 - **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
-  - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao and Francoise Fogelman-Soulie
+  - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao, and Francoise Fogelman-Soulie
   - [[Paper]](http://yangliang.github.io/pdf/sr17.pdf)
   - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
   
