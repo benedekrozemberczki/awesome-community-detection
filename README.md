@@ -180,7 +180,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/ahollocou/multicom)
 
 - **Improving PageRank for Local Community Detection (ArXiv 2016)**
-  - Alexandre Hollocou, Thomas Bonald and Marc Lelarge
+  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
   - [[Paper]](https://arxiv.org/abs/1610.08722)
   - [[C++ Reference]](https://github.com/ahollocou/walkscan)
   
@@ -195,7 +195,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Matlab Reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
   
 - **Modeling Community Detection Using Slow Mixing Random Walks (IEEE Big Data 2015)**
-  - Ramezan Paravi Torghabeh and Narayana Prasad Santhanam
+  - Ramezan Paravi, Torghabeh Narayana, and Prasad Santhanam
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
   - [[Python Reference]](https://github.com/paravi/MarovCommunity)
   
@@ -205,12 +205,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[C++ Reference]](https://github.com/uwescience/GossipMap)
   
 - **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
-  - Joyce Jiyoung Whang, David F. Gleich and Inderjit S. Dhillon
+  - Joyce Jiyoung Whang, David F. Gleich, and Inderjit S. Dhillon
   - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
   - [[Python Reference]](https://github.com/pratham16/community-detection-by-seed-expansion)
   
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
-  - Jierui Xie and Boleslaw K Szymanski and Xiaoming Liu
+  - Jierui Xie, Boleslaw K Szymanski, and Xiaoming Liu
   - [[Paper]](https://arxiv.org/pdf/1109.5720.pdf)
   - [[Java Reference]](https://github.com/sebastianliu/SLPA-community-detection)
   - [[Python Reference]](https://github.com/kbalasu/SLPA)
@@ -227,12 +227,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
   
 - **Bridge Bounding: A Local Approach for Efficient Community Discovery in Complex Networks (ArXiv 2009)**
-  - Symeon Papadopoulos, Andre Skusa, Athena Vakali, Yiannis Kompatsiaris, Nadine Wagner
+  - Symeon Papadopoulos, Andre Skusa, Athena Vakali, Yiannis Kompatsiaris, and Nadine Wagner
   - [[Paper]](https://arxiv.org/abs/0902.0871)
   - [[Java Reference]](https://github.com/kleinmind/bridge-bounding)
   
 - **The Map Equation (The European Physical Journal Special Topics 2009)**
-  - Martin Rossvall and Daniel Axelsson, and Carl T Bergstrom
+  - Martin Rossvall, Daniel Axelsson, and Carl T Bergstrom
   - [[Paper]](https://arxiv.org/abs/0906.1405)
   - [[R Reference]](igraph.org/r/doc/cluster_infomap.html)
   - [[C Reference]](http://igraph.org/c/)
@@ -262,7 +262,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/FatemehSheikholeslami/EgoTen)
   
 - **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
-  - Furong Huang and  Animashree Anandkumar
+  - Furong Huang and Animashree Anandkumar
   - [[Paper]](https://www.semanticscholar.org/paper/Fast-Detection-of-Overlapping-Communities-via-on-Huang-Niranjan/356e6c7eacca6caa94a5a96f41a9c785064f5693)
   - [[C++ Reference]](https://github.com/mapleyustat/Fast-Detection-of-Overlapping-Communities-via-Online-Tensor-Methods)
 
@@ -284,7 +284,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Matlab reference]](https://github.com/yanhueiju/community_detection_J-SC)
 
 - **Local Lanczos Spectral Approximation for Community Detection (ECML PKDD 2017)**
-  - Pan Shi and He Kun and David Bindel and John Hopcroft
+  - Pan Shi, He Kun, David Bindel, and John Hopcroft
   - [[Paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
   - [[Python Reference]](https://github.com/PanShi2016/LLSA)
 
@@ -294,7 +294,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/cylindricalcow/FastSpectralClustering)
 
 - **Uncovering the Small Community Structure in Large Networks: a Local Spectral Approach (WWW 2015)**
-  - Li Yixuan and He Kun and David Bindel and John Hopcroft
+  - Li Yixuan, He Kun, David Bindel, and John Hopcroft
   - [[Paper]](https://arxiv.org/abs/1509.07715)
   - [[Python Reference]](https://github.com/YixuanLi/LEMON)
   
@@ -319,12 +319,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Matlab Reference]](https://github.com/karlrohe/disim)
   
 - **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
-  - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
+  - Aurelien Decelle, Florent Krzakala, Cristopher Moore, and Lenka Zdeborova
   - [[Paper]](https://arxiv.org/abs/1109.3041)
   - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
 - **Phase Transition in the Detection of Modules in Sparse Networks (Physical Review Letters 2011)**
-  - Aurelien Decelle, Florent Krzakala, Cristopher Moore and Lenka Zdeborova
+  - Aurelien Decelle, Florent Krzakala, Cristopher Moore, and Lenka Zdeborova
   - [[Paper]](https://arxiv.org/abs/1102.1182)
   - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
