@@ -363,12 +363,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/xil12008/adaptive_modularity)
   
 - **Graph sketching-based Space-efficient Data Clustering (SDM 2018)**
-  - Xiaoyan Lu, Konstantin Kuzmin, Mingming Chen, and Boleslaw K Szymanski
+  - Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, Jamal Atif
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.2)
   - [[Python Reference]](https://github.com/annemorvan/DBMSTClu)
   
-- **Graph Sketching-based Space-efficient Data Clustering (SDM 2018)**
-  - Mohsen Saadatpour, Sayyed Kamyar Izadi, Mohammad Nasirifar, Hamed Kavoosi
+- **Priority Based Clustering in Weighted Graph Streams (JISE 2018)**
+  - Mohsen Saadatpour, Sayyed Kamyar Izadi, Mohammad Nasirifar, and Hamed Kavoosi
   - [[Paper]](https://www.researchgate.net/publication/326622737_Priority-based_clustering_in_weighted_graph_streams)
   - [[Java Reference]](https://github.com/farnasirim/pri-bas-clu)
   
@@ -388,7 +388,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Java Reference]](https://github.com/he-tiantian/EGCPI)
   
 - **pSCAN: Fast and Exact Structural Graph Clustering (ICDE 2016)**
-  - T Lijun Chang, Wei Li, Xuemin Lin, Lu Qin, Wenjie Zhang 
+  - T Lijun Chang, Wei Li, Xuemin Lin, Lu Qin, and Wenjie Zhang 
   - [[Paper]](https://ieeexplore.ieee.org/document/7498245)
   - [[C++ Reference]](https://github.com/LijunChang/pSCAN)
   
@@ -435,7 +435,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/satyakisikdar/spanner-comm-detection)
   
 - **Community Detection in Complex Networks Using Density-Based Clustering Algorithm and Manifold Learning (Physica A 2016)**
-  - Tao Youa, Hui-Min Chenga, Yi-Zi Ninga, Ben-Chang Shiab, Zhong-Yuan Zhang
+  - Tao Youa, Hui-Min Chenga, Yi-Zi Ninga, Ben-Chang Shiab, and Zhong-Yuan Zhang
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437116304563)
   - [[Matlab Reference]](https://github.com/isaac-you/IsoFpd)
   
@@ -488,7 +488,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
 - **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
-  - Lambiotte, Renaud and Delvenne, J-C and Barahona, Mauricio
+  - Renaud Lambiotte, J-C Delvenne, and Mauricio Barahona
   - [[Paper]](https://arxiv.org/pdf/1502.00284.pdf)
   - [[Python Reference]](https://github.com/dingmartin/HeadTailCommunityDetection)
   
@@ -520,12 +520,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Executable Reference]](https://github.com/he-tiantian/FSPGA)
   
 - **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
-  - Xueying Bai, Peilin Yang and Xiaohu Shi
+  - Xueying Bai, Peilin Yang, and Xiaohu Shi
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
   - [[Matlab Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
   
 - **Fast Heuristic Algorithm for Multi-scale Hierarchical Community Detection (ASONAM 2017)**
-  - Eduar Castrillo, Elizabeth León and Jonatan Gómez
+  - Eduar Castrillo, Elizabeth León, and Jonatan Gómez
   - [[Paper]](https://arxiv.org/abs/1707.02362)
   - [[Python Reference]](https://github.com/eduarc/HAMUHI)
 
