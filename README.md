@@ -29,6 +29,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
+- **Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection (CIKM 2018)**
+  - anghua Ye, Chuan Chen, and Zibin Zheng
+  - [[Paper]](https://smartyfh.com/Documents/18DANMF.pdf)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/DANMF)
+  
 - **Learning Latent Factors for Community Identification and Summarization (IEEE Access 2018)**
   - Tiantian He, Lun Hu, Keith C. C. Chan, and Pengwei Hu 
   - [[Paper]](https://ieeexplore.ieee.org/document/8374421)
