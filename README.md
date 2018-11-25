@@ -257,7 +257,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 ## Tensor Decomposition
 
 - **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
-  - Caterina De Bacco, Eleanor A. Power, Daniel B. Larremore and Cristopher Moore
+  - Caterina De Bacco, Eleanor A. Power, Daniel B. Larremore, and Cristopher Moore
   - [[Paper]](https://arxiv.org/abs/1701.01369)
   - [[Python Reference]](https://github.com/cdebacco/MultiTensor)
   
