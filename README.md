@@ -147,7 +147,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
   
 - **Community Detection with Graph Neural Networks (ArXiv 2017)**
-  - Zhengdao Chen, Xiang Li, Joan Bruna
+  - Zhengdao Chen, Xiang Li, and Joan Bruna
   - [[Paper]](https://arxiv.org/abs/1705.08415)
   - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
   - [[Python Reference]](https://github.com/afansi/multiscalegnn)
@@ -158,7 +158,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Matlab Reference]](https://github.com/FakeTibbers/MGAE)
   
 - **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
-  - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhan
+  - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang, and Weixiong Zhan
   - [[Paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
   - [[Python Reference]](http://yangliang.github.io/code/DC.zip)
   
