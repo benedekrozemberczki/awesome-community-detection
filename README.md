@@ -163,7 +163,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](http://yangliang.github.io/code/DC.zip)
   
 - **Learning Deep Representations for Graph Clustering (AAAI 2014)**
-  - Fei Tian, Bin Gao, Qing Cui, Enhong Chen and Tie-Yan Liu
+  - Fei Tian, Bin Gao, Qing Cui, Enhong Chen, and Tie-Yan Liu
   - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527)
   - [[Python Reference]](https://github.com/quinngroup/deep-representations-clustering)
   
