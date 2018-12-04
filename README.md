@@ -194,9 +194,9 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1606.06450)
   - [[C++ Reference]](https://github.com/harleyzhang/LRW)
   
-- **Community Detection Based on Structure and Content: A Content Propagation Perspective (CIKM 2015)**
-  - Liyuan Liu, Linli Xu, Zhen Wangy, and Enhong Chen 
-  - [[Paper]](http://home.ustc.edu.cn/~llychina/papers/CommunityICDM15.pdf)
+- **Community Detection Based on Structure and Content: A Content Propagation Perspective (ICDM 2015)**
+  - Liyuan Liu, Linli Xu, Zhen Wang, and Enhong Chen 
+  - [[Paper]](https://liyuanlucasliu.github.io/pdf/Liyuan-Liu-ICDM.pdf)
   - [[Matlab Reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
   
 - **Modeling Community Detection Using Slow Mixing Random Walks (IEEE Big Data 2015)**
