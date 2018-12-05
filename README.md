@@ -377,6 +377,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[Python Reference]](https://github.com/xil12008/adaptive_modularity)
   
+- **Semi-Supervised Community Detection Using Structure and Size (ICDM 2018)**
+  - Arjun Bakshi, Srinivasan Parthasarathy, and Kannan Srinivasan
+  - [[Paper]](!!Missing!!)
+  - [[Python Reference]](https://github.com/abaxi/bespoke-icdm18)
+  
 - **Graph sketching-based Space-efficient Data Clustering (SDM 2018)**
   - Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, Jamal Atif
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.2)
@@ -436,7 +441,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 ## Centrality and Cuts
 
 - **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
-  - Yulin Che, Yulin Che, and Yulin Che
+  - Yulin Che, Shixuan Sun, and Qiong Luo
   - [[Paper]](https://dl.acm.org/citation.cfm?doid=3225058.3225063)
   - [[C++ Reference]](https://github.com/GraphProcessor/ppSCAN)
   
