@@ -183,6 +183,16 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
   - [[Paper]](https://hal.archives-ouvertes.fr/hal-01625444)
   - [[Python Reference]](https://github.com/ahollocou/multicom)
+  
+- **Krylov Subspace Approximation for Local Community Detection in Large Networks (ArXiv 2017)**
+  - Kun He, Pan Shi, David Bindel, and John E. Hopcroft
+  - [[Paper]](https://arxiv.org/pdf/1712.04823.pdf)
+  - [[Matlab Reference]](https://github.com/PanShi2016/LOSP_Plus)
+  
+- **Many Heads are Better than One: Local Community Detection by the Multi-Walker Chain (ICDM 2017)**
+  - Yuchen Bian, Jingchao Ni, Wei Cheng, and Zhang Xiang
+  - [[Paper]]https://ieeexplore.ieee.org/document/8215474)
+  - [[C++ Reference]](https://github.com/flyingdoog/MWC)
 
 - **Improving PageRank for Local Community Detection (ArXiv 2016)**
   - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
@@ -278,6 +288,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Locally-Biased Spectral Approximation for Community Detection (Knowledge-Based Systems 2018)**
+  - Pan Shi, Kun He, David Bindel, and John E.Hopcroft
+  - [[Paper]](https://pdfs.semanticscholar.org/d9e2/598b261a61c69d970e1c9eab7a50da4e458c.pdf)
+  - [[Python Reference]](https://github.com/PanShi2016/LBSA)
+  
 - **Community Detection on Euclidean Random Graphs (Electronic Journal of Statistics 2018)**
   - Abishek Sankararaman and Francois Baccelli
   - [[Paper]](hhttp://abishek90.github.io/CommDet.pdf)
