@@ -423,6 +423,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-40131-2_26)
   - [[Python Reference]](https://github.com/SnehaManjunatha/Local-Community-Detection)
   
+- **Community Detection in Networks with Node Attributes (ICDM 2013)**
+  - Jaewon Yang, Julian McAuley, and Jure Leskovec
+  - [[Paper]](https://www-cs.stanford.edu/~jure/pubs/cesna-icdm13.pdf)
+  - [[C++ Reference]](https://github.com/snap-stanford/snap/tree/master/examples/cesna)
+  
 ## Centrality and Cuts
 
 - **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
@@ -444,6 +449,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   -  Li-Yen Kuo, Chung-Kuang Chou, and Ming-Syan Chen
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_58)
   - [[Python Reference]](https://github.com/iankuoli/QGC)
+  
+- **Fast Heuristic Algorithm for Multi-scale Hierarchical Community Detection (ASONAM 2017)**
+  - Eduar Castrillo, Elizabeth León, and Jonatan Gómez
+  - [[Paper]](https://dl.acm.org/citation.cfm?doid=3110025.3110125)
+  - [[C++ Reference]](https://github.com/eduarc/WMW)
   
 - **Detecting Community Structures in Social Networks by Graph Sparsification (CODS 2016)**
   - Partha Basuchowdhuri, Satyaki Sikdar, Sonu Shreshtha, and Subhasis Majumder
