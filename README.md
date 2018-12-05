@@ -214,6 +214,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
   - [[Python Reference]](https://github.com/pratham16/community-detection-by-seed-expansion)
   
+- **Influence-Based Network-Oblivious Community Detection (ICDM 2013)**
+  - Nicola Barbieri, Francesco Bonchi, and Giuseppe Manco 
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6729581)
+  - [[Java  Reference]](https://github.com/gmanco/cwn)
+  
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
   - Jierui Xie, Boleslaw K Szymanski, and Xiaoming Liu
   - [[Paper]](https://arxiv.org/pdf/1109.5720.pdf)
