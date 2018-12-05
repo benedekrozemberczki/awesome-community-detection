@@ -382,6 +382,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[Matlab Reference]](https://github.com/kunzhan/MVGL)
   
+- **Local Higher-Order Graph Clustering (KDD 2017)**
+  - Hao Yin, Austin Benson, Jure Leskovec, and David Gleich 
+  - [[Paper]](https://cs.stanford.edu/~jure/pubs/mappr-kdd17.pdf)
+  - [[Python Reference]](https://github.com/thecamelrider/MAPPR-Community-detection)
+  - [[C++ SNAP Reference]](http://snap.stanford.edu/mappr/code.html)
+  
 - **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node’s Similarity (Complex Networks 2017)**
   - Raphael Tack, Fabien Tarissan, and Jean-Loup Guillaume
   - [[Paper]](https://arxiv.org/pdf/1705.04863.pdf)
@@ -448,6 +454,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Hooman Peiro Sajjad, Fatemeh Rahimian, and Vladimir Vlassov 
   - [[Paper]](https://ieeexplore.ieee.org/document/7335292)
   - [[Java Reference]](https://github.com/shps/mdc-community-detection)
+  
+- **Generalized Modularity for Community Detection (ECML 2015)**
+  - Mohadeseh Ganji, Abbas Seifi, Hosein Alizadeh, James Bailey, and Peter J. Stuckey
+  - [[Paper]](https://people.eng.unimelb.edu.au/mganji/papers/ECML15.pdf)
+  - [[Python Reference]](https://github.com/xiaoylu/ResolutionCommunityDetection)
   
 - **Online Community Detection for Large Complex Networks (IJCAI 2013)**
   - Wangsheng Zhang, Gang Pan, Zhaohui Wu and Shijian Li
