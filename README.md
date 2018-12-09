@@ -30,7 +30,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
 - **Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection (CIKM 2018)**
-  - anghua Ye, Chuan Chen, and Zibin Zheng
+  - Fanghua Ye, Chuan Chen, and Zibin Zheng
   - [[Paper]](https://smartyfh.com/Documents/18DANMF.pdf)
   - [[Python Reference]](https://github.com/benedekrozemberczki/DANMF)
   
