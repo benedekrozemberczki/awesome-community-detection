@@ -289,7 +289,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 ## Spectral Methods
 
 - **Locally-Biased Spectral Approximation for Community Detection (Knowledge-Based Systems 2018)**
-  - Pan Shi, Kun He, David Bindel, and John E.Hopcroft
+  - Pan Shi, Kun He, David Bindel, and John Hopcroft
   - [[Paper]](https://pdfs.semanticscholar.org/d9e2/598b261a61c69d970e1c9eab7a50da4e458c.pdf)
   - [[Python Reference]](https://github.com/PanShi2016/LBSA)
   
