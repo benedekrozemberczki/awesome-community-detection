@@ -22,7 +22,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 8. [Centrality and Cuts](#centrality-and-cuts) 
 9. [Physics Inspired](#physics-inspired) 
 10. [Others](#others) 
-  
+
 ## Factorization
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
   - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
@@ -33,7 +33,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Fanghua Ye, Chuan Chen, and Zibin Zheng
   - [[Paper]](https://smartyfh.com/Documents/18DANMF.pdf)
   - [[Python Reference]](https://github.com/benedekrozemberczki/DANMF)
-  
+
+- **Adaptive Community Detection Incorporating Topology and Content in Social Networks (Knowledge-Based Systems 2018)**
+  - Qin Meng, Jin Di, Lei Kai, Bogdan Gabrys, Katarzyna, Musial-Gabrys
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705118303885?dgcid=coauthor)
+  - [[Python Reference]](https://github.com/KuroginQin/ASCD)
+
 - **Learning Latent Factors for Community Identification and Summarization (IEEE Access 2018)**
   - Tiantian He, Lun Hu, Keith C. C. Chan, and Pengwei Hu 
   - [[Paper]](https://ieeexplore.ieee.org/document/8374421)
