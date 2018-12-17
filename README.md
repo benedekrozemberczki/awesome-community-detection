@@ -37,7 +37,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 - **Adaptive Community Detection Incorporating Topology and Content in Social Networks (Knowledge-Based Systems 2018)**
   - Qin Meng, Jin Di, Lei Kai, Bogdan Gabrys, Katarzyna, Musial-Gabrys
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705118303885?dgcid=coauthor)
-  - [[Python Reference]](https://github.com/KuroginQin/ASCD)
+  - [[Matlab Reference]](https://github.com/KuroginQin/ASCD)
 
 - **Learning Latent Factors for Community Identification and Summarization (IEEE Access 2018)**
   - Tiantian He, Lun Hu, Keith C. C. Chan, and Pengwei Hu 
