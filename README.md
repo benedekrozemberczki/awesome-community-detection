@@ -308,7 +308,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](hhttp://abishek90.github.io/CommDet.pdf)
   - [[Python Reference]](https://github.com/abishek90/Community-Detection-on-a-Spatial-Graph)
 
-- **Community detection by L0-penalized graph Laplacian (Electronic Journal of Statistics 2018)**
+- **Community Detection by L0-Penalized Graph Laplacian (Electronic Journal of Statistics 2018)**
   - Chong Chen, Ruibin Xi, and Nan Lin
   - [[Paper]](https://projecteuclid.org/euclid.ejs/1528769122)
   - [[Matlab Reference]](https://github.com/ChongC1990/L0Lap)
@@ -353,7 +353,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://www2.cs.uh.edu/~ceick/DM/P4_DM4.pdf)
   - [[Matlab Reference]](https://github.com/gnaixgnaw/CSP)
   
-- **Co-clustering for directed graphs: the Stochastic co-Blockmodel and spectral algorithm Di-Sim (ArXiv 2012)**
+- **Co-Clustering for Directed Graphs: the Stochastic Co-Blockmodel and Spectral Algorithm Di-Sim (ArXiv 2012)**
   - Karl Rohe, Tai Qin, and Bin Yu
   - [[Paper]](https://arxiv.org/abs/1204.2296)
   - [[Matlab Reference]](https://github.com/karlrohe/disim)
