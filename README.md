@@ -417,6 +417,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
   - [[Matlab Reference]](https://github.com/kunzhan/MVGL)
   
+- **DCEIL: Distributed Community Detection with the CEIL Score (IEEE HPCC 2017)**
+  - Akash Jain, Rupesh Nasre, Balaraman Ravindran 
+  - [[Paper]](https://ieeexplore.ieee.org/document/8291922)
+  - [[Java Reference]](https://github.com/RBC-DSAI-IITM/DCEIL)
+  
 - **Local Higher-Order Graph Clustering (KDD 2017)**
   - Hao Yin, Austin Benson, Jure Leskovec, and David Gleich 
   - [[Paper]](https://cs.stanford.edu/~jure/pubs/mappr-kdd17.pdf)
