@@ -427,6 +427,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://ieeexplore.ieee.org/document/8291922)
   - [[Java Reference]](https://github.com/RBC-DSAI-IITM/DCEIL)
   
+- **A Community Detection Algorithm Using Network Topologies and Rule-Based Hierarchical Arc-Merging Strategies (PLOS One 2017)**
+  - Yu-Hsiang Fu, Chung-Yuan Huang, and Chuen-Tsai Sun 
+  - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
+  - [[Python Reference]](https://github.com/yuhsiangfu/Hierarchical-Arc-Merging)
+  
 - **Local Higher-Order Graph Clustering (KDD 2017)**
   - Hao Yin, Austin Benson, Jure Leskovec, and David Gleich 
   - [[Paper]](https://cs.stanford.edu/~jure/pubs/mappr-kdd17.pdf)
