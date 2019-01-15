@@ -317,6 +317,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Pan Shi, He Kun, David Bindel, and John Hopcroft
   - [[Paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
   - [[Python Reference]](https://github.com/PanShi2016/LLSA)
+  
+- **Clustering Signed Networks with the Geometric Mean of Laplacians (NIPS 2016)**
+  - Pedro Mercado, Francesco Tudisco, and Matthias Hein
+  - [[Paper]](http://papers.nips.cc/paper/6164-clustering-signed-networks-with-the-geometric-mean-of-laplacians.pdf)
+  - [[Matlab Reference]](https://github.com/melopeo/GM)
 
 - **Spectral Clustering with Graph Filtering and Landmark Based Representation (ICASSP 2016)**
   - Nicolas Tremblay, Gilles Puy, Pierre Borgnat, Rémi Gribonval, and Pierre Vandergheynst
