@@ -458,6 +458,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://www-cs.stanford.edu/~jure/pubs/cesna-icdm13.pdf)
   - [[C++ Reference]](https://github.com/snap-stanford/snap/tree/master/examples/cesna)
   
+- **Detecting the Structure of Social Networks Using (α,β)-Communities (IWAMW 2011)**
+  - Jing He, John Hopcroft, Liang Hongyu, Supasorn Suwajanakorn, and Liaoruo Wang
+  - [[Paper]](https://ecommons.cornell.edu/bitstream/handle/1813/22415/WAW2011.pdf?sequence=2&isAllowed=y)
+  - [[Python Reference]](https://github.com/handasontam/Alpha-Beta-Communities)
+  
 ## Centrality and Cuts
 
 - **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
