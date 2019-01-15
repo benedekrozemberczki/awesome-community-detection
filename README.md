@@ -174,7 +174,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Label Propagation, Percolation and Random Walks
 
-- **Dynamic graph-based label propagation for density peaks clustering (Expert Systems 2019)**
+- **Dynamic Graph-Based Label Propagation for Density Peaks Clustering (Expert Systems 2019)**
   - Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi and Nooruldeen Nasih Qader
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417418304998?via%3Dihub)
   - [[Matlab Reference]](https://github.com/amjadseyedi/DPC-DLP)
