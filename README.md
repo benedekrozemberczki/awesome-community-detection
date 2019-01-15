@@ -293,6 +293,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Understanding Regularized Spectral Clustering via Graph Conductance (NIPS 2018)**
+  - Yilin Zhang and Karl Rohe
+  - [[Paper]](https://arxiv.org/abs/1806.01468)
+  - [[Python Reference]](https://github.com/crisbodnar/regularised-spectral-clustering)
+
 - **Locally-Biased Spectral Approximation for Community Detection (Knowledge-Based Systems 2018)**
   - Pan Shi, Kun He, David Bindel, and John Hopcroft
   - [[Paper]](https://pdfs.semanticscholar.org/d9e2/598b261a61c69d970e1c9eab7a50da4e458c.pdf)
