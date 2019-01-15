@@ -146,16 +146,17 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Matlab Reference]](https://github.com/ipsorakis/commDetNMF)
   
 ## Deep Learning
-- **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
-  - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao, and Francoise Fogelman-Soulie
-  - [[Paper]](http://yangliang.github.io/pdf/sr17.pdf)
-  - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
-  
-- **Community Detection with Graph Neural Networks (ArXiv 2017)**
+
+- **Supervised Community Detection with Line Graph Neural Networks (ICLR 2019)**
   - Zhengdao Chen, Xiang Li, and Joan Bruna
   - [[Paper]](https://arxiv.org/abs/1705.08415)
   - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
   - [[Python Reference]](https://github.com/afansi/multiscalegnn)
+
+- **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
+  - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao, and Francoise Fogelman-Soulie
+  - [[Paper]](http://yangliang.github.io/pdf/sr17.pdf)
+  - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
   
 - **MGAE: Marginalized Graph Autoencoder for Graph Clustering (CIKM 2017)**
   - Chun Wang, Shirui Pan, Guodong Long, Xingquabn Zhu, and Jing Jiang
