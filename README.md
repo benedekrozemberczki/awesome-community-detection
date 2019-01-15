@@ -619,3 +619,8 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Ludo Waltman and Nees Jan Van Eck
   - [[Paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
   - [[Python Reference]](https://github.com/chen198328/slm)
+  
+- **A Game-Theoretic Approach to Hypergraph Clustering (NIPS 2009)**
+  - Samuel R. Bulò and Marcello Pelillo
+  - [[Paper]](https://papers.nips.cc/paper/3714-a-game-theoretic-approach-to-hypergraph-clustering)
+  - [[Matlab Reference]](https://github.com/Schofield-Mao/Gametheory-Clustring)
