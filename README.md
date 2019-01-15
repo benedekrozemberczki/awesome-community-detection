@@ -375,6 +375,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Temporal Methods
 
+- **Model-Based Clustering of Time-Evolving Networks through Temporal Exponential-Family Random Graph Models (Arxiv 2017)**
+  - Kevin H. Lee, Lingzhou Xue, and David R. Hunter
+  - [[Paper]](https://arxiv.org/abs/1712.07325)
+  - [[R Reference]](https://github.com/amalag-19/dynERGM_R)
+  
 - **Sequential Detection of Temporal Communities by Estrangement Confinement (Scientific Reports 2012)**
   - Vikas Kawadia and Sameet Sreenivasan
   - [[Paper]](https://www.nature.com/articles/srep00794)
