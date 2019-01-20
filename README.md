@@ -309,7 +309,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 - **Community Detection on Euclidean Random Graphs (Electronic Journal of Statistics 2018)**
   - Abishek Sankararaman and Francois Baccelli
-  - [[Paper]](hhttp://abishek90.github.io/CommDet.pdf)
+  - [[Paper]](http://abishek90.github.io/CommDet.pdf)
   - [[Python Reference]](https://github.com/abishek90/Community-Detection-on-a-Spatial-Graph)
 
 - **Community Detection by L0-Penalized Graph Laplacian (Electronic Journal of Statistics 2018)**
