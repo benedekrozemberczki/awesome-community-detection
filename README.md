@@ -199,7 +199,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 - **Many Heads are Better than One: Local Community Detection by the Multi-Walker Chain (ICDM 2017)**
   - Yuchen Bian, Jingchao Ni, Wei Cheng, and Zhang Xiang
-  - [[Paper]]https://ieeexplore.ieee.org/document/8215474)
+  - [[Paper]](https://ieeexplore.ieee.org/document/8215474)
   - [[C++ Reference]](https://github.com/flyingdoog/MWC)
 
 - **Improving PageRank for Local Community Detection (ArXiv 2016)**
