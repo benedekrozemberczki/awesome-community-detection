@@ -360,7 +360,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 - **Co-Clustering for Directed Graphs: the Stochastic Co-Blockmodel and Spectral Algorithm Di-Sim (ArXiv 2012)**
   - Karl Rohe, Tai Qin, and Bin Yu
   - [[Paper]](https://arxiv.org/abs/1204.2296)
-  - [[Matlab Reference]](https://github.com/karlrohe/disim)
+  - [[R Reference]](https://github.com/karlrohe/disim)
   
 - **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore, and Lenka Zdeborova
