@@ -69,6 +69,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
   - [[Python Reference]](https://github.com/benedekrozemberczki/M-NMF)
+  - [[Matlab Reference]](https://github.com/AnryYang/M-NMF)
   
 - **Self-weighted Multiview Clustering with Multiple Graphs (IJCAI 17)**
   - Feiping Nie, Jing Li, and Xuelong Li
