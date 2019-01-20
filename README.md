@@ -38,6 +38,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Fanghua Ye, Chuan Chen, and Zibin Zheng
   - [[Paper]](https://smartyfh.com/Documents/18DANMF.pdf)
   - [[Python Reference]](https://github.com/benedekrozemberczki/DANMF)
+  - [[Matlab Reference]](https://github.com/smartyfh/DANMF)
 
 - **Adaptive Community Detection Incorporating Topology and Content in Social Networks (Knowledge-Based Systems 2018)**
   - Qin Meng, Jin Di, Lei Kai, Bogdan Gabrys, Katarzyna, Musial-Gabrys
