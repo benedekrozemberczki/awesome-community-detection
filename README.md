@@ -58,7 +58,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 - **Sentiment-driven Community Profiling and Detection on Social Media (ACM HSM 2018)**
   - Amin Salehi, Mert Ozer, and Hasan Davulcu
   - [[Paper]](https://arxiv.org/abs/1805.04191)
-  - [[Python Reference]](https://github.com/amin-salehi/GSNMF)
+  - [[Matlab Reference]](https://github.com/amin-salehi/GSNMF)
   
 - **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
   - Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, and Leyu Lin
