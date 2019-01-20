@@ -205,7 +205,8 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 - **Improving PageRank for Local Community Detection (ArXiv 2016)**
   - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
   - [[Paper]](https://arxiv.org/abs/1610.08722)
-  - [[C++ Reference]](https://github.com/ahollocou/walkscan)
+  - [[C Reference]](https://github.com/ahollocou/walkscan)
+  - [[Python Reference]](https://github.com/ahollocou/walkscan)
   
 - **Limited Random Walk Algorithm for Big Graph Data Clustering (Journal of Big Data 2016)**
   - Honglei Zhang, Jenni Raitoharju, Serkan Kiranyaz, and Moncef Gabbouj
