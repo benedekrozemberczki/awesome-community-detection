@@ -642,7 +642,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 - **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
   - Ludo Waltman and Nees Jan Van Eck
   - [[Paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
-  - [[Python Reference]](https://github.com/chen198328/slm)
+  - [[R Reference]](https://github.com/chen198328/slm)
   
 - **Bayesian Hierarchical Community Discovery (NIPS 2013)**
   - Charles Blundell and Yee Whye Teh
