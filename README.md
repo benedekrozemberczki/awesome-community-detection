@@ -622,7 +622,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 - **Fast Heuristic Algorithm for Multi-scale Hierarchical Community Detection (ASONAM 2017)**
   - Eduar Castrillo, Elizabeth León, and Jonatan Gómez
   - [[Paper]](https://arxiv.org/abs/1707.02362)
-  - [[Python Reference]](https://github.com/eduarc/HAMUHI)
+  - [[C++ Reference]](https://github.com/eduarc/HAMUHI)
 
 - **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2014)**
   - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
