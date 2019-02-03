@@ -154,6 +154,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1705.08415)
   - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
   - [[Python Reference]](https://github.com/afansi/multiscalegnn)
+  
+- **CommunityGAN: Community Detection with Generative Adversarial Nets (ArXiv 2019)**
+  - Yuting Jia, Qinqin Zhang, Weinan Zhang, Xinbing Wang
+  - [[Paper]](https://arxiv.org/abs/1901.06631)
+  - [[Python Reference]](https://github.com/SamJia/CommunityGAN)
 
 - **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
   - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao, and Francoise Fogelman-Soulie
