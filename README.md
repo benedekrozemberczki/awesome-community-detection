@@ -619,6 +619,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
   - [[Executable Reference]](https://github.com/he-tiantian/FSPGA)
   
+- **Watset: Automatic Induction of Synsets for a Graph of Synonyms (ACL 2017)**
+  - Dmitry Ustalov, Alexander Panchenko, and Chris Biemann
+  - [[Paper]](https://doi.org/10.18653/v1/P17-1145)
+  - [[Python Reference]](https://github.com/dustalov/watset)
+  - [[Java Reference]](https://github.com/nlpub/watset-java)
+  
 - **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
   - Xueying Bai, Peilin Yang, and Xiaohu Shi
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
