@@ -175,6 +175,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://dl.acm.org/citation.cfm?id=3132967)
   - [[Matlab Reference]](https://github.com/FakeTibbers/MGAE)
   
+- **Graph Clustering with Dynamic Embedding (Arxiv 2017)**
+  - Carl Yang, Mengxiong Liu, Zongyi Wang, Liyuan Liu, Jiawei Han
+  - [[Paper]](https://arxiv.org/abs/1712.08249)
+  - [[Python Reference]](https://github.com/yangji9181/GRACE)
+  
 - **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
   - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang, and Weixiong Zhan
   - [[Paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
