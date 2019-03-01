@@ -160,10 +160,10 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1901.06631)
   - [[Python Reference]](https://github.com/SamJia/CommunityGAN)
   
-- **An Adaptive Graph Learning method based on dual data representations for clustering (Pattern Recognition 2018)**
-  - Yuting Jia, Qinqin Zhang, Weinan Zhang, Xinbing Wang
-  - [[Paper]](https://arxiv.org/abs/1901.06631)
-  - [[Python Reference]](https://github.com/SamJia/CommunityGAN)
+- **An Adaptive Graph Learning Method Based on Dual Data Representations for Clustering (Pattern Recognition 2018)**
+  - Tianchi Liu, Chamara Kasun, Liyanaarachchi Lekamalage Guang-Bin Huang, and Zhiping Lin
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320317304880)
+  - [[Matlab Reference]](https://github.com/liut0012/ELM-CLR)
 
 - **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
   - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao, and Francoise Fogelman-Soulie
