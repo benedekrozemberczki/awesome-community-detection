@@ -24,15 +24,16 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 10. [Others](#others) 
 
 ## Factorization
-- **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (Arxiv 2018)**
-  - Seiji Maekawa, Koh Takeuch, Makoto Onizuka
-  - [[Paper]](https://arxiv.org/abs/1810.00946)
-  - [[Python Reference]](https://github.com/seijimaekawa/NAGC)
-  
+
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
   - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
+  
+- **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (Arxiv 2018)**
+  - Seiji Maekawa, Koh Takeuch, Makoto Onizuka
+  - [[Paper]](https://arxiv.org/abs/1810.00946)
+  - [[Python Reference]](https://github.com/seijimaekawa/NAGC)
   
 - **Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection (CIKM 2018)**
   - Fanghua Ye, Chuan Chen, and Zibin Zheng
