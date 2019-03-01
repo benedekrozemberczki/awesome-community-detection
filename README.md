@@ -483,7 +483,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://ieeexplore.ieee.org/document/7498245)
   - [[C++ Reference]](https://github.com/LijunChang/pSCAN)
   
-- **Intra-Graph Clustering using Collaborative Similarity Measure (DPCD 2015)**
+- **Intra-Graph Clustering Using Collaborative Similarity Measure (DPCD 2015)**
   - Waqas Nawaz, Kifayat-Ullah Khan, Young-Koo Lee, and Sungyoung Lee
   - [[Paper]](https://link.springer.com/article/10.1007/s10619-014-7170-x)
   - [[Java Reference]](https://github.com/WNawaz/CSM)
