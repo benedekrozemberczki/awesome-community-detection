@@ -666,7 +666,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/article/10.1007/s00354-016-0206-1)
   - [[Scala Reference]](https://github.com/weichuliu/hetero_scala)
   
-- **Integration of graph clustering with ant colony optimization for feature selection (Knowledge-Based Systems 2015)**
+- **Integration of Graph Clustering with Ant Colony Optimization for Feature Selection (Knowledge-Based Systems 2015)**
   - Parham Moradi, Mehrdad Rostami
   - [[Paper]](http://www.sciencedirect.com/science/article/pii/S0950705115001458)
   - [[Matlab Reference]](https://github.com/XuesenYang/Graph-clustering-with-ant-colony-optimization-for-feature-selection)  
