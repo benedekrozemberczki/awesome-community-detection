@@ -126,7 +126,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2644179)
   - [[Matlab Reference]](https://github.com/xiangyongcao/Variational-EM-for-Community-Detection)
   
-  - **Improved Graph Clustering (Transactions on Information Network Theory 2014)**
+- **Improved Graph Clustering (Transactions on Information Network Theory 2014)**
   - Yudong Chen, Sujay Sanghavi, Huan Xu 
   - [[Paper]](https://ieeexplore.ieee.org/document/6873307)
   - [[Matlab Reference]](https://github.com/sara-karami/improved_graph_clustering)
