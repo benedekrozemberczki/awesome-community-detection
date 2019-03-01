@@ -650,6 +650,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Eduar Castrillo, Elizabeth León, and Jonatan Gómez
   - [[Paper]](https://arxiv.org/abs/1707.02362)
   - [[C++ Reference]](https://github.com/eduarc/HAMUHI)
+  
+- **Time series clustering via community detection in networks (Information Sciences 2016)**
+  - Leonardo N. Ferreira and Liang Zhao
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S002002551500554X)
+  - [[R Reference]](https://github.com/lnferreira/time_series_clustering_via_community_detection)
 
 - **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2014)**
   - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
