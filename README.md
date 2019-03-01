@@ -488,6 +488,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://ieeexplore.ieee.org/document/7498245)
   - [[C++ Reference]](https://github.com/LijunChang/pSCAN)
   
+- **Node-Centric Detection of OverlappingCommunities in Social Networks (IWSCN 2016)**
+  - Yehonatan Cohen, Danny Hendler, Amir Rubin
+  - [[Paper]](https://arxiv.org/pdf/1607.01683.pdf)
+  - [[Java Reference]](https://github.com/amirubin87/NECTAR)
+  
 - **Intra-Graph Clustering Using Collaborative Similarity Measure (DPCD 2015)**
   - Waqas Nawaz, Kifayat-Ullah Khan, Young-Koo Lee, and Sungyoung Lee
   - [[Paper]](https://link.springer.com/article/10.1007/s10619-014-7170-x)
