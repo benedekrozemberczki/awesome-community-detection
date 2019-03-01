@@ -534,6 +534,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://dl.acm.org/citation.cfm?doid=3110025.3110125)
   - [[C++ Reference]](https://github.com/eduarc/WMW)
   
+- **Community Detection in Signed Networks: the Role of Negative Ties in Different Scales (Scientific Reports 2015)**
+  - Pouya Esmailian and Mahdi Jalili
+  - [[Paper]](https://www.nature.com/articles/srep14339)
+  - [[Java Reference]](https://github.com/pouyaesm/signed-community-detection)  
+  
 - **Detecting Community Structures in Social Networks by Graph Sparsification (CODS 2016)**
   - Partha Basuchowdhuri, Satyaki Sikdar, Sonu Shreshtha, and Subhasis Majumder
   - [[Paper]](http://dl.acm.org/citation.cfm?id=2888479)
