@@ -323,6 +323,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Scalable Spectral Clustering Using Random Binning Features (KDD 2018)**
+  - Lingfei Wu, Pin-Yu Chen, Ian En-Hsu Yen, Fangli Xu, Yinglong Xia, and Charu Aggarwal 
+  - [[Paper]](https://arxiv.org/abs/1805.11048)
+  - [[Matlab Reference]](https://github.com/IBM/SpectralClustering_RandomBinning)
+
 - **Community Detection and Stochastic Block Models: Recent Developments (JMLR 2018)**
   - Emmanuel Abbe
   - [[Paper]](https://arxiv.org/pdf/1703.10146v1.pdf)
