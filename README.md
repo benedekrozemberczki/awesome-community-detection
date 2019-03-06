@@ -348,6 +348,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](http://ecmlpkdd2017.ijs.si/papers/paperID161.pdf)
   - [[Python Reference]](https://github.com/PanShi2016/LLSA)
   
+- **AMOS: An Automated Model Order Selection Algorithm for Spectral Graph Clustering (ICASSP 2017)**
+  - Pin-Yu Chen, Thibaut Gensollen, and Alfred O. Hero III 
+  - [[Paper]](https://arxiv.org/abs/1609.06457)
+  - [[Python Reference]](https://github.com/tgensol/AMOS)
+  
 - **Clustering Signed Networks with the Geometric Mean of Laplacians (NIPS 2016)**
   - Pedro Mercado, Francesco Tudisco, and Matthias Hein
   - [[Paper]](http://papers.nips.cc/paper/6164-clustering-signed-networks-with-the-geometric-mean-of-laplacians.pdf)
