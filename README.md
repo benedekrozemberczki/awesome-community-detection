@@ -58,13 +58,18 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 - **Sentiment-driven Community Profiling and Detection on Social Media (ACM HSM 2018)**
   - Amin Salehi, Mert Ozer, and Hasan Davulcu
-  - [[Paper]](https://arxiv.org/abs/1805.04191)
+  - [[Paper]](https://arxiv.org/pdf/1810.06917v1.pdf)
   - [[Matlab Reference]](https://github.com/amin-salehi/GSNMF)
   
-- **A Unified Framework for Community Detection and Network Representation Learning (TKDE 2018)**
-  - Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, and Leyu Lin
+- **TNE: A Latent Model for Representation Learning on Networks (Arxiv 2018)**
+  - Abdulkadir Çelikkanat and Fragkiskos D. Malliaros 
   - [[Paper]](https://arxiv.org/pdf/1611.06645.pdf)
-  - [[Java Reference]](http://nlp.csai.tsinghua.edu.cn//~tcc/datasets/simplified_CNRL.zip)
+  - [[Python Reference]](https://github.com/abdcelikkanat/TNE)
+  
+- **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (Arxiv 2018)**
+  - Seiji Maekawa, Koh Takeuch, Makoto Onizuka
+  - [[Paper]](https://arxiv.org/abs/1810.00946)
+  - [[Python Reference]](https://github.com/seijimaekawa/NAGC)
   
 - **Community Preserving Network Embedding (AAAI 17)**
   - Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
