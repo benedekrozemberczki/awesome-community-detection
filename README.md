@@ -323,6 +323,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Community Detection and Stochastic Block Models: Recent Developments (JMLR 2018)**
+  - Emmanuel Abbe
+  - [[Paper]](https://arxiv.org/pdf/1703.10146v1.pdf)
+  - [[Python Reference]](https://github.com/yashpatel5400/anonychain)
+
 - **Understanding Regularized Spectral Clustering via Graph Conductance (NIPS 2018)**
   - Yilin Zhang and Karl Rohe
   - [[Paper]](https://arxiv.org/abs/1806.01468)
