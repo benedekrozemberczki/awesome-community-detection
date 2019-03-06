@@ -430,6 +430,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Temporal Methods
 
+- **Temporally Evolving Community Detection and Prediction in Content-Centric Networks (ECML 2018)**
+  - Ana Paula Appel, Renato L. F. Cunha, Charu C. Aggarwal, and Marcela Megumi Terakado 
+  - [[Paper]](https://arxiv.org/pdf/1807.06560v1.pdf)
+  - [[Python Reference]](https://github.com/renatolfc/chimera-stf)
+
 - **Model-Based Clustering of Time-Evolving Networks through Temporal Exponential-Family Random Graph Models (Arxiv 2017)**
   - Kevin H. Lee, Lingzhou Xue, and David R. Hunter
   - [[Paper]](https://arxiv.org/abs/1712.07325)
