@@ -338,6 +338,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://projecteuclid.org/euclid.ejs/1528769122)
   - [[Matlab Reference]](https://github.com/ChongC1990/L0Lap)
   
+- **Phase Transitions and a Model Order Selection Criterion for Spectral Graph Clustering (IEEE TSP 2018)**
+  - Pin-Yu Chen and Alfred O. Hero
+  - [[Paper]](https://arxiv.org/abs/1604.03159)
+  - [[Python Reference]](https://github.com/tgensol/AMOS)
+  
 - **An Algorithm J-SC of Detecting Communities in Complex Networks (Physics Letters A 2017)**
   - Fang Hu, Mingzhu Wang, Yanran Wang, Zhehao Hong, and Yanhui Zhu
   - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0375960117308678)
