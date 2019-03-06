@@ -477,6 +477,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.2)
   - [[Python Reference]](https://github.com/annemorvan/DBMSTClu)
   
+- **Hierarchical Graph Clustering using Node Pair Sampling (Arxiv 2018)**
+  - Thomas Bonald, Bertrand Charpentier, Alexis Galland and Alexandre Hollocou
+  - [[Paper]](https://arxiv.org/pdf/1806.01664v2.pdf)
+  - [[Python Reference]](https://github.com/tbonald/paris)
+  
 - **Priority Based Clustering in Weighted Graph Streams (JISE 2018)**
   - Mohsen Saadatpour, Sayyed Kamyar Izadi, Mohammad Nasirifar, and Hamed Kavoosi
   - [[Paper]](https://www.researchgate.net/publication/326622737_Priority-based_clustering_in_weighted_graph_streams)
