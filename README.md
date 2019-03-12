@@ -575,6 +575,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
   - [[Python Reference]](https://github.com/yuhsiangfu/Hierarchical-Arc-Merging)
   
+- **Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters (KDD 2017)**
+  -  Alessandro Epasto, Silvio Lattanzi, and Renato Paes Leme
+  - [[Paper]](https://www.eecs.yorku.ca/course_archive/2017-18/F/6412/reading/kdd17p145.pdf)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/EgoSplitting)
+  
 - **Query-oriented Graph Clustering (PAKDD 2017)**
   -  Li-Yen Kuo, Chung-Kuang Chou, and Ming-Syan Chen
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_58)
