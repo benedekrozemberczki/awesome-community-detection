@@ -433,6 +433,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://www.ml.uni-saarland.de/Publications/BueHei-pSpectralClustering2009.pdf)
   - [[Matlab Reference]](https://github.com/tbuehler/pSpectralClustering)
   
+- **Community structure in directed networks (Physical Review Letters 2008)**
+  - Elizabeth A. Leicht and Mark E. J. Newman 
+  - [[Paper]](https://arxiv.org/abs/0709.4500v1)
+  - [[Python Reference]](https://zhiyzuo.github.io/python-modularity-maximization/)
+
 ## Temporal Methods
 
 - **Temporally Evolving Community Detection and Prediction in Content-Centric Networks (ECML 2018)**
