@@ -25,6 +25,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Factorization
 
+- **Knowledge Graph Enhanced Community Detection and Characterization (WSDM 2019)**
+  - Shreyansh Bhatt, Swati Padhee, Amit Sheth, Keke Chen ,Valerie Shalin, Derek Doran, and Brandon Minnery 
+  - [[Paper]](https://dl.acm.org/authorize.cfm?key=N676882)
+  - [[Java Reference]](https://github.com/shreyanshbhatt/KnowledgeGraph_in_CommunityDetection)
+
 - **Graph Embedding with Self-Clustering (Arxiv 2018)**
   - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
   - [[Paper]](https://arxiv.org/abs/1802.03997)
