@@ -440,6 +440,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Temporal Methods
 
+- **DyPerm: Maximizing Permanence for Dynamic Community Detection (PKDD 2018)**
+  - Prerna Agarwal, Richa Verma, Ayush Agarwal, Tanmoy Chakraborty
+  - [[Paper]](https://arxiv.org/abs/1802.04593)
+  - [[Python Reference]](https://github.com/ayush14029/Dyperm-Code)
+
 - **Temporally Evolving Community Detection and Prediction in Content-Centric Networks (ECML 2018)**
   - Ana Paula Appel, Renato L. F. Cunha, Charu C. Aggarwal, and Marcela Megumi Terakado 
   - [[Paper]](https://arxiv.org/pdf/1807.06560v1.pdf)
