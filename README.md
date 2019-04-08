@@ -472,6 +472,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Cyclic Patterns
 
+- **Anti-community Detection in Complex Networks (SSDBM 2018)**
+  - Sebastian Lackner, Andreas Spitz, Matthias Weidemüller and Michael Gertz
+  - [[Paper]](https://dbs.ifi.uni-heidelberg.de/files/Team/slackner/publications/Lackner_et_al_2018_Anti_Communities.pdf)
+  - [[C Reference]](https://github.com/slackner/anti-community/)
+
 - **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node's Similarity (International Workshop on Complex Networks 2018)**
   - Tackx Raphaël, Fabien Tarissan, and Jean-Loup Guillaume
   - [[Paper]](https://www.researchgate.net/publication/321317139_ComSim_A_Bipartite_Community_Detection_Algorithm_Using_Cycle_and_Node%27s_Similarity)
