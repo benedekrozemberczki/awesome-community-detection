@@ -750,6 +750,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Ludo Waltman and Nees Jan Van Eck
   - [[Paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
   - [[R Reference]](https://github.com/chen198328/slm)
+  - [[Python Reference]](https://github.com/iosonofabio/slmpy)
   
 - **Bayesian Hierarchical Community Discovery (NIPS 2013)**
   - Charles Blundell and Yee Whye Teh
