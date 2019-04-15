@@ -517,7 +517,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](!!Missing!!)
   - [[Python Reference]](https://github.com/abaxi/bespoke-icdm18)
   
-- **Graph sketching-based Space-efficient Data Clustering (SDM 2018)**
+- **Graph Sketching-based Space-efficient Data Clustering (SDM 2018)**
   - Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, Jamal Atif
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.2)
   - [[Python Reference]](https://github.com/annemorvan/DBMSTClu)
@@ -619,6 +619,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - Yu-Hsiang Fu, Chung-Yuan Huang, and Chuen-Tsai Sun
   - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
   - [[Python Reference]](https://github.com/yuhsiangfu/Hierarchical-Arc-Merging)
+  
+- **Hidden Community Detection in Social Networks (Information Sciences 2018)**
+  - Kun He, Yingru Li, Sucheta Soundarajan, John E. Hopcroft
+  - [[Paper]](https://arxiv.org/pdf/1702.07462v1.pdf)
+  - [[Python Reference]](https://github.com/JHL-HUST/HiCode)
   
 - **Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters (KDD 2017)**
   -  Alessandro Epasto, Silvio Lattanzi, and Renato Paes Leme
