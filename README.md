@@ -25,6 +25,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Factorization
 
+- **GMC: Graph-based Multi-view Clustering (TKDE 2019)**
+  - Hao Wang, Yan Yang, Bing Liu
+  - [[Paper]](https://www.researchgate.net/publication/331602096_GMC_Graph-based_Multi-view_Clustering)
+  - [[Matlab Reference]](https://github.com/cshaowang/gmc)
+
 - **Knowledge Graph Enhanced Community Detection and Characterization (WSDM 2019)**
   - Shreyansh Bhatt, Swati Padhee, Amit Sheth, Keke Chen ,Valerie Shalin, Derek Doran, and Brandon Minnery 
   - [[Paper]](https://dl.acm.org/authorize.cfm?key=N676882)
