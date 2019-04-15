@@ -487,6 +487,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   
 ## Cyclic Patterns
 
+- **From Louvain to Leiden: Guaranteeing Well-connected Communities (Scientific Reports 2019)**
+  - Vincent Traag, Ludo Waltman, Nees Jan van Eck
+  - [[Paper]](https://arxiv.org/abs/1810.08473)
+  - [[C++ Reference]](https://github.com/vtraag/leidenalg)
+
 - **Anti-community Detection in Complex Networks (SSDBM 2018)**
   - Sebastian Lackner, Andreas Spitz, Matthias Weidemüller and Michael Gertz
   - [[Paper]](https://dbs.ifi.uni-heidelberg.de/files/Team/slackner/publications/Lackner_et_al_2018_Anti_Communities.pdf)
