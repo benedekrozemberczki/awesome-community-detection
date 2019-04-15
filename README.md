@@ -563,6 +563,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-40131-2_26)
   - [[Python Reference]](https://github.com/SnehaManjunatha/Local-Community-Detection)
   
+- **On the Maximum Quasi-Clique Problem (Discrete Applied Mathematics 2013)**
+  - Jeffrey Pattillo, Alexander Veremyev, Sergiy Butenko, and Vladimir Boginski
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0166218X12002843)
+  - [[Python Reference]](https://github.com/vishwass/QUAC)
+  
 - **Community Detection in Networks with Node Attributes (ICDM 2013)**
   - Jaewon Yang, Julian McAuley, and Jure Leskovec
   - [[Paper]](https://www-cs.stanford.edu/~jure/pubs/cesna-icdm13.pdf)
