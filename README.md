@@ -286,6 +286,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
   - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
   
+- **Graph Clustering Based on Structural/Attribute Similarities (WSDM 2009)**
+  - Yang Zhou, Hong Cheng, Jeffrey Xu Yu
+  - [[Paper]](http://www.vldb.org/pvldb/2/vldb09-175.pdf)
+  - [[Python Reference]](https://github.com/zhanghuijun-hello/Graph-Clustering-Based-on-Structural-Attribute-Similarities-)
+  
 - **Bridge Bounding: A Local Approach for Efficient Community Discovery in Complex Networks (ArXiv 2009)**
   - Symeon Papadopoulos, Andre Skusa, Athena Vakali, Yiannis Kompatsiaris, and Nadine Wagner
   - [[Paper]](https://arxiv.org/abs/0902.0871)
