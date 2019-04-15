@@ -703,6 +703,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1403.3795v1)
   - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
+- **Detecting Community Structure Using Label Propagation with Weighted Coherent Neighborhood Propinquity (Physica A 2013)**
+  - Hao Lou, Shenghong Li, and Yuxin Zhao
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437113002173)
+  - [[Java Reference]](https://github.com/mahdiabdollahpour/Detecting-Community-Structure/tree/master/src)
+  
 - **Parallel Community Detection on Large Networks with Propinquity Dynamics (KDD 2009)**
   - Yuzhou Zhang, Jianyong Wang, Yi Wang, and Lizhu Zhou 
   - [[Paper]](https://grid.cs.gsu.edu/~myan2/communitydetection/16.pdf)
