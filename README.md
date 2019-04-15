@@ -470,6 +470,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/pdf/1712.04337v1.pdf)
   - [[C++ Reference]](https://github.com/ahollocou/graph-streaming)
   
+- **RDYN⁠: Graph Benchmark Handling Community Dynamics  (Arxiv 2017)**
+  - Giulio Rossetti
+  - [[Paper]](https://academic.oup.com/comnet/article/5/6/893/3925036)
+  - [[Python Reference]](https://github.com/GiulioRossetti/RDyn)
+  
 - **Sequential Detection of Temporal Communities by Estrangement Confinement (Scientific Reports 2012)**
   - Vikas Kawadia and Sameet Sreenivasan
   - [[Paper]](https://www.nature.com/articles/srep00794)
