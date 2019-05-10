@@ -338,6 +338,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **A Unified Framework for Structured Graph Learning via Spectral Constraints (ArXiv 2019)**
+  - Sandeep Kumar, Jiaxi Ying, José Vinícius de Miranda Cardoso, and Daniel Palomar
+  - [[Paper]](https://arxiv.org/pdf/1904.09792.pdf)
+  - [[R Reference]](https://cran.r-project.org/web/packages/spectralGraphTopology/index.html)
+
 - **Scalable Spectral Clustering Using Random Binning Features (KDD 2018)**
   - Lingfei Wu, Pin-Yu Chen, Ian En-Hsu Yen, Fangli Xu, Yinglong Xia, and Charu Aggarwal 
   - [[Paper]](https://arxiv.org/abs/1805.11048)
