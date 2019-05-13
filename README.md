@@ -14,6 +14,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 	<img src="https://img.shields.io/badge/forks-50+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
+
 ##### Table of Contents  
 
 1. [Factorization](#factorization)  
