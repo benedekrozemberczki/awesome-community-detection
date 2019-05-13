@@ -9,7 +9,11 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
 <p align="center">
   <img width="460" src="coms.png">
 </p>
-
+<p align="center">
+	<img src="https://img.shields.io/badge/stars-300+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-50+-blue.svg"/>
+	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
+</p>
 ##### Table of Contents  
 
 1. [Factorization](#factorization)  
