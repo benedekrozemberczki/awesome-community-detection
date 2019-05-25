@@ -1,10 +1,10 @@
-# Awesome Community Detection
+# Awesome Community Detection Research Papers
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A collection of community detection papers with implementations.
 
-A similar collection on [[graph embedding]](https://github.com/benedekrozemberczki/awesome-graph-embedding) papers with implementations.
+Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) papers with implementations.
 
 <p align="center">
   <img width="460" src="coms.png">
