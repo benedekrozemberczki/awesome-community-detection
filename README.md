@@ -613,6 +613,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://ecommons.cornell.edu/bitstream/handle/1813/22415/WAW2011.pdf?sequence=2&isAllowed=y)
   - [[Python Reference]](https://github.com/handasontam/Alpha-Beta-Communities)
   
+- **Fast Unfolding of Communities in Large Networks (Journal of Statistical Mechanics 2008)**
+  - Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Renaud Lefebvre
+  - [[Paper]](https://arxiv.org/abs/0803.0476)
+  - [[Python]](https://python-louvain.readthedocs.io/en/latest/)
+  - [[C++ Parallel]](https://github.com/Exa-Graph/vite)
+  
 ## Centrality and Cuts
 
 - **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
