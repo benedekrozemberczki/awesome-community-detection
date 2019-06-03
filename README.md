@@ -489,16 +489,21 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Ana Paula Appel, Renato L. F. Cunha, Charu C. Aggarwal, and Marcela Megumi Terakado 
   - [[Paper]](https://arxiv.org/pdf/1807.06560v1.pdf)
   - [[Python Reference]](https://github.com/renatolfc/chimera-stf)
+  
+- **A Streaming Algorithm for Graph Clustering (Arxiv 2017)**
+  - Alexandre Hollocou, Julien Maudet, Thomas Bonald and Marc Lelarge
+  - [[Paper]](https://arxiv.org/pdf/1712.04337v1.pdf)
+  - [[C++ Reference]](https://github.com/ahollocou/graph-streaming)
 
 - **Model-Based Clustering of Time-Evolving Networks through Temporal Exponential-Family Random Graph Models (Arxiv 2017)**
   - Kevin H. Lee, Lingzhou Xue, and David R. Hunter
   - [[Paper]](https://arxiv.org/abs/1712.07325)
   - [[R Reference]](https://github.com/amalag-19/dynERGM_R)
   
-- **A Streaming Algorithm for Graph Clustering (Arxiv 2017)**
-  - Alexandre Hollocou, Julien Maudet, Thomas Bonald and Marc Lelarge
-  - [[Paper]](https://arxiv.org/pdf/1712.04337v1.pdf)
-  - [[C++ Reference]](https://github.com/ahollocou/graph-streaming)
+- **Dynamic Community Detection Based on Network Structural Perturbation and Topological Similarity (Journal of Statistical Mechanics 2017)**
+  - Peizhuo Wang, Lin Gao and Xiaoke Ma 
+  - [[Paper]](https://iopscience.iop.org/article/10.1088/1742-5468/2017/1/013401/meta)
+  - [[Matlab Reference]](https://github.com/WPZgithub/ESPRA)
   
 - **RDYN⁠: Graph Benchmark Handling Community Dynamics  (Arxiv 2017)**
   - Giulio Rossetti
