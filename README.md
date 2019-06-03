@@ -641,6 +641,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/pdf/1601.03958.pdf)
   - [[Python Reference]](https://github.com/melifluos/LSH-community-detection)
   
+- **A Polynomial Algorithm for Balanced Clustering via Graph Partitioning (EJOR 2018)**
+  - Luis-Evaristo Caraballo, José-Miguel Díaz-Báñez, Nadine Kroher
+  - [[Paper]](https://arxiv.org/abs/1801.03347)
+  - [[Python Reference]](https://github.com/varocaraballo/graph_partition_clustering)
+  
 - **A Community Detection Algorithm Using Network Topologies and Rule-based Hierarchical Arc-merging Strategies (PLOS 2018)**
   - Yu-Hsiang Fu, Chung-Yuan Huang, and Chuen-Tsai Sun
   - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187603)
