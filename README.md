@@ -326,6 +326,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   
 ## Tensor Decomposition
 
+- **Coupled Graphs and Tensor Factorization for Recommender Systems and Community Detection (TKDE 2018)**
+  - Vassilis N. Ioannidis, Ahmed S. Zamzam, Georgios B. Giannakis, Nicholas D. Sidiropoulos
+  - [[Paper]](https://arxiv.org/abs/1809.08353)
+  - [[Matlab reference]](https://github.com/bioannidis/Coupled_tensors_graphs)
+
 - **Community Detection, Link Prediction, and Layer Interdependence in Multilayer Networks (Physical Review E 2017)**
   - Caterina De Bacco, Eleanor A. Power, Daniel B. Larremore, and Cristopher Moore
   - [[Paper]](https://arxiv.org/abs/1701.01369)
