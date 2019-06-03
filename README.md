@@ -348,6 +348,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Spectral Clustering of Signed Graphs via Matrix Power Means (ICML 2019)**
+  - Pedro Mercado, Francesco Tudisco, Matthias Hein
+  - [[Paper]](https://arxiv.org/pdf/1905.06230v1.pdf)
+  - [[Matlab Reference]](https://github.com/melopeo/SPM)
+
 - **A Unified Framework for Structured Graph Learning via Spectral Constraints (ArXiv 2019)**
   - Sandeep Kumar, Jiaxi Ying, José Vinícius de Miranda Cardoso, and Daniel Palomar
   - [[Paper]](https://arxiv.org/pdf/1904.09792.pdf)
