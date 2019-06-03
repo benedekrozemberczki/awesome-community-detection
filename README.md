@@ -403,6 +403,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1609.06457)
   - [[Python Reference]](https://github.com/tgensol/AMOS)
   
+- **Enhanced Community Detection in Social Networks Using Active Spectral Clustering (SAC 2016)**
+  - Sarah Habashi, Nagia M. Ghanem, and Mohamed A. Ismail
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2851987)
+  - [[Matlab Reference]](https://github.com/sarahelhammadi/CDASC)
+  
 - **Clustering Signed Networks with the Geometric Mean of Laplacians (NIPS 2016)**
   - Pedro Mercado, Francesco Tudisco, and Matthias Hein
   - [[Paper]](http://papers.nips.cc/paper/6164-clustering-signed-networks-with-the-geometric-mean-of-laplacians.pdf)
