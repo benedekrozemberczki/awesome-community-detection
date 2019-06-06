@@ -640,11 +640,13 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Python]](https://python-louvain.readthedocs.io/en/latest/)
   - [[Python]](https://github.com/tsakim/Shuffled_Louvain)
   - [[C++ Parallel]](https://github.com/Exa-Graph/vite)
+  - [[C++]](https://github.com/Sotera/spark-distributed-louvain-modularity)
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
   - [[Javascript]](https://github.com/multivacplatform/louvain)
   - [[Java]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/BigChopH/Louvain-clustering)
+  - [[Scala]](https://github.com/Sotera/spark-distributed-louvain-modularity)
   
 ## Centrality and Cuts
 
