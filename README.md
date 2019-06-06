@@ -641,6 +641,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Python]](https://github.com/tsakim/Shuffled_Louvain)
   - [[C++ Parallel]](https://github.com/Exa-Graph/vite)
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
+  - [[Javascript]](https://github.com/multivacplatform/louvain)
   - [[Java]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/BigChopH/Louvain-clustering)
