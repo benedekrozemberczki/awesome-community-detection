@@ -625,6 +625,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/pdf/1607.01683.pdf)
   - [[Java Reference]](https://github.com/amirubin87/NECTAR)
   
+- **Graph Clustering with Density-Cut (Arxiv 2016)**
+  - Junming Shao, Qinli Yang, Jinhu Liu, Stefan Kramer
+  - [[Paper]](https://arxiv.org/abs/1606.00950)
+  - [[Go Reference]](https://github.com/askiada/GraphDensityCut)
+  
 - **Intra-Graph Clustering Using Collaborative Similarity Measure (DPCD 2015)**
   - Waqas Nawaz, Kifayat-Ullah Khan, Young-Koo Lee, and Sungyoung Lee
   - [[Paper]](https://link.springer.com/article/10.1007/s10619-014-7170-x)
