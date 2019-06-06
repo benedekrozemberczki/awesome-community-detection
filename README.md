@@ -639,6 +639,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Python]](https://python-louvain.readthedocs.io/en/latest/)
   - [[C++ Parallel]](https://github.com/Exa-Graph/vite)
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
+  - [[Java]](https://github.com/JoanWu5/Louvain)
   
 ## Centrality and Cuts
 
