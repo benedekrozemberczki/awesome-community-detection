@@ -317,6 +317,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Chris Biemann
   - [[Paper]](http://www.aclweb.org/anthology/W06-3812)
   - [[Python Reference]](https://github.com/sanmayaj/ChineseWhispers)
+  - [[Python Alternative]](https://github.com/nlpub/chinese-whispers-python)
   
 - **An Efficient Algorithm for Large-scale Detection of Protein Families (Nucleic Acids Research 2002)**
   - Anton Enright, Stijn Van Dongen, and Christos Ouzounis
