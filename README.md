@@ -830,7 +830,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
   - Nate Veldt, David Gleich, Anthony Wirth
   - [[Paper]](https://arxiv.org/abs/1903.05246)
-  - [[Python Reference]](https://github.com/nveldt/LearnResParams)
+  - [[Julia Reference]](https://github.com/nveldt/LearnResParams)
 
 - **Multiview Consensus Graph Clustering (IEEE TIP 2019)**
   - Kun Zhan and Feiping Nie and Jing Wang and Yi Yang
