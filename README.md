@@ -825,7 +825,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Ruby Reference]](https://github.com/duett/community-detection)
   
 ## Others
-  
+
+- **Multiview Consensus Graph Clustering (IEEE TIP 2019)**
+  - Kun Zhan and Feiping Nie and Jing Wang and Yi Yang
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/30346283)
+  - [[Matlab Reference]](https://github.com/kunzhan/MCGC)
+
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
   - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
