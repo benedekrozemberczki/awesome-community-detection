@@ -476,6 +476,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   
 ## Temporal Methods
 
+- **DynComm R Package - Dynamic Community Detection for Evolving Networks (Arxiv 2019)**
+  - Rui Portocarrero Sarmento, Luís Lemos, Mário Cordeiro, Giulio Rossetti, and Douglas Cardoso
+  - [[Paper]](https://arxiv.org/abs/1905.01498)
+  - [[R Reference]](https://github.com/softskillsgroup/DynComm-R-package)
+
 - **Block-Structure Based Time-Series Models For Graph Sequences (Arxiv 2018)**
   - Mehrnaz Amjadi and Theja Tulabandhula
   - [[Paper]](https://arxiv.org/pdf/1804.08796v2.pdf)
