@@ -634,6 +634,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://ecommons.cornell.edu/bitstream/handle/1813/22415/WAW2011.pdf?sequence=2&isAllowed=y)
   - [[Python Reference]](https://github.com/handasontam/Alpha-Beta-Communities)
   
+- **Multi-Netclust: An Efficient Tool for Finding Connected Clusters in Multi-Parametric Networks (IWAMW 2011)**
+  - Arnold Kuzniar, Somdutta Dhir, Harm Nijveen, Sándor Pongor, Jack A.M. Leunissen 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/20679333)
+  - [[C Reference]](https://github.com/arnikz/netclust)
+  
 - **Fast Unfolding of Communities in Large Networks (Journal of Statistical Mechanics 2008)**
   - Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Renaud Lefebvre
   - [[Paper]](https://arxiv.org/abs/0803.0476)
