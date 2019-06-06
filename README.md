@@ -608,6 +608,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - T Lijun Chang, Wei Li, Xuemin Lin, Lu Qin, and Wenjie Zhang 
   - [[Paper]](https://ieeexplore.ieee.org/document/7498245)
   - [[C++ Reference]](https://github.com/LijunChang/pSCAN)
+  - [[Scala]](https://github.com/dawnranger/spark-pscan)
   
 - **Node-Centric Detection of OverlappingCommunities in Social Networks (IWSCN 2016)**
   - Yehonatan Cohen, Danny Hendler, Amir Rubin
