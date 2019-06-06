@@ -836,6 +836,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Kun Zhan and Feiping Nie and Jing Wang and Yi Yang
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/30346283)
   - [[Matlab Reference]](https://github.com/kunzhan/MCGC)
+  
+- **Clubmark - Bench bencmarking Framework for the Clustering Algorithms Evaluation (ICDM 2018)**
+  - Artem Lutov, Mourad Khayati, Philippe Cudre-Mauroux
+  - [[Paper]](https://github.com/eXascaleInfolab/clubmark/blob/master/docs/clubmark.pdf)
+  - [[Python Reference]](https://github.com/eXascaleInfolab/clubmark/tree/master/algorithms)
 
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
