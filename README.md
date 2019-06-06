@@ -638,6 +638,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Renaud Lefebvre
   - [[Paper]](https://arxiv.org/abs/0803.0476)
   - [[Python]](https://python-louvain.readthedocs.io/en/latest/)
+  - [[Python]](https://github.com/tsakim/Shuffled_Louvain)
   - [[C++ Parallel]](https://github.com/Exa-Graph/vite)
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
   - [[Java]](https://github.com/JoanWu5/Louvain)
