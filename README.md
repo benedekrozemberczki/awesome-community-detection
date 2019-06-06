@@ -225,6 +225,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Fei Tian, Bin Gao, Qing Cui, Enhong Chen, and Tie-Yan Liu
   - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527)
   - [[Python Reference]](https://github.com/quinngroup/deep-representations-clustering)
+  - [[Python Alternative]](https://github.com/zepx/graphencoder)
   
 ## Label Propagation, Percolation and Random Walks
 
