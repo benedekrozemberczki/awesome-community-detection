@@ -787,6 +787,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
   - [[Executable Reference]](https://github.com/he-tiantian/FSPGA)
   
+- **Wiring together large single-cell RNA-seq sample collections (biorxiv 2018)**
+  - Nikolas Barkas, Viktor Petukhov, Daria Nikolaeva, Yaroslav Lozinsky, Samuel Demharter, Konstantin Khodosevich, Peter V. Kharchenko
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/460246v1)
+  - [[C++]](https://github.com/hms-dbmi/conos)
+  
 - **Watset: Automatic Induction of Synsets for a Graph of Synonyms (ACL 2017)**
   - Dmitry Ustalov, Alexander Panchenko, and Chris Biemann
   - [[Paper]](https://doi.org/10.18653/v1/P17-1145)
