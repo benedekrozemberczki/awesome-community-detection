@@ -640,6 +640,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[C++ Parallel]](https://github.com/Exa-Graph/vite)
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
   - [[Java]](https://github.com/JoanWu5/Louvain)
+  - [[Matlab]](https://github.com/JoanWu5/Louvain)
   
 ## Centrality and Cuts
 
