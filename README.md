@@ -444,6 +444,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://pdfs.semanticscholar.org/9383/f08c697b8aa43782e16c9a57e089911584d8.pdf)
   - [[Matlab Reference]](https://github.com/zzz123xyz/MVSC)
   
+- **Accurate Community Detection in the Stochastic Block Model via Spectral Algorithms (Arxiv 2014)**
+  - Se-Young Yun, Alexandre Proutiere
+  - [[Paper]](https://arxiv.org/abs/1412.7335)
+  - [[R Reference]](https://github.com/Jantg/Community_Detection)
+  
 - **Self-Taught Spectral Clustering via Constraint Augmentation (SDM 2014)**
   - Xiang Wang, Jun Wang, Buyue Qian, Fei Wang and Ian Davidson
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.48)
