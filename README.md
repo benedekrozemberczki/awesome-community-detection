@@ -117,6 +117,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1606.07668)
   - [[Julia Reference]](https://github.com/tatsuro-kawamoto/graphBIX)
   
+- **Subspace Based Network Community Detection Using Sparse Linear Coding (TKDE 2016)**
+  - Arif Mahmood and Michael Small 
+  - [[Paper]](https://ieeexplore.ieee.org/document/7312985)
+  - [[Python Reference]](https://github.com/DamonLiuTHU/Subspace-Based-Network-Community-Detection-Using-Sparse-Linear-Coding)
+  
 - **Joint Community and Structural Hole Spanner Detection via Harmonic Modularity (KDD 2016)**
   - Lifang He, Chun-Ta Lu, Jiaqi Mu, Jianping Cao, Linlin Shen, and Philip S Yu
   - [[Paper]](https://www.kdd.org/kdd2016/papers/files/rfp1184-heA.pdf)
