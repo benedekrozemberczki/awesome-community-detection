@@ -318,6 +318,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[C Reference]](http://igraph.org/c/)
   - [[Python Reference]](https://github.com/Tavpritesh/MapEquation)
   
+- **Biclique communities (Physical Review E  2008)**
+  - Sune Lehmann, Martin Schwartz, and Lars Kai Hansen
+  - [[Paper]](https://www.researchgate.net/publication/23230281_Biclique_communities)
+  - [[R Reference]](https://github.com/hecking/bipartite_community_detection)
+
 - **Chinese Whispers: an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems (HLT NAACL 2006)**
   - Chris Biemann
   - [[Paper]](http://www.aclweb.org/anthology/W06-3812)
