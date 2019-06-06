@@ -137,9 +137,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Matlab Reference]](http://yangliang.github.io/code/LSGR.rar)
   
 - **Community Detection via Measure Space Embedding (NIPS 2015)**
-  - Mark Kozdoba and Shie Mannor
+  - Yulong Pei, Nilanjan Chakraborty, and Katia Sycara
   - [[Paper]](https://papers.nips.cc/paper/5808-community-detection-via-measure-space-embedding.pdf)
   - [[Python Reference]](https://github.com/komarkdev/der_graph_clustering)
+  
+- **Nonnegative Matrix Tri-Factorization with Graph Regularization for Community Detection in Social Networks (IJCAI 2015)**
+  - Mark Kozdoba and Shie Mannor
+  - [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/295.pdf)
+  - [[Python Reference]](https://github.com/yunhenk/NMTF)
   
 - **Community Detection for Clustered Attributed Graphs via a Variational EM Algorithm (Big Data 2014)**
   - Xiangyong Cao, Xiangyu Chang, and Zongben Xu
