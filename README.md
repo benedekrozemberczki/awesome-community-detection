@@ -643,6 +643,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
   - [[Java]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/JoanWu5/Louvain)
+  - [[Matlab]](https://github.com/BigChopH/Louvain-clustering)
   
 ## Centrality and Cuts
 
