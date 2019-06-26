@@ -10,7 +10,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   <img width="460" src="coms.png">
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-360+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-370+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-70+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
