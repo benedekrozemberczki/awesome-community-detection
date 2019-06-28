@@ -905,9 +905,15 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Python Reference]](https://github.com/krzychu/bhcd/)
   - [[C++ Reference]](https://github.com/blundellc/bhcd/)
   
+- **Efficient discovery of overlapping communities in massive networks (PNAS 2013)**
+  - Prem K. Gopalan and David M. Blei
+  - [[Paper]](https://www.pnas.org/content/110/36/14534)
+  - [[C++ Reference]](https://github.com/premgopalan/svinet)
+  
 - **An efficient and principled method for detecting communitiesin networks (Physical Review E 2011)**
   - Brian Ball, Brian Karrer, M. E. J. Newman
   - [[Paper]](https://arxiv.org/pdf/1104.3590.pdf)
+  - [[C++ Reference]](http://www.personal.umich.edu/~mejn/OverlappingLinkCommunities.zip)
   - [[Python Reference]](https://github.com/Zabot/principled_clustering)
   
 - **A Game-Theoretic Approach to Hypergraph Clustering (NIPS 2009)**
