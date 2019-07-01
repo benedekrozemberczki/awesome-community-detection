@@ -668,6 +668,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/20679333)
   - [[C Reference]](https://github.com/arnikz/netclust)
   
+  - **Detecting Communities in Networks by Merging Cliques (IEEE ICICISYS 2009)**
+  - Bowen Yan and Steve Gregory 
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/5358036)
+  - [[Java Reference]](https://github.com/bowenyan/CommunityDetection-CliqueMod)
+  
 - **Fast Unfolding of Communities in Large Networks (Journal of Statistical Mechanics 2008)**
   - Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Renaud Lefebvre
   - [[Paper]](https://arxiv.org/abs/0803.0476)
