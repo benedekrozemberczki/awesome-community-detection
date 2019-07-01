@@ -824,6 +824,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   
 ## Others
 
+- **A Study of Graph-based System for Multi-view Clustering (Knowledge-Based Systems 2019)**
+  - Hao Wang, Yan Yang, BingLiu, Hamido Fujita
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705118305082)
+  - [[Python Reference]](https://github.com/cswanghao/gbs)
+
 - **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
   - Nate Veldt, David Gleich, Anthony Wirth
   - [[Paper]](https://arxiv.org/abs/1903.05246)
