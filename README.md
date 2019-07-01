@@ -277,6 +277,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2807668)
   - [[C++ Reference]](https://github.com/uwescience/GossipMap)
   
+- **Scalable Detection of Statistically Significant Communities and Hierarchies, Using Message Passing for Modularity (PNAS 2014)**
+  - Pan Zhang and Cristopher Moore
+  - [[Paper]](https://www.pnas.org/content/111/51/18144)
+  - [[Python]](https://github.com/weberfm/belief_propagation_community_detection)
+  
 - **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
   - Joyce Jiyoung Whang, David F. Gleich, and Inderjit S. Dhillon
   - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
