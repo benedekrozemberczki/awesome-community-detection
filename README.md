@@ -824,6 +824,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   
 ## Others
 
+- **CutESC: Cutting Edge Spatial Clustering Technique based on Proximity Graphs (Knowledge-Based Systems 2019)**
+  - Alper Aksac, Tansel Özyer, Reda Alhajja
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319302468)
+  - [[Python Reference]](https://github.com/alperaksac/cutESC)
+
 - **A Study of Graph-based System for Multi-view Clustering (Knowledge-Based Systems 2019)**
   - Hao Wang, Yan Yang, BingLiu, Hamido Fujita
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705118305082)
