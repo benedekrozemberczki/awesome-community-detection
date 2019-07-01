@@ -367,6 +367,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 ## Spectral Methods
 
+- **Spectral Rejection for Testing Hypotheses of Structure in Networks (Arxiv 2019)**
+  - Mark D. Humphries, Javier A. Caballero, Mat Evans, Silvia Maggi, Abhinav Singh
+  - [[Paper]](https://arxiv.org/abs/1901.04747)
+  - [[Matlab Reference]](https://github.com/mdhumphries/NetworkNoiseRejection)
+  - [[Python Reference]](https://github.com/thomasjdelaney/Network_Noise_Rejection_Python)
+
 - **Spectral Clustering of Signed Graphs via Matrix Power Means (ICML 2019)**
   - Pedro Mercado, Francesco Tudisco, Matthias Hein
   - [[Paper]](https://arxiv.org/pdf/1905.06230v1.pdf)
