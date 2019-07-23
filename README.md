@@ -367,6 +367,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## Spectral Methods
 
+- **Community Detection Over a Heterogeneous Population of Non-aligned Networks**
+  - Guilherme Gomes, Vinayak Rao, Jennifer Neville
+  - [[Paper]](https://arxiv.org/abs/1904.05332)
+  - [[Python Reference]](https://github.com/kurtmaia/JointSBM)
+
 - **Spectral Rejection for Testing Hypotheses of Structure in Networks (Arxiv 2019)**
   - Mark D. Humphries, Javier A. Caballero, Mat Evans, Silvia Maggi, Abhinav Singh
   - [[Paper]](https://arxiv.org/abs/1901.04747)
