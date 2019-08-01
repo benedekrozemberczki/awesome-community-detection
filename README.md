@@ -562,6 +562,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Cyclic Patterns
 
+- **EdMot: An Edge Enhancement Approach for Motif-aware Community Detection (KDD 2019)**
+  - Pei-Zhen Li, Ling Huang, Chang-Dong Wang, and Jian-Huang Lai 
+  - [[Paper]](https://arxiv.org/abs/1906.04560)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/EdMot)
+  - [[Matlab Reference]](https://github.com/benedekrozemberczki/EdMot)
+
 - **From Louvain to Leiden: Guaranteeing Well-connected Communities (Scientific Reports 2019)**
   - Vincent Traag, Ludo Waltman, Nees Jan van Eck
   - [[Paper]](https://arxiv.org/abs/1810.08473)
