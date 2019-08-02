@@ -593,11 +593,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://dbs.ifi.uni-heidelberg.de/files/Team/slackner/publications/Lackner_et_al_2018_Anti_Communities.pdf)
   - [[C Reference]](https://github.com/slackner/anti-community/)
 
-- **ComSim: A Bipartite Community Detection Algorithm Using Cycle and Node's Similarity (International Workshop on Complex Networks 2018)**
-  - Tackx Raphaël, Fabien Tarissan, and Jean-Loup Guillaume
-  - [[Paper]](https://www.researchgate.net/publication/321317139_ComSim_A_Bipartite_Community_Detection_Algorithm_Using_Cycle_and_Node%27s_Similarity)
-  - [[Python Reference]](https://github.com/rtackx/ComSim)
-
 - **Adaptive Modularity Maximization via Edge Weighting Scheme (Information Sciences 2018)**
   - Xiaoyan Lu, Konstantin Kuzmin, Mingming Chen, and Boleslaw K Szymanski
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
