@@ -728,8 +728,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
   - Nate Veldt, David F. Gleich, Anthony Wirth
-  - [[Paper]](https://github.com/nveldt/LearnResParams)
-  - [[Julia Reference]](https://github.com/GraphProcessor/ppSCAN)
+  - [[Paper]](https://arxiv.org/abs/1903.05246)
+  - [[Julia Reference]](https://github.com/nveldt/LearnResParams
 
 - **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
   - Yulin Che, Shixuan Sun, and Qiong Luo
