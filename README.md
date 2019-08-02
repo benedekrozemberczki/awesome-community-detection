@@ -71,7 +71,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **A Poisson Gamma Probabilistic Model for Latent Node-group Memberships in Dynamic Networks (AAAI 2018)**
   - Sikun Yang and Heinz Koeppl
   - [[Paper]](https://arxiv.org/pdf/1805.11054.pdf)
-  - [[Python Reference]](https://arxiv.org/pdf/1805.11054.pdf)
+  - [[Python Reference]](https://github.com/stephenyang/dynamic-Edge-Partition-Models)
   
 - **Sentiment-driven Community Profiling and Detection on Social Media (ACM HSM 2018)**
   - Amin Salehi, Mert Ozer, and Hasan Davulcu
