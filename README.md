@@ -231,6 +231,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Label Propagation, Percolation and Random Walks
 
+- **Constrained Local Graph Clustering by Colored Random Walk (WWW 2019)**
+  - Yaowei Yan, Yuchen Bian, Dongsheng Luo, Dongwon Lee and Xiang Zhang
+  - [[Paper]](http://pike.psu.edu/publications/www19.pdf)
+  - [[Matlab Reference]](https://github.com/yanyaw/colored-random-walk)
+
 - **Dynamic Graph-Based Label Propagation for Density Peaks Clustering (Expert Systems 2019)**
   - Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi and Nooruldeen Nasih Qader
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417418304998?via%3Dihub)
