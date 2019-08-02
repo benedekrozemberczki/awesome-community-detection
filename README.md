@@ -824,6 +824,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/pdf/1502.00284.pdf)
   - [[Python Reference]](https://github.com/dingmartin/HeadTailCommunityDetection)
   
+- **Community Detection Based on Distance Dynamics (KDD 2015)**
+  - Shao Junming, Han Zhichao, Yang Qinli, and Zhou Tao
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2783301)
+  - [[Python Reference]](https://github.com/chocolates/Community-detection-based-on-distance-dynamics)
+  
 - **Think Locally, Act Locally: Detection of Small, Medium-Sized, and Large Communities in Large Networks (Physica Review E 2015)**
   - Lucas G. S. Jeub, Prakash Balachandran, Mason A. Porter, Peter J. Mucha, and Michael W. Mahoney
   - [[Paper]](https://arxiv.org/abs/1403.3795v1)
