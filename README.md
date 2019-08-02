@@ -724,6 +724,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Matlab]](https://github.com/BigChopH/Louvain-clustering)
   - [[Scala]](https://github.com/Sotera/spark-distributed-louvain-modularity)
   
+- **Modularity and Community Detection in Bipartite Networks (Phys. Rev. E 2007)**
+  - Michael J. Barber
+  - [[Paper]](https://arxiv.org/abs/0707.1616)
+  - [[Python Reference]](https://github.com/genisott/pycondor)
+  
 ## Centrality and Cuts
 
 - **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
