@@ -726,6 +726,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Centrality and Cuts
 
+- **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
+  - Nate Veldt, David F. Gleich, Anthony Wirth
+  - [[Paper]](https://github.com/nveldt/LearnResParams)
+  - [[Julia Reference]](https://github.com/GraphProcessor/ppSCAN)
+
 - **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
   - Yulin Che, Shixuan Sun, and Qiong Luo
   - [[Paper]](https://dl.acm.org/citation.cfm?doid=3225058.3225063)
