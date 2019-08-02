@@ -577,6 +577,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Cyclic Patterns
 
+- **Fast Consensus Clustering in Complex Networks (Phys. Rev E 2019)**
+  - Aditya Tandon, Aiiad Albeshri, Vijey Thayananthan, Wadee Alhalabi, Santo Fortunato
+  - [[Paper]](https://arxiv.org/abs/1902.04014)
+  - [[Python Reference]](https://github.com/adityat/fastconsensus)
+
 - **EdMot: An Edge Enhancement Approach for Motif-aware Community Detection (KDD 2019)**
   - Pei-Zhen Li, Ling Huang, Chang-Dong Wang, and Jian-Huang Lai 
   - [[Paper]](https://arxiv.org/abs/1906.04560)
