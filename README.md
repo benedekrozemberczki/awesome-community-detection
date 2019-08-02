@@ -66,12 +66,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Bayesian Robust Attributed Graph Clustering: Joint Learning of Partial Anomalies and Group Structure (AAAI 2018)**
   - Aleksandar Bojchevski and Stephan Günnemann
   - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16363/16542)
-  - [[C Reference]](https://github.com/abojchevski/paican)
+  - [[Python Reference]](https://github.com/abojchevski/paican)
   
 - **A Poisson Gamma Probabilistic Model for Latent Node-group Memberships in Dynamic Networks (AAAI 2018)**
   - Sikun Yang and Heinz Koeppl
   - [[Paper]](https://arxiv.org/pdf/1805.11054.pdf)
-  - [[Python Reference]](https://github.com/stephenyang/dynamic-Edge-Partition-Models)
+  - [[C Reference]](https://github.com/stephenyang/dynamic-Edge-Partition-Models)
   
 - **Sentiment-driven Community Profiling and Detection on Social Media (ACM HSM 2018)**
   - Amin Salehi, Mert Ozer, and Hasan Davulcu
