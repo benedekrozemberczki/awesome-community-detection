@@ -367,7 +367,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## Spectral Methods
 
-- **Community Detection Over a Heterogeneous Population of Non-aligned Networks**
+- **Community Detection Over a Heterogeneous Population of Non-aligned Networks (Arxiv 2019)**
   - Guilherme Gomes, Vinayak Rao, Jennifer Neville
   - [[Paper]](https://arxiv.org/abs/1904.05332)
   - [[Python Reference]](https://github.com/kurtmaia/JointSBM)
@@ -387,6 +387,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Sandeep Kumar, Jiaxi Ying, José Vinícius de Miranda Cardoso, and Daniel Palomar
   - [[Paper]](https://arxiv.org/pdf/1904.09792.pdf)
   - [[R Reference]](https://cran.r-project.org/web/packages/spectralGraphTopology/index.html)
+  
+- **An Ensemble Based on a Bi-objective Evolutionary Spectral Algorithm for Graph Clutering (ArXiv 2018)**
+  - Camila P.S. Tautenhain, Mariá C.V. Nascimento
+  - [[Paper]](https://arxiv.org/abs/1810.03652)
+  - [[C++ Reference]](https://github.com/camilapsan/MOSpecG_SpecG)  
 
 - **Scalable Spectral Clustering Using Random Binning Features (KDD 2018)**
   - Lingfei Wu, Pin-Yu Chen, Ian En-Hsu Yen, Fangli Xu, Yinglong Xia, and Charu Aggarwal 
