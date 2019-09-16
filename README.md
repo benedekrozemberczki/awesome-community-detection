@@ -292,6 +292,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.pnas.org/content/111/51/18144)
   - [[Python]](https://github.com/weberfm/belief_propagation_community_detection)
   
+- **Efficient Monte Carlo and Greedy Heuristic for the Inference of Stochastic Block Models (Phys. Rev. E 2014)**
+  - Tiago P. Peixoto
+  - [[Paper]](https://arxiv.org/pdf/1310.4378)
+  - [[Python Reference]](https://github.com/graphchallenge/GraphChallenge/tree/master/StochasticBlockPartition)
+
 - **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
   - Joyce Jiyoung Whang, David F. Gleich, and Inderjit S. Dhillon
   - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
@@ -301,7 +306,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Nicola Barbieri, Francesco Bonchi, and Giuseppe Manco 
   - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6729581)
   - [[Java  Reference]](https://github.com/gmanco/cwn)
-  
+ 
 - **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
   - Jierui Xie, Boleslaw K Szymanski, and Xiaoming Liu
   - [[Paper]](https://arxiv.org/pdf/1109.5720.pdf)
