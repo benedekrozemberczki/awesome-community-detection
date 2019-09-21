@@ -906,10 +906,20 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/30346283)
   - [[Matlab Reference]](https://github.com/kunzhan/MCGC)
   
+- **CutESC: Cutting Edge Spatial Clustering Technique based on Proximity Graphs (Knowledge-Based Systems 2019)**
+  - Alper Aksac, Tansel Özyer, Reda Alhajja
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319302468)
+  - [[Python Reference]](https://github.com/alperaksac/cutESC)
+  
 - **Clubmark - Bench bencmarking Framework for the Clustering Algorithms Evaluation (ICDM 2018)**
   - Artem Lutov, Mourad Khayati, Philippe Cudre-Mauroux
   - [[Paper]](https://github.com/eXascaleInfolab/clubmark/blob/master/docs/clubmark.pdf)
   - [[Python Reference]](https://github.com/eXascaleInfolab/clubmark/tree/master/algorithms)
+  
+- **The Difference Between Optimal and Germane Communities (Social Network Analysis and Mining 2018)**
+  - Jerry Scripps, Christian TrefftzZachary Kurmas
+  - [[Paper]](https://link.springer.com/article/10.1007/s13278-018-0522-1)
+  - [[Java Reference]](https://cis.gvsu.edu/~scrippsj/pubs/software.htm)
 
 - **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
   - Tiantian He  and Keith C. C. Chan 
