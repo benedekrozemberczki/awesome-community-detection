@@ -27,6 +27,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## Factorization
 
+- **Graph Embedding with Self-Clustering (ASONAM 2019)**
+  - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
+  - [[Paper]](https://arxiv.org/abs/1802.03997)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
+
 - **GMC: Graph-based Multi-view Clustering (TKDE 2019)**
   - Hao Wang, Yan Yang, Bing Liu
   - [[Paper]](https://www.researchgate.net/publication/331602096_GMC_Graph-based_Multi-view_Clustering)
@@ -36,11 +41,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Shreyansh Bhatt, Swati Padhee, Amit Sheth, Keke Chen ,Valerie Shalin, Derek Doran, and Brandon Minnery 
   - [[Paper]](https://dl.acm.org/authorize.cfm?key=N676882)
   - [[Java Reference]](https://github.com/shreyanshbhatt/KnowledgeGraph_in_CommunityDetection)
-
-- **Graph Embedding with Self-Clustering (Arxiv 2018)**
-  - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
-  - [[Paper]](https://arxiv.org/abs/1802.03997)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
   
 - **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (Arxiv 2018)**
   - Seiji Maekawa, Koh Takeuch, Makoto Onizuka
