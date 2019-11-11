@@ -170,6 +170,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Java Spark Reference]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
   - [[Python Reference]](https://github.com/RobRomijnders/bigclam)
   
+- **On the Statistical Detection of Clusters in Undirected Networks (Computation Statistics and Data Analysis 2013)**
+  - Marcus B. Perry, Gregory V. Michaelson, M. Allan Ballard
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2750189)
+  - [[C++ Reference]](https://github.com/alanballard/Likelihood-Based-Directed-Network-Clustering)
+  
 - **Symmetric Nonnegative Matrix Factorization for Graph Clustering (SDM 2012)**
   - Da Kuang, Chris Ding, and Haesun Park
   - [[Paper]](https://www.cc.gatech.edu/~hpark/papers/DaDingParkSDM12.pdf)
