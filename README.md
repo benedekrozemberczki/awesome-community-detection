@@ -411,7 +411,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **An Ensemble Based on a Bi-objective Evolutionary Spectral Algorithm for Graph Clutering (ArXiv 2018)**
   - Camila P.S. Tautenhain, Mariá C.V. Nascimento
   - [[Paper]](https://arxiv.org/abs/1810.03652)
-  - [[C++ Reference]](https://github.com/camilapsan/MOSpecG_SpecG)  
+  - [[C++ Reference]](https://github.com/camilapsan/MOSpecG_SpecG)
+
+- **Hierarchical Community Detection by Recursive Partitioning (ArXiv 2018)**
+  - Tianxi Li, Lihua Lei, Sharmodeep Bhattacharyya, Purnamrita Sarkar, Peter J. Bickel, Elizaveta Levina
+  - [[Paper]](https://arxiv.org/abs/1810.01509)
+  - [[R Reference]](https://github.com/tianxili/HCD)  
 
 - **Scalable Spectral Clustering Using Random Binning Features (KDD 2018)**
   - Lingfei Wu, Pin-Yu Chen, Ian En-Hsu Yen, Fangli Xu, Yinglong Xia, and Charu Aggarwal 
