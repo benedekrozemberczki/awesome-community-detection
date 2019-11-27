@@ -685,6 +685,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1606.00950)
   - [[Go Reference]](https://github.com/askiada/GraphDensityCut)
   
+- **Community Detection in Directed Acyclic Graphs (European Physical Journal B 2015)**
+  - Leo Speidel, Taro Takaguchi, Naoki Masuda
+  - [[Paper]](https://link.springer.com/article/10.1140/epjb/e2015-60226-y)
+  - [[Python Reference]](https://github.com/leospeidel/dag_community_paper)
+  
 - **Intra-Graph Clustering Using Collaborative Similarity Measure (DPCD 2015)**
   - Waqas Nawaz, Kifayat-Ullah Khan, Young-Koo Lee, and Sungyoung Lee
   - [[Paper]](https://link.springer.com/article/10.1007/s10619-014-7170-x)
