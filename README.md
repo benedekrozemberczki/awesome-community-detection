@@ -42,6 +42,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://dl.acm.org/authorize.cfm?key=N676882)
   - [[Java Reference]](https://github.com/shreyanshbhatt/KnowledgeGraph_in_CommunityDetection)
   
+- **Discrete Optimal Graph Clustering (IEEE Cybernetics 2019)**
+  - Yudong Han, Lei Zhu, Zhiyong Cheng, Jingjing Li, Xiaobai Liu
+  - [[Paper]](https://arxiv.org/abs/1904.11266)
+  - [[Matlab Reference]](https://github.com/christinecui/DOGC)
+  
 - **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (Arxiv 2018)**
   - Seiji Maekawa, Koh Takeuch, Makoto Onizuka
   - [[Paper]](https://arxiv.org/abs/1810.00946)
