@@ -169,6 +169,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[C++ Reference]](https://github.com/snap-stanford/snap/tree/master/examples/bigclam)
   - [[Java Spark Reference]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
   - [[Python Reference]](https://github.com/RobRomijnders/bigclam)
+  - [[Python Reference]](https://github.com/jeremyzhangsq/map-reduce-bigclam)  
   
 - **On the Statistical Detection of Clusters in Undirected Networks (Computation Statistics and Data Analysis 2013)**
   - Marcus B. Perry, Gregory V. Michaelson, M. Allan Ballard
