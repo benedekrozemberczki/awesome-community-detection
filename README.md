@@ -242,6 +242,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Label Propagation, Percolation and Random Walks
 
+- **Community Detection in Bipartite Networks by Multi Label Propagation Algorithm (JSAI 2019)**
+  - Hibiki Taguchi, Tsuyoshi Murata
+  - [[Paper]](https://confit.atlas.jp/guide/event/jsai2019/subject/4B2-J-3-02/detail)
+  - [[Python Reference]](https://github.com/hbkt/BiMLPA)
+  
 - **Constrained Local Graph Clustering by Colored Random Walk (WWW 2019)**
   - Yaowei Yan, Yuchen Bian, Dongsheng Luo, Dongwon Lee and Xiang Zhang
   - [[Paper]](http://pike.psu.edu/publications/www19.pdf)
