@@ -744,6 +744,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Matlab]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/BigChopH/Louvain-clustering)
   - [[Scala]](https://github.com/Sotera/spark-distributed-louvain-modularity)
+  - [[Rust]](https://github.com/graphext/louvain-rs)
   
 - **Modularity and Community Detection in Bipartite Networks (Phys. Rev. E 2007)**
   - Michael J. Barber
