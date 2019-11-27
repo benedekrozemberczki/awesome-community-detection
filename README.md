@@ -33,7 +33,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Python Reference]](https://github.com/HongtengXu/Relational-Factorization-Model)
 
 - **Graph Embedding with Self-Clustering (ASONAM 2019)**
-  - Hongteng Xu Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
+  - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
 
