@@ -28,13 +28,13 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## Factorization
 
 - **Gromov-Wasserstein Factorization Models for Graph Clustering (AAAI 2020)**
-  - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
-  - [[Paper]](https://arxiv.org/abs/1802.03997)
+  - Hongteng Xu
+  - [[Paper]](https://arxiv.org/abs/1911.08530)
   - [[Python Reference]](https://github.com/HongtengXu/Relational-Factorization-Model)
 
 - **Graph Embedding with Self-Clustering (ASONAM 2019)**
-  - Hongteng Xu
-  - [[Paper]](https://arxiv.org/abs/1911.08530)
+  - Hongteng Xu Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
+  - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
 
 - **GMC: Graph-based Multi-view Clustering (TKDE 2019)**
