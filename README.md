@@ -607,6 +607,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Vincent Traag, Ludo Waltman, Nees Jan van Eck
   - [[Paper]](https://arxiv.org/abs/1810.08473)
   - [[C++ Reference]](https://github.com/vtraag/leidenalg)
+  - [[Julia Reference]](https://github.com/bicycle1885/Leiden.jl)
 
 - **Anti-community Detection in Complex Networks (SSDBM 2018)**
   - Sebastian Lackner, Andreas Spitz, Matthias Weidemüller and Michael Gertz
