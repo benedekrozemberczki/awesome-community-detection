@@ -733,6 +733,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://link.springer.com/article/10.1007/s10619-014-7170-x)
   - [[Java Reference]](https://github.com/WNawaz/CSM)
   
+- **K-Clique Community Detection in Social NetworksBased on Formal Concept Analysis (IEEE Systems 2015)**
+  -  Fei Hao, Geyong Min, Zheng Pei, Doo-Soon Park, Laurence T. Yang 
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7117352&tag=1)
+  - [[Python Reference]](https://github.com/indiansher/k-clique-community-detection-spark)
+  
 - **High Quality, Scalable and Parallel Community Detection for Large Real Graphs (WWW 2014)**
   - Arnau Prat-Perez David Dominguez-Sal and Josep-Lluis Larriba-Pey
   - [[Paper]](http://wwwconference.org/proceedings/www2014/proceedings/p225.pdf)
