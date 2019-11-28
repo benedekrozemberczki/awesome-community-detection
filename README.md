@@ -860,6 +860,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://people.eng.unimelb.edu.au/mganji/papers/ECML15.pdf)
   - [[Python Reference]](https://github.com/xiaoylu/ResolutionCommunityDetection)
   
+- **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2014)**
+  - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
+  - [[Paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
+  - [[Python Reference]](https://github.com/Casyfill/pyCombo)
+  
 - **Online Community Detection for Large Complex Networks (IJCAI 2013)**
   - Wangsheng Zhang, Gang Pan, Zhaohui Wu and Shijian Li
   - [[Paper]](https://www.ijcai.org/Proceedings/13/Papers/281.pdf)
