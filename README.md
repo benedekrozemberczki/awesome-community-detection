@@ -1022,6 +1022,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.pnas.org/content/110/36/14534)
   - [[C++ Reference]](https://github.com/premgopalan/svinet)
   
+- **Complex Network Clustering by Multiobjective Discrete Particle Swarm Optimization Based on Decomposition (IEEE Trans. Evolutionary Computation 2013)**
+  - Maoguo Gong, Qing Cai, Xiaowei Chen, and Lijia Ma
+  - [[Paper]](https://ieeexplore.ieee.org/document/6510542?reason=concurrency)
+  - [[C++ Reference]](https://github.com/doctor-cai/MODPSO)
+  
 - **An efficient and principled method for detecting communitiesin networks (Physical Review E 2011)**
   - Brian Ball, Brian Karrer, M. E. J. Newman
   - [[Paper]](https://arxiv.org/pdf/1104.3590.pdf)
