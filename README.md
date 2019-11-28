@@ -36,6 +36,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
+  
+- **Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering (ICDM 2019)**
+  - Youwei Liang, Dong Huang, and Chang-Dong Wang
+  - [[Paper]](https://youweiliang.github.io/files/consistent_graph_learning.pdf)
+  - [[Matlab Reference]](https://github.com/youweiliang/ConsistentGraphLearning)
 
 - **GMC: Graph-based Multi-view Clustering (TKDE 2019)**
   - Hao Wang, Yan Yang, Bing Liu
