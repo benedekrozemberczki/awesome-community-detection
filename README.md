@@ -98,6 +98,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1810.00946)
   - [[Python Reference]](https://github.com/seijimaekawa/NAGC)
   
+- **A Nonnegative Matrix Factorization Approach for Multiple Local Community Detection (ASONAM 2018)**
+  - Dany Kamuhanda and Kun He
+  - [[Paper]](https://www.researchgate.net/publication/326208243_A_Nonnegative_Matrix_Factorization_Approach_for_Multiple_Local_Community_Detection)
+  - [[Python Reference]](https://github.com/danison2/MLC-code)
+  
 - **Community Preserving Network Embedding (AAAI 17)**
   - Xiao Wang, Peng Cui, Jing Wang, Jain Pei, WenWu Zhu, Shiqiang Yang
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14589/13763)
