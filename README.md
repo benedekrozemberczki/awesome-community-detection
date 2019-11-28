@@ -608,6 +608,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Cyclic Patterns
 
+- **DAOC: Stable Clustering of Large Networks (Phys. Rev E 2019)**
+  - Artem Lutov, Mourad Khayati, Philippe Cudré-Mauroux
+  - [[Paper]](https://arxiv.org/abs/1909.08786)
+  - [[C++ Reference]](https://github.com/eXascaleInfolab/daoc)
+
 - **Fast Consensus Clustering in Complex Networks (Phys. Rev E 2019)**
   - Aditya Tandon, Aiiad Albeshri, Vijey Thayananthan, Wadee Alhalabi, Santo Fortunato
   - [[Paper]](https://arxiv.org/abs/1902.04014)
