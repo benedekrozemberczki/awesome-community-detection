@@ -924,6 +924,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Others
 
+- **Ensemble Clustering for Graphs: Comparisons and Applications (Applied Network Science 2019)**
+  - Valérie Poulin and François Théberge
+  - [[Paper]](https://arxiv.org/abs/1809.05578)
+  - [[Python Reference]](https://github.com/ftheberge/Ensemble-Clustering-for-Graphs)
+
 - **CutESC: Cutting Edge Spatial Clustering Technique based on Proximity Graphs (Knowledge-Based Systems 2019)**
   - Alper Aksac, Tansel Özyer, Reda Alhajja
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319302468)
