@@ -207,6 +207,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu and Xiang Zhang 
   - [[Paper]](http://personal.psu.edu/dul262/dmgc.pdf)
   - [[Python Reference]](https://github.com/flyingdoog/DMGC)
+  
+- **Overlapping Community Detection with Graph Neural Networks (MLGWorkShop 2019)**
+  - Oleksandr Shchur and Stephan Gunnemann
+  - [[Paper]](http://www.kdd.in.tum.de/research/nocd/)
+  - [[Python Reference]](https://github.com/shchur/overlapping-community-detection)
 
 - **Supervised Community Detection with Line Graph Neural Networks (ICLR 2019)**
   - Zhengdao Chen, Xiang Li, and Joan Bruna
