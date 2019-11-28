@@ -785,10 +785,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Centrality and Cuts
 
+- **Hypergraph clustering with categorical edge labels (Arxiv 2019)**
+  - Ilya Amburg, Nate Veldt, Austin R. Benson
+  - [[Paper]](https://arxiv.org/pdf/1910.09943.pdf)
+  - [[Julia Reference]](https://github.com/nveldt/CategoricalEdgeClustering)
+
 - **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
   - Nate Veldt, David F. Gleich, Anthony Wirth
   - [[Paper]](https://arxiv.org/abs/1903.05246)
-  - [[Julia Reference]](https://github.com/nveldt/LearnResParams
+  - [[Julia Reference]](https://github.com/nveldt/LearnResParams)
 
 - **Parallelizing Pruning-based Graph Structural Clustering (ICPP 2018)**
   - Yulin Che, Shixuan Sun, and Qiong Luo
