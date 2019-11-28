@@ -611,6 +611,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Alexandre Hollocou, Julien Maudet, Thomas Bonald and Marc Lelarge
   - [[Paper]](https://arxiv.org/pdf/1712.04337v1.pdf)
   - [[C++ Reference]](https://github.com/ahollocou/graph-streaming)
+  
+- **DynaMo: Dynamic Community Detection by Incrementally Maximizing Modularity (Arxiv 2017)**
+  - Di Zhuang, J. Morris Chang, Mingchen Li
+  - [[Paper]](https://arxiv.org/abs/1709.08350)
+  - [[Java Reference]](https://github.com/nogrady/dynamo)
 
 - **Model-Based Clustering of Time-Evolving Networks through Temporal Exponential-Family Random Graph Models (Arxiv 2017)**
   - Kevin H. Lee, Lingzhou Xue, and David R. Hunter
