@@ -1011,11 +1011,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S002002551500554X)
   - [[R Reference]](https://github.com/lnferreira/time_series_clustering_via_community_detection)
 
-- **General Optimization Technique for High-quality Community Detection in Complex Networks (Physical Review E 2014)**
-  - Stanislav Sobolevsky, Riccardo Campari, Alexander Belyi, and Carlo Ratti
-  - [[Paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)
-  - [[Python Reference]](https://github.com/Casyfill/pyCombo)
-  
 - **Community Detection in Multi-Partite Multi-Relational Networks Based on Information Compression (New Generation Computing 2016)**
   - Xin Liu, Weichu Liu, Tsuyoshi Murata, and Ken Wakita
   - [[Paper]](https://link.springer.com/article/10.1007/s00354-016-0206-1)
@@ -1025,7 +1020,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Parham Moradi, Mehrdad Rostami
   - [[Paper]](http://www.sciencedirect.com/science/article/pii/S0950705115001458)
   - [[Matlab Reference]](https://github.com/XuesenYang/Graph-clustering-with-ant-colony-optimization-for-feature-selection)  
-  
+
+- **Greedy Discrete Particle Swarm Optimization for Large-Scale Social Network Clustering (Information Sciences 2015)**
+  - Qing Cai, Maoguo Gong, Lijia Ma, Shasha Ruan, Fuyan Yuan, Licheng Jiao
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025514009530)
+  - [[C++ Reference]](https://github.com/doctor-cai/GDPSO)
+
 - **Community Detection via Maximization of Modularity and Its Variants (IEEE TCSS 2014)**
   - Mingming Chen, Konstantin Kuzmin, and Boleslaw K. Szymanski 
   - [[Paper]](https://www.cs.rpi.edu/~szymansk/papers/TCSS-14.pdf)
