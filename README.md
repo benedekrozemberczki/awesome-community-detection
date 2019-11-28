@@ -412,6 +412,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Xiang Li, Ben Kao, Zhaochun Ren, Dawei Yin
   - [[Paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4328)
   - [[Matlab Reference]](https://github.com/lixiang3776/SClump)
+  - [[Python Reference]](https://github.com/ameya98/PySClump)
 
 - **Community Detection Over a Heterogeneous Population of Non-aligned Networks (Arxiv 2019)**
   - Guilherme Gomes, Vinayak Rao, Jennifer Neville
