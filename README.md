@@ -747,7 +747,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/20679333)
   - [[C Reference]](https://github.com/arnikz/netclust)
   
-  - **Detecting Communities in Networks by Merging Cliques (IEEE ICICISYS 2009)**
+- **Detecting Communities in Networks by Merging Cliques (IEEE ICICISYS 2009)**
   - Bowen Yan and Steve Gregory 
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/5358036)
   - [[Java Reference]](https://github.com/bowenyan/CommunityDetection-CliqueMod)
