@@ -203,6 +203,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Deep Learning
 
+- **Deep Multi-Graph Clustering via Attentive Cross-Graph Association (WSDM 2020)**
+  - Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu and Xiang Zhang 
+  - [[Paper]](http://personal.psu.edu/dul262/dmgc.pdf)
+  - [[Python Reference]](https://github.com/flyingdoog/DMGC)
+
 - **Supervised Community Detection with Line Graph Neural Networks (ICLR 2019)**
   - Zhengdao Chen, Xiang Li, and Joan Bruna
   - [[Paper]](https://arxiv.org/abs/1705.08415)
