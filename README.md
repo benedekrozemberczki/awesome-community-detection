@@ -408,6 +408,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## Spectral Methods
 
+- **Spectral Clustering in Heterogeneous Information Networks (AAAI 2019)**
+  - Xiang Li, Ben Kao, Zhaochun Ren, Dawei Yin
+  - [[Paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4328)
+  - [[Matlab Reference]](https://github.com/lixiang3776/SClump)
+
 - **Community Detection Over a Heterogeneous Population of Non-aligned Networks (Arxiv 2019)**
   - Guilherme Gomes, Vinayak Rao, Jennifer Neville
   - [[Paper]](https://arxiv.org/abs/1904.05332)
