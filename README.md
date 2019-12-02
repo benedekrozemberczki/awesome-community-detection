@@ -535,7 +535,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://pdfs.semanticscholar.org/9383/f08c697b8aa43782e16c9a57e089911584d8.pdf)
   - [[Matlab Reference]](https://github.com/zzz123xyz/MVSC)
   
-- **Constructing Robust Affinity Graphs for Spectral Clusterin (CVPR 2014)**
+- **Constructing Robust Affinity Graphs for Spectral Clustering (CVPR 2014)**
   - Xiatian Zhu1, Chen Change Loy, Shaogang Gong
   - [[Paper]](https://www.zpascal.net/cvpr2014/Zhu_Constructing_Robust_Affinity_2014_CVPR_paper.pdf)
   - [[Matlab Reference]](https://github.com/d12306/Constructing-Robust-Affinity-Graphs-for-Spectral-Clustering)
