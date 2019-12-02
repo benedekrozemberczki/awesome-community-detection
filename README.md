@@ -1020,7 +1020,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
   - [[Executable Reference]](https://github.com/he-tiantian/FSPGA)
   
-- **Wiring together large single-cell RNA-seq sample collections (biorxiv 2018)**
+- **Wiring Together Large Single-Cell RNA-Seq Sample Collections (biorxiv 2018)**
   - Nikolas Barkas, Viktor Petukhov, Daria Nikolaeva, Yaroslav Lozinsky, Samuel Demharter, Konstantin Khodosevich, Peter V. Kharchenko
   - [[Paper]](https://www.biorxiv.org/content/10.1101/460246v1)
   - [[C++]](https://github.com/hms-dbmi/conos)
@@ -1078,7 +1078,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Python Reference]](https://github.com/krzychu/bhcd/)
   - [[C++ Reference]](https://github.com/blundellc/bhcd/)
   
-- **Efficient discovery of overlapping communities in massive networks (PNAS 2013)**
+- **Efficient Discovery of Overlapping Communities in Massive Networks (PNAS 2013)**
   - Prem K. Gopalan and David M. Blei
   - [[Paper]](https://www.pnas.org/content/110/36/14534)
   - [[C++ Reference]](https://github.com/premgopalan/svinet)
