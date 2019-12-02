@@ -323,7 +323,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
   - [[Python Reference]](https://github.com/paravi/MarovCommunity)
   
-- **GossipMap: A Distributed Community Detection Algorithm for Billion-Edge Directe Graphs (SC 2015)**
+- **GossipMap: A Distributed Community Detection Algorithm for Billion-Edge Directed Graphs (SC 2015)**
   - Seung-Hee Bae and Bill Howe
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2807668)
   - [[C++ Reference]](https://github.com/uwescience/GossipMap)
