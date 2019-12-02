@@ -382,7 +382,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[C Reference]](http://igraph.org/c/)
   - [[Python Reference]](https://github.com/Tavpritesh/MapEquation)
   
-- **Biclique communities (Physical Review E  2008)**
+- **Biclique Communities (Physical Review E  2008)**
   - Sune Lehmann, Martin Schwartz, and Lars Kai Hansen
   - [[Paper]](https://www.researchgate.net/publication/23230281_Biclique_communities)
   - [[R Reference]](https://github.com/hecking/bipartite_community_detection)
