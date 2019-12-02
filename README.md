@@ -1088,7 +1088,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://ieeexplore.ieee.org/document/6510542?reason=concurrency)
   - [[C++ Reference]](https://github.com/doctor-cai/MODPSO)
   
-- **An efficient and principled method for detecting communitiesin networks (Physical Review E 2011)**
+- **An Efficient and Principled Method for Detecting Communities in Networks (Physical Review E 2011)**
   - Brian Ball, Brian Karrer, M. E. J. Newman
   - [[Paper]](https://arxiv.org/pdf/1104.3590.pdf)
   - [[C++ Reference]](http://www.personal.umich.edu/~mejn/OverlappingLinkCommunities.zip)
