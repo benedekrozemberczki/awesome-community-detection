@@ -114,6 +114,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Python Reference]](https://github.com/benedekrozemberczki/M-NMF)
   - [[Matlab Reference]](https://github.com/AnryYang/M-NMF)
   
+- **A Non-negative Symmetric Encoder-Decoder Approach for Community Detection (CIKM 17)**
+  - Bing-Jie Sun, Huawei Shen, Jinhua Gao, Wentao Ouyang, Xueqi Cheng
+  - [[Paper]](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-sun.pdf)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub)
+  
 - **Self-weighted Multiview Clustering with Multiple Graphs (IJCAI 17)**
   - Feiping Nie, Jing Li, and Xuelong Li
   - [[Paper]](https://www.ijcai.org/proceedings/2017/0357.pdf)
