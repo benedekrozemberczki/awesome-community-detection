@@ -188,6 +188,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](http://i.stanford.edu/~crucis/pubs/paper-nmfagm.pdf)
   - [[C++ Reference]](https://github.com/snap-stanford/snap/tree/master/examples/bigclam)
   - [[Java Spark Reference]](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python Reference]](https://github.com/RobRomijnders/bigclam)
   - [[Python Reference]](https://github.com/jeremyzhangsq/map-reduce-bigclam)  
   
