@@ -46,6 +46,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Hao Wang, Yan Yang, Bing Liu
   - [[Paper]](https://www.researchgate.net/publication/331602096_GMC_Graph-based_Multi-view_Clustering)
   - [[Matlab Reference]](https://github.com/cshaowang/gmc)
+  
+- **Embedding-based Silhouette Community Detection (Arxiv 2019)**
+  - Blaž Škrlj, Jan Kralj, Nada Lavrač
+  - [[Paper]](https://arxiv.org/abs/1908.02556)
+  - [[Python Reference]](https://arxiv.org/abs/1908.02556)
 
 - **Knowledge Graph Enhanced Community Detection and Characterization (WSDM 2019)**
   - Shreyansh Bhatt, Swati Padhee, Amit Sheth, Keke Chen ,Valerie Shalin, Derek Doran, and Brandon Minnery 
