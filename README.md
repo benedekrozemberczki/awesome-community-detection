@@ -57,6 +57,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1904.11266)
   - [[Matlab Reference]](https://github.com/christinecui/DOGC)
   
+- **vGraph: A Generative Model for Joint Community Detection and Node Representation Learning (NeurIPS 2019)**
+  - Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang
+  - [[Paper]](https://arxiv.org/abs/1906.07159)
+  - [[Python Reference]](https://github.com/aniket-agarwal1999/vGraph-Pytorch)
+  
 - **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (Arxiv 2018)**
   - Seiji Maekawa, Koh Takeuch, Makoto Onizuka
   - [[Paper]](https://arxiv.org/abs/1810.00946)
