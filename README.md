@@ -686,6 +686,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Arjun Bakshi, Srinivasan Parthasarathy, and Kannan Srinivasan
   - [[Paper]](!!Missing!!)
   - [[Python Reference]](https://github.com/abaxi/bespoke-icdm18)
+  - [[Python]](https://github.com/yzhang1918/bespoke-sscd)
   
 - **Graph Sketching-based Space-efficient Data Clustering (SDM 2018)**
   - Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, Jamal Atif
