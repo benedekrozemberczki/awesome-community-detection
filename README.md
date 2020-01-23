@@ -409,6 +409,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Python Reference]](https://github.com/sanmayaj/ChineseWhispers)
   - [[Python Alternative]](https://github.com/nlpub/chinese-whispers-python)
   
+- **Uncovering the Overlapping Community Structure of Complex Networks in Nature and Society  (Nature 2005)**
+  - Gergely Palla, Imre Derenyi, Illes Farkas, Tamas Vicsek
+  - [[Paper]](https://www.researchgate.net/publication/7797121_Uncovering_the_overlapping_community_structure_of_complex_networks_in_nature_and_society)
+  - [[Python Reference]](https://github.com/nhanwei/k_clique_percolation_spark)
+  
 - **An Efficient Algorithm for Large-scale Detection of Protein Families (Nucleic Acids Research 2002)**
   - Anton Enright, Stijn Van Dongen, and Christos Ouzounis
   - [[Paper]](https://academic.oup.com/nar/article/30/7/1575/2376029)
