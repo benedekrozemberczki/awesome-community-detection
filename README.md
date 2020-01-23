@@ -971,6 +971,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/pdf/1510.05185.pdf)
   - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
+- **BlackHole: Robust community detection inspired by graph drawing (ICDE 2016)**
+  -  Sungsu Lim, Junghoon Kim, and Jae-Gil Lee 
+  - [[Paper]](https://ieeexplore.ieee.org/document/7498226)
+  - [[C++ Reference]](https://github.com/thousfeet/Blackhole-Community-detection)
+  
 - **Defining Least Community as a Homogeneous Group in Complex Networks (Physica A 2015)**
   - Renaud Lambiotte, J-C Delvenne, and Mauricio Barahona
   - [[Paper]](https://arxiv.org/pdf/1502.00284.pdf)
