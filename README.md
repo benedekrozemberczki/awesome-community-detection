@@ -57,6 +57,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1904.11266)
   - [[Matlab Reference]](https://github.com/christinecui/DOGC)
   
+- **Total Variation Based Community Detection Using a Nonlinear Optimization Approach (Arxiv 2019)**
+  - Andrea Cristofari, Francesco Rinaldi, Francesco Tudisco
+  - [[Paper]](https://arxiv.org/abs/1907.08048)
+  - [[C++ Reference]](https://github.com/acristofari/fast-atvo)
+  
 - **vGraph: A Generative Model for Joint Community Detection and Node Representation Learning (NeurIPS 2019)**
   - Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang
   - [[Paper]](https://arxiv.org/abs/1906.07159)
