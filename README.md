@@ -848,6 +848,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Centrality and Cuts
 
+- **A Novel Graph-based Clustering Method Using Noise Cutting (Information Systems 2020)**
+  - Lin-Tao Li, Zhong-Yang Xiong, Qi-Zhu Dai, Yong-Fang Zha. Yu-Fang Zhang, Jing-Pei Dan
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306437920300156)
+  - [[Matlab Reference]](https://github.com/lintao6/CutPC)
+
 - **Hypergraph Clustering with Categorical Edge Labels (Arxiv 2019)**
   - Ilya Amburg, Nate Veldt, Austin R. Benson
   - [[Paper]](https://arxiv.org/pdf/1910.09943.pdf)
