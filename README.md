@@ -750,7 +750,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/pdf/1705.04863.pdf)
   - [[C++ Reference]](https://github.com/rtackx/ComSim)
   
- - **Discovering Community Structure in Multilayer Networks (DSAA 2017)**
+- **Discovering Community Structure in Multilayer Networks (DSAA 2017)**
   - Soumajit Pramanik, Raphael Tackx, Anchit Navelkar, Jean-Loup Guillaume, Bivas Mitra 
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8259823)
   - [[Python Reference]](https://github.com/Soumajit-Pramanik/Multilayer-Louvain)
