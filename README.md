@@ -966,7 +966,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/pdf/1806.07005.pdf)
   - [[Python Reference]](https://github.com/jipphysics/bmdl_edm)
 
-- **Fluid Communities: A Community Detection Algorithm (Complenet 2017)**
+- **Fluid Communities: A Community Detection Algorithm (CompleNet 2017)**
   - Ferran Parés, Dario Garcia-Gasulla, Armand Vilalta, Jonatan Moreno, Eduard Ayguadé, Jesús Labarta, Ulises Cortés and Toyotaro Suzumura
   - [[Paper]](https://arxiv.org/abs/1703.09307)
   - [[Python Reference]](https://github.com/HPAI-BSC/Fluid-Communities)
