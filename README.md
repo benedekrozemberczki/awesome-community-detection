@@ -761,7 +761,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[C++ Reference]](https://github.com/LijunChang/pSCAN)
   - [[Scala]](https://github.com/dawnranger/spark-pscan)
   
-- **Node-Centric Detection of OverlappingCommunities in Social Networks (IWSCN 2016)**
+- **Node-Centric Detection of Overlapping Communities in Social Networks (IWSCN 2016)**
   - Yehonatan Cohen, Danny Hendler, Amir Rubin
   - [[Paper]](https://arxiv.org/pdf/1607.01683.pdf)
   - [[Java Reference]](https://github.com/amirubin87/NECTAR)
