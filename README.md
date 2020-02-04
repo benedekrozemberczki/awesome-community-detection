@@ -492,11 +492,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1805.11048)
   - [[Matlab Reference]](https://github.com/IBM/SpectralClustering_RandomBinning)
 
-- **Community Detection and Stochastic Block Models: Recent Developments (JMLR 2018)**
-  - Emmanuel Abbe
-  - [[Paper]](https://arxiv.org/pdf/1703.10146v1.pdf)
-  - [[Python Reference]](https://github.com/yashpatel5400/anonychain)
-
 - **Understanding Regularized Spectral Clustering via Graph Conductance (NIPS 2018)**
   - Yilin Zhang and Karl Rohe
   - [[Paper]](https://arxiv.org/abs/1806.01468)
@@ -1067,6 +1062,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Nikolas Barkas, Viktor Petukhov, Daria Nikolaeva, Yaroslav Lozinsky, Samuel Demharter, Konstantin Khodosevich, Peter V. Kharchenko
   - [[Paper]](https://www.biorxiv.org/content/10.1101/460246v1)
   - [[C++]](https://github.com/hms-dbmi/conos)
+  
+- **Community Detection and Stochastic Block Models: Recent Developments (JMLR 2017)**
+  - Emmanuel Abbe
+  - [[Paper]](https://arxiv.org/pdf/1703.10146v1.pdf)
   
 - **Watset: Automatic Induction of Synsets for a Graph of Synonyms (ACL 2017)**
   - Dmitry Ustalov, Alexander Panchenko, and Chris Biemann
