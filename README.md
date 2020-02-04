@@ -971,7 +971,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/pdf/1510.05185.pdf)
   - [[Python Reference]](https://github.com/LJeub/LocalCommunities)
   
-- **BlackHole: Robust community detection inspired by graph drawing (ICDE 2016)**
+- **BlackHole: Robust Community Detection Inspired by Graph Drawing (ICDE 2016)**
   -  Sungsu Lim, Junghoon Kim, and Jae-Gil Lee 
   - [[Paper]](https://ieeexplore.ieee.org/document/7498226)
   - [[C++ Reference]](https://github.com/thousfeet/Blackhole-Community-detection)
