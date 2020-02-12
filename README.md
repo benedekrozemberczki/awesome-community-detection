@@ -830,6 +830,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[C++]](https://github.com/Sotera/spark-distributed-louvain-modularity)
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
   - [[Javascript]](https://github.com/multivacplatform/louvain)
+  - [[Javascript]](https://github.com/graphology/graphology-communities-louvain)
   - [[Java]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/JoanWu5/Louvain)
   - [[Matlab]](https://github.com/BigChopH/Louvain-clustering)
