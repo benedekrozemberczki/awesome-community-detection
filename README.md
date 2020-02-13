@@ -1168,4 +1168,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **CDLIB: a python library to extract, compare and evaluate communities from complex networks (Applied Network Science, 2019)**
   - Giulio Rossetti, Letizia Milli and Rémy Cazabet 
   - [[Paper]](https://link.springer.com/article/10.1007/s41109-019-0165-9)
-  - [[Python Reference]] (https://github.com/GiulioRossetti/cdlib/tree/master/cdlib)
+  - [[Python Reference]](https://github.com/GiulioRossetti/cdlib/tree/master/cdlib)
