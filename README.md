@@ -609,6 +609,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Temporal Methods
 
+- **Detecting Stable Communities in Link Streams at Multiple Temporal Scales (ECML-PKDD 2019)**
+  - Souaad Boudebza, Remy Cazabet, Omar Nouali, and Faical Azouaou
+  - [[Paper]](https://arxiv.org/pdf/1907.10453.pdf)
+  - [[Python Reference]](https://github.com/Yquetzal/ECML_PKDD_2019)
+  
 - **DynComm R Package - Dynamic Community Detection for Evolving Networks (Arxiv 2019)**
   - Rui Portocarrero Sarmento, Luís Lemos, Mário Cordeiro, Giulio Rossetti, and Douglas Cardoso
   - [[Paper]](https://arxiv.org/abs/1905.01498)
@@ -623,6 +628,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Prerna Agarwal, Richa Verma, Ayush Agarwal, Tanmoy Chakraborty
   - [[Paper]](https://arxiv.org/abs/1802.04593)
   - [[Python Reference]](https://github.com/ayush14029/Dyperm-Code)
+  
+-**OLCPM: An Online Framework for Detecting Overlapping Communities in Dynamic Social Networks (Computer Communciations, 2018)**
+  - Souaad Boudebzaa, Remy Cazabet, Faical Azouaoua, Omar Nouali
+  - [[Paper]](https://arxiv.org/pdf/1804.03842.pdf)
+  - [[Java Reference]](http://olcpm.sci-web.net)
 
 - **Temporally Evolving Community Detection and Prediction in Content-Centric Networks (ECML 2018)**
   - Ana Paula Appel, Renato L. F. Cunha, Charu C. Aggarwal, and Marcela Megumi Terakado 
@@ -658,6 +668,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Vikas Kawadia and Sameet Sreenivasan
   - [[Paper]](https://www.nature.com/articles/srep00794)
   - [[Python Reference]](https://github.com/kawadia/estrangement)
+  
+- **Detection of overlapping communities in dynamical social networks (IEEE SocialCom 2010)**
+  - Rémy Cazabet, Frédéric Amblard, Chihab Hanachi
+  - [[Paper]](http://cazabetremy.fr/Publications_files/iLCD%20SocialCom%20longVersion.pdf)
+  - [[Java Reference]](http://cazabetremy.fr/rRessources/iLCD.html)
   
 - **GraphScope: Parameter-Free Mining of Large Time-Evolving Graphs (KDD 2007)**
   - Jimeng Sun, Christos Faloutsos, Spiros Papadimitriou, and Philip S. Yu
