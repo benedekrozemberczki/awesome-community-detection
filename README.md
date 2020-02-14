@@ -73,11 +73,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1906.07159)
   - [[Python Reference]](https://github.com/aniket-agarwal1999/vGraph-Pytorch)
   
-- **Non-Linear Attributed Graph Clustering by Symmetric NMF with PU Learning (Arxiv 2018)**
-  - Seiji Maekawa, Koh Takeuch, Makoto Onizuka
-  - [[Paper]](https://arxiv.org/abs/1810.00946)
-  - [[Python Reference]](https://github.com/seijimaekawa/NAGC)
-  
 - **Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection (CIKM 2018)**
   - Fanghua Ye, Chuan Chen, and Zibin Zheng
   - [[Paper]](https://smartyfh.com/Documents/18DANMF.pdf)
