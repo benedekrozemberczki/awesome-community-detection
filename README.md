@@ -285,6 +285,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Label Propagation, Percolation and Random Walks
 
+- **Nonlinear Diffusion for Community Detection and Semi-Supervised Learning (WWW 2019)**
+  - Rania Ibrahim, David F. Gleich
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3308558.3313483)
+  - [[Python Reference]](https://github.com/RaniaSalama/Nonlinear_Diffusion)
+
 - **Community Detection in Bipartite Networks by Multi Label Propagation Algorithm (JSAI 2019)**
   - Hibiki Taguchi, Tsuyoshi Murata
   - [[Paper]](https://confit.atlas.jp/guide/event/jsai2019/subject/4B2-J-3-02/detail)
