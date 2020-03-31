@@ -622,10 +622,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Temporal Methods
 
+- **Detecting Stable Communities in Link Streams at Multiple Temporal Scales (IEEE Big Data 2020)**
+  -  Hongchao Qin, Rong-Hua Li, Guoren Wang, Xin Huang, Ye Yuan, and Jeffrey Xu Yu 
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9001192)
+  - [[Python Reference]](https://github.com/VeryLargeGraph/TSCAN)
+
 - **Detecting Stable Communities in Link Streams at Multiple Temporal Scales (ECML-PKDD 2019)**
   - Souaad Boudebza, Remy Cazabet, Omar Nouali, and Faical Azouaou
   - [[Paper]](https://arxiv.org/pdf/1907.10453.pdf)
-  - [[Python Reference]](https://github.com/Yquetzal/ECML_PKDD_2019)
+  - [[Python Reference]](https://github.com/VeryLargeGraph/TSCAN)
   
 - **DynComm R Package - Dynamic Community Detection for Evolving Networks (Arxiv 2019)**
   - Rui Portocarrero Sarmento, Luís Lemos, Mário Cordeiro, Giulio Rossetti, and Douglas Cardoso
