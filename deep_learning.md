@@ -1,4 +1,4 @@
-## Deep learning
+## Deep Learning
 
 - **Deep Multi-Graph Clustering via Attentive Cross-Graph Association (WSDM 2020)**
   - Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu and Xiang Zhang 
