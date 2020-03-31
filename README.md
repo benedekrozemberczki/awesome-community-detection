@@ -1030,6 +1030,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## Others
 
+- **A Novel Density-based Clustering Algorithm Using Nearest Neighbor Graph (Pattern Recognition 2020)**
+  - Hao Li, Xiaojie Liu, Tao Li, and Rundong Gan
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300121?via%3Dihub)
+  - [[Python Reference]](https://github.com/tommylee3003/SDBSCAN)
+  
 - **Ensemble Clustering for Graphs: Comparisons and Applications (Applied Network Science 2019)**
   - Valérie Poulin and François Théberge
   - [[Paper]](https://arxiv.org/abs/1809.05578)
