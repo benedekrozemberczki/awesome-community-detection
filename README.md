@@ -12,7 +12,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   <img width="460" src="coms.png">
 </p>
 
-##### Table of Contents  
+## Table of Contents  
 
 1. [Matrix Factorization](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/factorization.md)  
 2. [Deep Learning](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/deep_learning.md) 
