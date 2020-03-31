@@ -414,6 +414,13 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Sune Lehmann, Martin Schwartz, and Lars Kai Hansen
   - [[Paper]](https://www.researchgate.net/publication/23230281_Biclique_communities)
   - [[R Reference]](https://github.com/hecking/bipartite_community_detection)
+  
+- **Near Linear Time Algorithm to Detect Community Structures in Large-Scale Networks (Physical Review E 2008)**
+  - Usha Nandini Raghavan, Reka Albert, Soundar Kumara
+  - [[Paper]](https://arxiv.org/abs/0709.2938)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/LabelPropagation)
+  - [[C++ Reference]](https://github.com/carlosmata/LabelPropagation)
 
 - **Chinese Whispers: an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems (HLT NAACL 2006)**
   - Chris Biemann
