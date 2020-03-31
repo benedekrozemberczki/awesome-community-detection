@@ -48,6 +48,11 @@
   - [[Paper]](https://arxiv.org/pdf/1806.01664v2.pdf)
   - [[Python Reference]](https://github.com/tbonald/paris)
   
+- **Expander Decomposition and Pruning: Faster, Stronger, and Simpler (Arxiv 2018)**
+  - Thatchaphol Saranurak, Di Wang
+  - [[Paper]](https://arxiv.org/abs/1812.08958)
+  - [[C++ Reference]](https://github.com/Skantz/expander-decomposition)
+  
 - **Priority Based Clustering in Weighted Graph Streams (JISE 2018)**
   - Mohsen Saadatpour, Sayyed Kamyar Izadi, Mohammad Nasirifar, and Hamed Kavoosi
   - [[Paper]](https://www.researchgate.net/publication/326622737_Priority-based_clustering_in_weighted_graph_streams)
