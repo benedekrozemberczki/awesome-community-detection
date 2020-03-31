@@ -856,6 +856,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Python]](https://github.com/tsakim/Shuffled_Louvain)
   - [[C++ Parallel]](https://github.com/Exa-Graph/vite)
   - [[C++]](https://github.com/Sotera/spark-distributed-louvain-modularity)
+  - [[C++ GPU]](https://github.com/bobbys-dev/gpu-louvain)
   - [[Javascript]](https://github.com/upphiminn/jLouvain)
   - [[Javascript]](https://github.com/multivacplatform/louvain)
   - [[Javascript]](https://github.com/graphology/graphology-communities-louvain)
