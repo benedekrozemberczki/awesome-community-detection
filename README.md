@@ -388,6 +388,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
   - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
   
+- **Mapping Change in Large Networks (Plos One 2010)**
+  - Rosvall M, Bergstrom 
+  - [[Paper]](https://github.com/mapequation/significance-clustering)
+  - [[C++ Reference]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008694)
+  
 - **Graph Clustering Based on Structural/Attribute Similarities (WSDM 2009)**
   - Yang Zhou, Hong Cheng, Jeffrey Xu Yu
   - [[Paper]](http://www.vldb.org/pvldb/2/vldb09-175.pdf)
