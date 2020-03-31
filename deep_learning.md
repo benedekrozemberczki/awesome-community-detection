@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **One2Multi Graph Autoencoder for Multi-view Graph Clustering (WWW 2020)**
+  - Shaohua Fan, Xiao Wang, Chuan Shi, Emiao Lu, Ken Lin, Bai Wang
+  - [[Paper]](http://www.shichuan.org/doc/83.pdf)
+  - [[Python Reference]](https://github.com/googlebaba/WWW2020-O2MAC)
+
 - **Structural Deep Clustering Network (WWW 2020)**
   - Deyu Bo, Xiao Wang, Chuan Shi, Meiqi Zhu, Emiao Lu, Peng Cui
   - [[Paper]](https://arxiv.org/abs/2002.01633)
