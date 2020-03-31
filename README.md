@@ -246,6 +246,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1705.08415)
   - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
   - [[Python Reference]](https://github.com/afansi/multiscalegnn)
+  - [[Python]](https://github.com/zhengdao-chen/GNN4CD)
   
 - **CommunityGAN: Community Detection with Generative Adversarial Nets (ArXiv 2019)**
   - Yuting Jia, Qinqin Zhang, Weinan Zhang, Xinbing Wang
