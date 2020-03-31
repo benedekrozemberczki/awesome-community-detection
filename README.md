@@ -859,7 +859,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Rust]](https://github.com/graphext/louvain-rs)
   
 - **Modularity and Community Detection in Bipartite Networks (Phys. Rev. E 2007)**
-  - Michael J. Barber
+  - Michael J. Barberl
   - [[Paper]](https://arxiv.org/abs/0707.1616)
   - [[Python Reference]](https://github.com/genisott/pycondor)
   
