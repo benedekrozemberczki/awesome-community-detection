@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **Structural Deep Clustering Network (WWW 2020)**
+  - Deyu Bo, Xiao Wang, Chuan Shi, Meiqi Zhu, Emiao Lu, Peng Cui
+  - [[Paper]](https://arxiv.org/abs/2002.01633)
+  - [[Python Reference]](https://github.com/bdy9527/SDCN)
+
 - **Deep Multi-Graph Clustering via Attentive Cross-Graph Association (WSDM 2020)**
   - Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu and Xiang Zhang 
   - [[Paper]](http://personal.psu.edu/dul262/dmgc.pdf)
