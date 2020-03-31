@@ -16,15 +16,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 1. [Matrix Factorization](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/factorization.md)  
 2. [Deep Learning](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/deep_learning.md) 
-3. [Label Propagation, Percolation and Random Walks](#label-propagation-percolation-and-random-walks) 
-4. [Tensor Decomposition](#tensor-decomposition)
-5. [Spectral Methods](#spectral-methods) 
-6. [Temporal Methods](#temporal-methods) 
-7. [Cyclic Patterns](#cyclic-patterns)
-8. [Centrality and Cuts](#centrality-and-cuts) 
-9. [Physics Inspired](#physics-inspired) 
-10. [Others](#others) 
-11. [Libraries](#Libraries)
+3. [Label Propagation, Percolation and Random Walks](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/label_propagation.md) 
+4. [Tensor Decomposition](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/tensor_decomposition.md)
+5. [Spectral Methods](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/spectral.md) 
+6. [Temporal Methods](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/temporal.md) 
+7. [Cyclic Patterns](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/cyclic.md)
+8. [Centrality and Cuts](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/centrality.md) 
+9. [Physics Inspired](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/physics.md) 
+10. [Others](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/others.md) 
+11. [Libraries](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/libraries.md)
   
 ## Tensor Decomposition
 
