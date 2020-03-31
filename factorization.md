@@ -1,4 +1,4 @@
-## Matrix factorization
+## Matrix Factorization
 
 - **Gromov-Wasserstein Factorization Models for Graph Clustering (AAAI 2020)**
   - Hongteng Xu
