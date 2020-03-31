@@ -14,7 +14,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ##### Table of Contents  
 
-1. [Factorization](#factorization)  
+1. [Matrix Factorization](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/factorization.md)  
 2. [Deep Learning](#deep-learning) 
 3. [Label Propagation, Percolation and Random Walks](#label-propagation-percolation-and-random-walks) 
 4. [Tensor Decomposition](#tensor-decomposition)
