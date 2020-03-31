@@ -1,211 +1,135 @@
-## Deep learning
+  
+## Others
 
-- **Deep Multi-Graph Clustering via Attentive Cross-Graph Association (WSDM 2020)**
-  - Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu and Xiang Zhang 
-  - [[Paper]](http://personal.psu.edu/dul262/dmgc.pdf)
-  - [[Python Reference]](https://github.com/flyingdoog/DMGC)
+- **A Novel Density-based Clustering Algorithm Using Nearest Neighbor Graph (Pattern Recognition 2020)**
+  - Hao Li, Xiaojie Liu, Tao Li, and Rundong Gan
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300121?via%3Dihub)
+  - [[Python Reference]](https://github.com/tommylee3003/SDBSCAN)
   
-- **Overlapping Community Detection with Graph Neural Networks (MLGWorkShop 2019)**
-  - Oleksandr Shchur and Stephan Gunnemann
-  - [[Paper]](http://www.kdd.in.tum.de/research/nocd/)
-  - [[Python Reference]](https://github.com/shchur/overlapping-community-detection)
-  - [[Python]](https://github.com/EthanNing/Exp-GAE-model)
+- **Ensemble Clustering for Graphs: Comparisons and Applications (Applied Network Science 2019)**
+  - Valérie Poulin and François Théberge
+  - [[Paper]](https://arxiv.org/abs/1809.05578)
+  - [[Python Reference]](https://github.com/ftheberge/Ensemble-Clustering-for-Graphs)
 
-- **Supervised Community Detection with Line Graph Neural Networks (ICLR 2019)**
-  - Zhengdao Chen, Xiang Li, and Joan Bruna
-  - [[Paper]](https://arxiv.org/abs/1705.08415)
-  - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
-  - [[Python Reference]](https://github.com/afansi/multiscalegnn)
-  - [[Python]](https://github.com/zhengdao-chen/GNN4CD)
-  
-- **CommunityGAN: Community Detection with Generative Adversarial Nets (ArXiv 2019)**
-  - Yuting Jia, Qinqin Zhang, Weinan Zhang, Xinbing Wang
-  - [[Paper]](https://arxiv.org/abs/1901.06631)
-  - [[Python Reference]](https://github.com/SamJia/CommunityGAN)
-  
-- **An Adaptive Graph Learning Method Based on Dual Data Representations for Clustering (Pattern Recognition 2018)**
-  - Tianchi Liu, Chamara Kasun, Liyanaarachchi Lekamalage Guang-Bin Huang, and Zhiping Lin
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320317304880)
-  - [[Matlab Reference]](https://github.com/liut0012/ELM-CLR)
+- **CutESC: Cutting Edge Spatial Clustering Technique based on Proximity Graphs (Knowledge-Based Systems 2019)**
+  - Alper Aksac, Tansel Özyer, Reda Alhajja
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319302468)
+  - [[Python Reference]](https://github.com/alperaksac/cutESC)
 
-- **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
-  - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao, and Francoise Fogelman-Soulie
-  - [[Paper]](http://yangliang.github.io/pdf/sr17.pdf)
-  - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
-  
-- **MGAE: Marginalized Graph Autoencoder for Graph Clustering (CIKM 2017)**
-  - Chun Wang, Shirui Pan, Guodong Long, Xingquabn Zhu, and Jing Jiang
-  - [[Paper]](https://dl.acm.org/citation.cfm?id=3132967)
-  - [[Matlab Reference]](https://github.com/FakeTibbers/MGAE)
-  
-- **Graph Clustering with Dynamic Embedding (Arxiv 2017)**
-  - Carl Yang, Mengxiong Liu, Zongyi Wang, Liyuan Liu, Jiawei Han
-  - [[Paper]](https://arxiv.org/abs/1712.08249)
-  - [[Python Reference]](https://github.com/yangji9181/GRACE)
-  
-- **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
-  - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang, and Weixiong Zhan
-  - [[Paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
-  - [[Python Reference]](http://yangliang.github.io/code/DC.zip)
-  
-- **Learning Deep Representations for Graph Clustering (AAAI 2014)**
-  - Fei Tian, Bin Gao, Qing Cui, Enhong Chen, and Tie-Yan Liu
-  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527)
-  - [[Python Reference]](https://github.com/quinngroup/deep-representations-clustering)
-  - [[Python Alternative]](https://github.com/zepx/graphencoder)
-  
-## Label Propagation, Percolation and Random Walks
+- **A Study of Graph-based System for Multi-view Clustering (Knowledge-Based Systems 2019)**
+  - Hao Wang, Yan Yang, BingLiu, Hamido Fujita
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705118305082)
+  - [[Python Reference]](https://github.com/cswanghao/gbs)
 
-- **Nonlinear Diffusion for Community Detection and Semi-Supervised Learning (WWW 2019)**
-  - Rania Ibrahim, David F. Gleich
-  - [[Paper]](https://dl.acm.org/doi/10.1145/3308558.3313483)
-  - [[Python Reference]](https://github.com/RaniaSalama/Nonlinear_Diffusion)
+- **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
+  - Nate Veldt, David Gleich, Anthony Wirth
+  - [[Paper]](https://arxiv.org/abs/1903.05246)
+  - [[Julia Reference]](https://github.com/nveldt/LearnResParams)
 
-- **Community Detection in Bipartite Networks by Multi Label Propagation Algorithm (JSAI 2019)**
-  - Hibiki Taguchi, Tsuyoshi Murata
-  - [[Paper]](https://confit.atlas.jp/guide/event/jsai2019/subject/4B2-J-3-02/detail)
-  - [[Python Reference]](https://github.com/hbkt/BiMLPA)
+- **Multiview Consensus Graph Clustering (IEEE TIP 2019)**
+  - Kun Zhan and Feiping Nie and Jing Wang and Yi Yang
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/30346283)
+  - [[Matlab Reference]](https://github.com/kunzhan/MCGC)
   
-- **Constrained Local Graph Clustering by Colored Random Walk (WWW 2019)**
-  - Yaowei Yan, Yuchen Bian, Dongsheng Luo, Dongwon Lee and Xiang Zhang
-  - [[Paper]](http://pike.psu.edu/publications/www19.pdf)
-  - [[Matlab Reference]](https://github.com/yanyaw/colored-random-walk)
+- **CutESC: Cutting Edge Spatial Clustering Technique based on Proximity Graphs (Knowledge-Based Systems 2019)**
+  - Alper Aksac, Tansel Özyer, Reda Alhajja
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319302468)
+  - [[Python Reference]](https://github.com/alperaksac/cutESC)
+  
+- **Clubmark - Bench bencmarking Framework for the Clustering Algorithms Evaluation (ICDM 2018)**
+  - Artem Lutov, Mourad Khayati, Philippe Cudre-Mauroux
+  - [[Paper]](https://github.com/eXascaleInfolab/clubmark/blob/master/docs/clubmark.pdf)
+  - [[Python Reference]](https://github.com/eXascaleInfolab/clubmark/tree/master/algorithms)
+  
+- **The Difference Between Optimal and Germane Communities (Social Network Analysis and Mining 2018)**
+  - Jerry Scripps, Christian TrefftzZachary Kurmas
+  - [[Paper]](https://link.springer.com/article/10.1007/s13278-018-0522-1)
+  - [[Java Reference]](https://cis.gvsu.edu/~scrippsj/pubs/software.htm)
 
-- **Dynamic Graph-Based Label Propagation for Density Peaks Clustering (Expert Systems 2019)**
-  - Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi and Nooruldeen Nasih Qader
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417418304998?via%3Dihub)
-  - [[Matlab Reference]](https://github.com/amjadseyedi/DPC-DLP)
+- **Discovering Fuzzy Structural Patterns for Graph Analytics (IEEE TFS 2018)**
+  - Tiantian He  and Keith C. C. Chan 
+  - [[Paper]](https://ieeexplore.ieee.org/document/8253904)
+  - [[Executable Reference]](https://github.com/he-tiantian/FSPGA)
+  
+- **Wiring Together Large Single-Cell RNA-Seq Sample Collections (biorxiv 2018)**
+  - Nikolas Barkas, Viktor Petukhov, Daria Nikolaeva, Yaroslav Lozinsky, Samuel Demharter, Konstantin Khodosevich, Peter V. Kharchenko
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/460246v1)
+  - [[C++]](https://github.com/hms-dbmi/conos)
+  
+- **Community Detection and Stochastic Block Models: Recent Developments (JMLR 2017)**
+  - Emmanuel Abbe
+  - [[Paper]](https://arxiv.org/pdf/1703.10146v1.pdf)
+  
+- **Watset: Automatic Induction of Synsets for a Graph of Synonyms (ACL 2017)**
+  - Dmitry Ustalov, Alexander Panchenko, and Chris Biemann
+  - [[Paper]](https://doi.org/10.18653/v1/P17-1145)
+  - [[Python Reference]](https://github.com/dustalov/watset)
+  - [[Java Reference]](https://github.com/nlpub/watset-java)
+  
+- **An Overlapping Community Detection Algorithm Based on Density Peaks (NeuroComputing 2017)**
+  - Xueying Bai, Peilin Yang, and Xiaohu Shi
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S092523121631400X)
+  - [[Matlab Reference]](https://github.com/XueyingBai/An-overlapping-community-detection-algorithm-based-on-density-peaks)
+  
+- **Fast Heuristic Algorithm for Multi-scale Hierarchical Community Detection (ASONAM 2017)**
+  - Eduar Castrillo, Elizabeth León, and Jonatan Gómez
+  - [[Paper]](https://arxiv.org/abs/1707.02362)
+  - [[C++ Reference]](https://github.com/eduarc/HAMUHI)
+  
+- **Time Series Clustering via Community Detection in Networks (Information Sciences 2016)**
+  - Leonardo N. Ferreira and Liang Zhao
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S002002551500554X)
+  - [[R Reference]](https://github.com/lnferreira/time_series_clustering_via_community_detection)
 
-- **Community Detection by Information Flow Simulation (ArXiv 2018)**
-  - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
-  - [[Paper]](https://arxiv.org/abs/1805.04920)
-  - [[Python Reference]](https://github.com/rajagopalvenkat/Community_Detection-Flow_Simulation)
+- **Community Detection in Multi-Partite Multi-Relational Networks Based on Information Compression (New Generation Computing 2016)**
+  - Xin Liu, Weichu Liu, Tsuyoshi Murata, and Ken Wakita
+  - [[Paper]](https://link.springer.com/article/10.1007/s00354-016-0206-1)
+  - [[Scala Reference]](https://github.com/weichuliu/hetero_scala)
+  
+- **Integration of Graph Clustering with Ant Colony Optimization for Feature Selection (Knowledge-Based Systems 2015)**
+  - Parham Moradi, Mehrdad Rostami
+  - [[Paper]](http://www.sciencedirect.com/science/article/pii/S0950705115001458)
+  - [[Matlab Reference]](https://github.com/XuesenYang/Graph-clustering-with-ant-colony-optimization-for-feature-selection)  
 
-- **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
-  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
-  - [[Paper]](https://hal.archives-ouvertes.fr/hal-01625444)
-  - [[Python Reference]](https://github.com/ahollocou/multicom)
-  
-- **Krylov Subspace Approximation for Local Community Detection in Large Networks (ArXiv 2017)**
-  - Kun He, Pan Shi, David Bindel, and John E. Hopcroft
-  - [[Paper]](https://arxiv.org/pdf/1712.04823.pdf)
-  - [[Matlab Reference]](https://github.com/PanShi2016/LOSP_Plus)
-  
-- **Many Heads are Better than One: Local Community Detection by the Multi-Walker Chain (ICDM 2017)**
-  - Yuchen Bian, Jingchao Ni, Wei Cheng, and Zhang Xiang
-  - [[Paper]](https://ieeexplore.ieee.org/document/8215474)
-  - [[C++ Reference]](https://github.com/flyingdoog/MWC)
+- **Greedy Discrete Particle Swarm Optimization for Large-Scale Social Network Clustering (Information Sciences 2015)**
+  - Qing Cai, Maoguo Gong, Lijia Ma, Shasha Ruan, Fuyan Yuan, Licheng Jiao
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025514009530)
+  - [[C++ Reference]](https://github.com/doctor-cai/GDPSO)
 
-- **Improving PageRank for Local Community Detection (ArXiv 2016)**
-  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
-  - [[Paper]](https://arxiv.org/abs/1610.08722)
-  - [[C Reference]](https://github.com/ahollocou/walkscan)
-  - [[Python Reference]](https://github.com/ahollocou/walkscan)
-  
-- **Limited Random Walk Algorithm for Big Graph Data Clustering (Journal of Big Data 2016)**
-  - Honglei Zhang, Jenni Raitoharju, Serkan Kiranyaz, and Moncef Gabbouj
-  - [[Paper]](https://arxiv.org/abs/1606.06450)
-  - [[C++ Reference]](https://github.com/harleyzhang/LRW)
-  
-- **Community Detection Based on Structure and Content: A Content Propagation Perspective (ICDM 2015)**
-  - Liyuan Liu, Linli Xu, Zhen Wang, and Enhong Chen 
-  - [[Paper]](https://liyuanlucasliu.github.io/pdf/Liyuan-Liu-ICDM.pdf)
-  - [[Matlab Reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
-  
-- **Modeling Community Detection Using Slow Mixing Random Walks (IEEE Big Data 2015)**
-  - Ramezan Paravi, Torghabeh Narayana, and Prasad Santhanam
-  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
-  - [[Python Reference]](https://github.com/paravi/MarovCommunity)
-  
-- **GossipMap: A Distributed Community Detection Algorithm for Billion-Edge Directed Graphs (SC 2015)**
-  - Seung-Hee Bae and Bill Howe
-  - [[Paper]](https://dl.acm.org/citation.cfm?id=2807668)
-  - [[C++ Reference]](https://github.com/uwescience/GossipMap)
-  
-- **Scalable Detection of Statistically Significant Communities and Hierarchies, Using Message Passing for Modularity (PNAS 2014)**
-  - Pan Zhang and Cristopher Moore
-  - [[Paper]](https://www.pnas.org/content/111/51/18144)
-  - [[Python]](https://github.com/weberfm/belief_propagation_community_detection)
-  
-- **Efficient Monte Carlo and Greedy Heuristic for the Inference of Stochastic Block Models (Phys. Rev. E 2014)**
-  - Tiago P. Peixoto
-  - [[Paper]](https://arxiv.org/pdf/1310.4378)
-  - [[Python Reference]](https://github.com/graphchallenge/GraphChallenge/tree/master/StochasticBlockPartition)
+- **Community Detection via Maximization of Modularity and Its Variants (IEEE TCSS 2014)**
+  - Mingming Chen, Konstantin Kuzmin, and Boleslaw K. Szymanski 
+  - [[Paper]](https://www.cs.rpi.edu/~szymansk/papers/TCSS-14.pdf)
+  - [[Python Reference]](https://github.com/itaneja2/community-detection)
 
-- **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
-  - Joyce Jiyoung Whang, David F. Gleich, and Inderjit S. Dhillon
-  - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
-  - [[Python Reference]](https://github.com/pratham16/community-detection-by-seed-expansion)
+- **A Smart Local Moving Algorithm for Large-Scale Modularity-Based Community Detection (The European Physical Journal B 2013)**
+  - Ludo Waltman and Nees Jan Van Eck
+  - [[Paper]](https://link.springer.com/content/pdf/10.1140/epjb/e2013-40829-0.pdf)
+  - [[R Reference]](https://github.com/chen198328/slm)
+  - [[Python Reference]](https://github.com/iosonofabio/slmpy)
   
-- **Influence-Based Network-Oblivious Community Detection (ICDM 2013)**
-  - Nicola Barbieri, Francesco Bonchi, and Giuseppe Manco 
-  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6729581)
-  - [[Java  Reference]](https://github.com/gmanco/cwn)
- 
-- **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
-  - Jierui Xie, Boleslaw K Szymanski, and Xiaoming Liu
-  - [[Paper]](https://arxiv.org/pdf/1109.5720.pdf)
-  - [[Java Reference]](https://github.com/sebastianliu/SLPA-community-detection)
-  - [[Python Reference]](https://github.com/kbalasu/SLPA)
-  - [[C++ Reference]](https://github.com/arminbalalaie/graphlab-slpa)
+- **Bayesian Hierarchical Community Discovery (NIPS 2013)**
+  - Charles Blundell and Yee Whye Teh
+  - [[Paper]](http://papers.nips.cc/paper/5048-bayesian-hierarchical-community-discovery.pdf)
+  - [[Python Reference]](https://github.com/krzychu/bhcd/)
+  - [[C++ Reference]](https://github.com/blundellc/bhcd/)
   
-- **On the Generation of Stable Communities of Users for Dynamic Mobile Ad Hoc Social Networks (IEEE ICOIN  2011)**
-  - Guillaume-Jean Herbiet and Pascal Bouvry
-  - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
-  - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
+- **Efficient Discovery of Overlapping Communities in Massive Networks (PNAS 2013)**
+  - Prem K. Gopalan and David M. Blei
+  - [[Paper]](https://www.pnas.org/content/110/36/14534)
+  - [[C++ Reference]](https://github.com/premgopalan/svinet)
   
-- **SHARC: Community-Based Partitioning for Mobile Ad Hoc Networks Using Neighborhood Similarity (IEEE WoWMoM 2010)**
-  - Guillaume-Jean Herbiet and Pascal Bouvry
-  - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
-  - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
+- **Complex Network Clustering by Multiobjective Discrete Particle Swarm Optimization Based on Decomposition (IEEE Trans. Evolutionary Computation 2013)**
+  - Maoguo Gong, Qing Cai, Xiaowei Chen, and Lijia Ma
+  - [[Paper]](https://ieeexplore.ieee.org/document/6510542?reason=concurrency)
+  - [[C++ Reference]](https://github.com/doctor-cai/MODPSO)
   
-- **Mapping Change in Large Networks (Plos One 2010)**
-  - Rosvall M, Bergstrom 
-  - [[Paper]](https://github.com/mapequation/significance-clustering)
-  - [[C++ Reference]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008694)
+- **An Efficient and Principled Method for Detecting Communities in Networks (Physical Review E 2011)**
+  - Brian Ball, Brian Karrer, M. E. J. Newman
+  - [[Paper]](https://arxiv.org/pdf/1104.3590.pdf)
+  - [[C++ Reference]](http://www.personal.umich.edu/~mejn/OverlappingLinkCommunities.zip)
+  - [[Python Reference]](https://github.com/Zabot/principled_clustering)
   
-- **Graph Clustering Based on Structural/Attribute Similarities (WSDM 2009)**
-  - Yang Zhou, Hong Cheng, Jeffrey Xu Yu
-  - [[Paper]](http://www.vldb.org/pvldb/2/vldb09-175.pdf)
-  - [[Python Reference]](https://github.com/zhanghuijun-hello/Graph-Clustering-Based-on-Structural-Attribute-Similarities-)
-  
-- **Bridge Bounding: A Local Approach for Efficient Community Discovery in Complex Networks (ArXiv 2009)**
-  - Symeon Papadopoulos, Andre Skusa, Athena Vakali, Yiannis Kompatsiaris, and Nadine Wagner
-  - [[Paper]](https://arxiv.org/abs/0902.0871)
-  - [[Java Reference]](https://github.com/kleinmind/bridge-bounding)
-  
-- **The Map Equation (The European Physical Journal Special Topics 2009)**
-  - Martin Rossvall, Daniel Axelsson, and Carl T Bergstrom
-  - [[Paper]](https://arxiv.org/abs/0906.1405)
-  - [[R Reference]](igraph.org/r/doc/cluster_infomap.html)
-  - [[C Reference]](http://igraph.org/c/)
-  - [[Python Reference]](https://github.com/Tavpritesh/MapEquation)
-  
-- **Biclique Communities (Physical Review E  2008)**
-  - Sune Lehmann, Martin Schwartz, and Lars Kai Hansen
-  - [[Paper]](https://www.researchgate.net/publication/23230281_Biclique_communities)
-  - [[R Reference]](https://github.com/hecking/bipartite_community_detection)
-  
-- **Near Linear Time Algorithm to Detect Community Structures in Large-Scale Networks (Physical Review E 2008)**
-  - Usha Nandini Raghavan, Reka Albert, Soundar Kumara
-  - [[Paper]](https://arxiv.org/abs/0709.2938)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/LabelPropagation)
-  - [[C++ Reference]](https://github.com/carlosmata/LabelPropagation)
-
-- **Chinese Whispers: an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems (HLT NAACL 2006)**
-  - Chris Biemann
-  - [[Paper]](http://www.aclweb.org/anthology/W06-3812)
-  - [[Python Reference]](https://github.com/sanmayaj/ChineseWhispers)
-  - [[Python Alternative]](https://github.com/nlpub/chinese-whispers-python)
-  
-- **Uncovering the Overlapping Community Structure of Complex Networks in Nature and Society  (Nature 2005)**
-  - Gergely Palla, Imre Derenyi, Illes Farkas, Tamas Vicsek
-  - [[Paper]](https://www.researchgate.net/publication/7797121_Uncovering_the_overlapping_community_structure_of_complex_networks_in_nature_and_society)
-  - [[Python Reference]](https://github.com/nhanwei/k_clique_percolation_spark)
-  
-- **An Efficient Algorithm for Large-scale Detection of Protein Families (Nucleic Acids Research 2002)**
-  - Anton Enright, Stijn Van Dongen, and Christos Ouzounis
-  - [[Paper]](https://academic.oup.com/nar/article/30/7/1575/2376029)
-  - [[Python Reference]](https://github.com/HarshHarwani/markov-clustering-for-graphs)
-  - [[Python Reference]](https://github.com/lucagiovagnoli/Markov_clustering-Graph_API)
+- **A Game-Theoretic Approach to Hypergraph Clustering (NIPS 2009)**
+  - Samuel R. Bulò and Marcello Pelillo
+  - [[Paper]](https://papers.nips.cc/paper/3714-a-game-theoretic-approach-to-hypergraph-clustering)
+  - [[Matlab Reference]](https://github.com/Schofield-Mao/Gametheory-Clustring)
