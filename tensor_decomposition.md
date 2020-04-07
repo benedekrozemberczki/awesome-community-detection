@@ -4,7 +4,7 @@
   - [[Paper]](https://arxiv.org/abs/1805.01889)
   - [[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/Tpine.zip)
   
-- **LARC: Learning activity-regularized overlapping communities across time (KDD 2018)**
+- **LARC: Learning Activity-Regularized Overlapping Communities Across Time (KDD 2018)**
   - Alexander Gorovits, Ekta Gujral, Evangelos E Papalexakis, Petko Bogdanov
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3220118)
   - [[Matlab reference]](http://www.cs.albany.edu/~petko/lab/software/LARC_CODE.zip)
