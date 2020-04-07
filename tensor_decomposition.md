@@ -9,7 +9,7 @@
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3220118)
   - [[Matlab reference]](http://www.cs.albany.edu/~petko/lab/software/LARC_CODE.zip)
   
-- **SMACD: Semi-supervised multi-aspect community detection (SDM 2018)**
+- **SMACD: Semi-Supervised Multi-Aspect Community Detection (SDM 2018)**
   - Ekta Gujral, Evangelos E Papalexakis
   - [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.79)
   - [[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SHOCD.zip)
