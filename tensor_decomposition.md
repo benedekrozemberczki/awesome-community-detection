@@ -6,8 +6,8 @@
   
 - **LARC: Learning activity-regularized overlapping communities across time (KDD 2018)**
   - Alexander Gorovits, Ekta Gujral, Evangelos E Papalexakis, Petko Bogdanov
-  -[[Paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3220118)
-  -[[Matlab reference]](http://www.cs.albany.edu/~petko/lab/software/LARC_CODE.zip)
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3220118)
+  - [[Matlab reference]](http://www.cs.albany.edu/~petko/lab/software/LARC_CODE.zip)
   
 - **SMACD: Semi-supervised multi-aspect community detection (SDM 2018)**
   - Ekta Gujral, Evangelos E Papalexakis
