@@ -1,8 +1,8 @@
 ## Tensor Decomposition
--**t-PINE: Tensor-based Predictable and Interpretable Node Embeddings (ASONAM 2018)**
+- **t-PINE: Tensor-based Predictable and Interpretable Node Embeddings (ASONAM 2018)**
   - Saba A Al-Sayouri, Ekta Gujral, Danai Koutra, Evangelos E Papalexakis, Sarah S Lam
-  -[[Paper]](https://arxiv.org/abs/1805.01889)
-  -[[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/Tpine.zip)
+  - [[Paper]](https://arxiv.org/abs/1805.01889)
+  - [[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/Tpine.zip)
   
 - **LARC: Learning activity-regularized overlapping communities across time (KDD 2018)**
   - Alexander Gorovits, Ekta Gujral, Evangelos E Papalexakis, Petko Bogdanov
