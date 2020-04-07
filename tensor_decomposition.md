@@ -11,8 +11,8 @@
   
 - **SMACD: Semi-supervised multi-aspect community detection (SDM 2018)**
   - Ekta Gujral, Evangelos E Papalexakis
-  -[[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.79)
-  -[[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SHOCD.zip)
+  - [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.79)
+  - [[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SHOCD.zip)
 
 - **Coupled Graphs and Tensor Factorization for Recommender Systems and Community Detection (TKDE 2018)**
   - Vassilis N. Ioannidis, Ahmed S. Zamzam, Georgios B. Giannakis, Nicholas D. Sidiropoulos
