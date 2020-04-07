@@ -1,4 +1,18 @@
 ## Tensor Decomposition
+-**t-PINE: Tensor-based Predictable and Interpretable Node Embeddings (ASONAM 2018)**
+  - Saba A Al-Sayouri, Ekta Gujral, Danai Koutra, Evangelos E Papalexakis, Sarah S Lam
+  -[[Paper]](https://arxiv.org/abs/1805.01889)
+  -[[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/Tpine.zip)
+  
+- **LARC: Learning activity-regularized overlapping communities across time (KDD 2018)**
+  - Alexander Gorovits, Ekta Gujral, Evangelos E Papalexakis, Petko Bogdanov
+  -[[Paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3220118)
+  -[[Matlab reference]](http://www.cs.albany.edu/~petko/lab/software/LARC_CODE.zip)
+  
+- **SMACD: Semi-supervised multi-aspect community detection (SDM 2018)**
+  - Ekta Gujral, Evangelos E Papalexakis
+  -[[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.79)
+  -[[Matlab reference]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SHOCD.zip)
 
 - **Coupled Graphs and Tensor Factorization for Recommender Systems and Community Detection (TKDE 2018)**
   - Vassilis N. Ioannidis, Ahmed S. Zamzam, Georgios B. Giannakis, Nicholas D. Sidiropoulos
