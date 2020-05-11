@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **Adversarial Attack on Community Detection by Hiding Individuals (WWW 2020)**
+  - Jia Li, Honglei Zhang, Zhichao Han, Yu Rong, Hong Cheng, Junzhou Huang
+  - [[Paper]](https://arxiv.org/abs/2001.07933)
+  - [[Code]](https://github.com/halimiqi/CD-ATTACK)
+
 - **One2Multi Graph Autoencoder for Multi-view Graph Clustering (WWW 2020)**
   - Shaohua Fan, Xiao Wang, Chuan Shi, Emiao Lu, Ken Lin, Bai Wang
   - [[Paper]](http://www.shichuan.org/doc/83.pdf)
