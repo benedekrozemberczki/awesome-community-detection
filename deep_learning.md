@@ -30,6 +30,7 @@
   - [[Paper]](http://www.kdd.in.tum.de/research/nocd/)
   - [[Python Reference]](https://github.com/shchur/overlapping-community-detection)
   - [[Python]](https://github.com/EthanNing/Exp-GAE-model)
+  - [[Python]](https://github.com/NIRVANALAN/DVGOCD-DGL)
 
 - **Supervised Community Detection with Line Graph Neural Networks (ICLR 2019)**
   - Zhengdao Chen, Xiang Li, and Joan Bruna
