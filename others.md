@@ -10,6 +10,11 @@
   -  Ye Tian, Shangshang Yang, and Xingyi Zhang 
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8855008)
   - [[Matlab Reference]](https://github.com/DevilYangS/EMOFM)
+  
+- **Parallel Conical Area Community Detection Using Evolutionary Multi-Objective Optimization (MDPI Processes 2019)**
+  - Weiqin Ying, Hassan Jalil, Bingshen Wu, Yu Wu, Zhenyu Ying, Yucheng Luo, and ZhenYu Wang 
+  - [[Paper]](https://www.mdpi.com/2227-9717/7/2/111)
+  - [[C++ Reference]](https://github.com/wu-binson/Cacd)
 
 - **Ensemble Clustering for Graphs: Comparisons and Applications (Applied Network Science 2019)**
   - Valérie Poulin and François Théberge
