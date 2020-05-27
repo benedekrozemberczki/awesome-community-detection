@@ -6,6 +6,11 @@
   - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300121?via%3Dihub)
   - [[Python Reference]](https://github.com/tommylee3003/SDBSCAN)
   
+- **An Evolutionary Multiobjective Optimization Based Fuzzy Method for Overlapping Community Detection (IEEE Transactions on Fuzzy Systems 2019)**
+  -  Ye Tian, Shangshang Yang, and Xingyi Zhang 
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8855008)
+  - [[Matlab Reference]](https://github.com/DevilYangS/EMOFM)
+
 - **Ensemble Clustering for Graphs: Comparisons and Applications (Applied Network Science 2019)**
   - Valérie Poulin and François Théberge
   - [[Paper]](https://arxiv.org/abs/1809.05578)
