@@ -1,6 +1,6 @@
 ## Deep Learning
 
-- **Community Detection Clustering via Gumbel Softmax (WWW 2020)**
+- **Community Detection Clustering via Gumbel Softmax (ArXiV 2020)**
   - Deepak Bhaskar Acharya, Huaming Zhang
   - [[Paper]](https://arxiv.org/abs/2005.02372)
   - [[Code]](https://github.com/deepakacharyab/community_detection_gumbel_softmax)
