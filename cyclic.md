@@ -14,6 +14,11 @@
   - Aditya Tandon, Aiiad Albeshri, Vijey Thayananthan, Wadee Alhalabi, Santo Fortunato
   - [[Paper]](https://arxiv.org/abs/1902.04014)
   - [[Python Reference]](https://github.com/adityat/fastconsensus)
+  
+- **A Distributed Hybrid Community Detection Methodology for Social Networks (MDPI Algorithms 2019)**
+  - Konstantinos Georgiou, Christos Makris, and Georgios Pispirigos 
+  - [[Paper]](https://www.mdpi.com/1999-4893/12/8/175)
+  - [[Python Reference]](https://github.com/drkostas/HGN)
 
 - **EdMot: An Edge Enhancement Approach for Motif-aware Community Detection (KDD 2019)**
   - Pei-Zhen Li, Ling Huang, Chang-Dong Wang, and Jian-Huang Lai 
