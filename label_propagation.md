@@ -30,6 +30,11 @@
   - [[Paper]](https://hal.archives-ouvertes.fr/hal-01625444)
   - [[Python Reference]](https://github.com/ahollocou/multicom)
   
+- **Network Community-Based Model Reduction for Vortical Flows (Physical Review E, 2018.)**
+  - Muralikrishnan Gopalakrishnan Meena, Aditya G. Nair, and Kunihiko Taira
+  - [[Paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.063103)
+  - [[Matlab Reference]](https://github.com/nairaditya/Vortical-community-detection)
+  
 - **Krylov Subspace Approximation for Local Community Detection in Large Networks (ArXiv 2017)**
   - Kun He, Pan Shi, David Bindel, and John E. Hopcroft
   - [[Paper]](https://arxiv.org/pdf/1712.04823.pdf)
