@@ -92,11 +92,16 @@
   - [[Java Reference]](https://github.com/sebastianliu/SLPA-community-detection)
   - [[Python Reference]](https://github.com/kbalasu/SLPA)
   - [[C++ Reference]](https://github.com/arminbalalaie/graphlab-slpa)
-  
-- **On the Generation of Stable Communities of Users for Dynamic Mobile Ad Hoc Social Networks (IEEE ICOIN  2011)**
+ 
+- **On the Generation of Stable Communities of Users for Dynamic Mobile Ad Hoc Social Networks (IEEE ICOIN 2011)**
   - Guillaume-Jean Herbiet and Pascal Bouvry
   - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
   - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
+  
+- **Layered Label Propagation:A Multi-Resolution Coordinate-Free Ordering for Compressing Social Networks Categories and Subject Descriptors (WWW 2011)**
+  - Paolo Boldi, Marco Rosa, Massimo Santini, and Sebastiano Vigna
+  - [[Paper]](http://ra.ethz.ch/CDstore/www2011/proceedings/p587.pdf)
+  - [[Java Reference]](https://github.com/Mohammad-Rahmdel/Layered_Label_Propagation)
   
 - **SHARC: Community-Based Partitioning for Mobile Ad Hoc Networks Using Neighborhood Similarity (IEEE WoWMoM 2010)**
   - Guillaume-Jean Herbiet and Pascal Bouvry
