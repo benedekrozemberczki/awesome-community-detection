@@ -3,7 +3,7 @@
 - **LouvainNE: Hierarchical Louvain Method for High Quality and Scalable Network Embedding (WSDM 2020)**
   - Ayan Kumar Bhowmick, Koushik  Meneni, Maximilien  Danisch, Jean Loup Guillaume, Bivas  Mitra
   - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371800)
-  - [[Python Reference]](https://github.com/maxdan94/LouvainNE)
+  - [[C Reference]](https://github.com/maxdan94/LouvainNE)
   
 - **Gromov-Wasserstein Factorization Models for Graph Clustering (AAAI 2020)**
   - Hongteng Xu
