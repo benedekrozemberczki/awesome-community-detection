@@ -25,15 +25,15 @@
   - [[Paper]](https://arxiv.org/abs/1805.04920)
   - [[Python Reference]](https://github.com/rajagopalvenkat/Community_Detection-Flow_Simulation)
 
-- **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
-  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
-  - [[Paper]](https://hal.archives-ouvertes.fr/hal-01625444)
-  - [[Python Reference]](https://github.com/ahollocou/multicom)
-  
 - **Network Community-Based Model Reduction for Vortical Flows (Physical Review E, 2018.)**
   - Muralikrishnan Gopalakrishnan Meena, Aditya G. Nair, and Kunihiko Taira
   - [[Paper]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.063103)
   - [[Matlab Reference]](https://github.com/nairaditya/Vortical-community-detection)
+
+- **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
+  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
+  - [[Paper]](https://hal.archives-ouvertes.fr/hal-01625444)
+  - [[Python Reference]](https://github.com/ahollocou/multicom)
   
 - **Krylov Subspace Approximation for Local Community Detection in Large Networks (ArXiv 2017)**
   - Kun He, Pan Shi, David Bindel, and John E. Hopcroft
