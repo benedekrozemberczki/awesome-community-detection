@@ -25,7 +25,7 @@
   - [[Paper]](https://arxiv.org/abs/1802.04593)
   - [[Python Reference]](https://github.com/ayush14029/Dyperm-Code)
   
--**OLCPM: An Online Framework for Detecting Overlapping Communities in Dynamic Social Networks (Computer Communciations, 2018)**
+- **OLCPM: An Online Framework for Detecting Overlapping Communities in Dynamic Social Networks (Computer Communciations, 2018)**
   - Souaad Boudebzaa, Remy Cazabet, Faical Azouaoua, Omar Nouali
   - [[Paper]](https://arxiv.org/pdf/1804.03842.pdf)
   - [[Java Reference]](http://olcpm.sci-web.net)
