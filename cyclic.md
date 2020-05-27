@@ -21,6 +21,11 @@
   - [[Paper]](https://arxiv.org/abs/1810.08473)
   - [[C++ Reference]](https://github.com/vtraag/leidenalg)
   - [[Julia Reference]](https://github.com/bicycle1885/Leiden.jl)
+  
+- **CC-GA: A Clustering Coefficient Based Genetic Algorithm for Detecting Communities in Social Networks (Applied Soft Computing 2018)**
+  - Anwar Said, Rabeeh Aya Abbasi, Onaiza Maqbool, Ali Daudbd, Naif Radi Aljohani
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494617306774)
+  - [[Python Reference]](https://github.com/Anwar-Said/CC-GA)
 
 - **Anti-community Detection in Complex Networks (SSDBM 2018)**
   - Sebastian Lackner, Andreas Spitz, Matthias Weidemüller and Michael Gertz
