@@ -1,5 +1,10 @@
 ## Cyclic Patterns
 
+- **Scaling Fine-grained Modularity Clustering for Massive Graphs (AAAI 2019)**
+  - Hiroaki Shiokawa, Toshiyuki Amagasa, and Hiroyuki Kitagawa
+  - [[Paper]](https://arxiv.org/abs/1909.08786)
+  - [[C++ Reference]](https://arxiv.org/abs/1905.11275)
+
 - **DAOC: Stable Clustering of Large Networks (Phys. Rev E 2019)**
   - Artem Lutov, Mourad Khayati, Philippe Cudré-Mauroux
   - [[Paper]](https://arxiv.org/abs/1909.08786)
