@@ -102,6 +102,11 @@
   - [[Paper]](https://arxiv.org/pdf/1509.08863.pdf)
   - [[Python Reference]](https://github.com/cylindricalcow/FastSpectralClustering)
 
+- **Do Logarithmic Proximity Measures Outperform Plain Ones in Graph Clustering? (ICNA 2016)**
+  - Vladimir Ivashkin and Pavel Chebotarev
+  - [[Paper]](https://arxiv.org/abs/1605.01046)
+  - [[Python Reference]](https://github.com/vlivashkin/pygkernels)
+
 - **Uncovering the Small Community Structure in Large Networks: a Local Spectral Approach (WWW 2015)**
   - Li Yixuan, He Kun, David Bindel, and John Hopcroft
   - [[Paper]](https://arxiv.org/abs/1509.07715)
