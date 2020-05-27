@@ -4,16 +4,16 @@
   - Hongteng Xu
   - [[Paper]](https://arxiv.org/abs/1911.08530)
   - [[Python Reference]](https://github.com/HongtengXu/Relational-Factorization-Model)
-  
-- **Graph Constraint-Based Robust Latent Space Low-Rank and Sparse Subspace Clustering (Neural Computing and Applications 2019)**
-  - Yunjun Xiao, Jia Wei, Jiabing Wang, Qianli Ma, Shandian Zhe, and Tolga Tasdizen 
-  - [[Paper]](https://link.springer.com/article/10.1007/s00521-019-04317-3)
-  - [[Python Reference]](https://github.com/xiaoxuegou/Graph-constraint-based-robust-latent-space-low-rank-and-sparse-subspace-clustering)
 
 - **Graph Embedding with Self-Clustering (ASONAM 2019)**
   - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
+    
+- **Graph Constraint-Based Robust Latent Space Low-Rank and Sparse Subspace Clustering (Neural Computing and Applications 2019)**
+  - Yunjun Xiao, Jia Wei, Jiabing Wang, Qianli Ma, Shandian Zhe, and Tolga Tasdizen 
+  - [[Paper]](https://link.springer.com/article/10.1007/s00521-019-04317-3)
+  - [[Python Reference]](https://github.com/xiaoxuegou/Graph-constraint-based-robust-latent-space-low-rank-and-sparse-subspace-clustering)
   
 - **Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering (ICDM 2019)**
   - Youwei Liang, Dong Huang, and Chang-Dong Wang
