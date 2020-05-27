@@ -29,6 +29,11 @@
   - [[Paper]](https://ieeexplore.ieee.org/document/8215485)
   - [[Python Reference]](https://github.com/FatemehSheikholeslami/EgoTen)
   
+- **A Tensor CP Decomposition Method for Clustering Heterogeneous Information Networks (Scientific Computing 2017)**
+  - Jibing Wu, Zhifei Wang, Yahui Wu, Lihua Liu, Su Deng, and Hongbin Huang
+  - [[Paper]](https://www.hindawi.com/journals/sp/2017/2803091/)
+  - [[Matlab Reference]](https://github.com/tianshuilideyu/CPviaSGD)
+  
 - **Fast Detection of Overlapping Communities via Online Tensor Methods on GPUs (ArXiV 2013)**
   - Furong Huang and Animashree Anandkumar
   - [[Paper]](https://www.semanticscholar.org/paper/Fast-Detection-of-Overlapping-Communities-via-on-Huang-Niranjan/356e6c7eacca6caa94a5a96f41a9c785064f5693)
