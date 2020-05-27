@@ -1,7 +1,12 @@
 ## Temporal Methods
 
+- **Co-Regularized Nonnegative Matrix Factorization for Evolving Community Detection in Dynamic Networks (Information Sciences 2020)**
+  - Xiaoke Ma, Benhui Zhang, Changzhou Ma, and Zhiyu Ma
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025520303388)
+  - [[Java Reference]](https://github.com/xkmaxidian/Cr-ENMF)
+
 - **Mining Stable Communities in Temporal Networks by Density-based Clustering (IEEE Big Data 2020)**
-  -  Hongchao Qin, Rong-Hua Li, Guoren Wang, Xin Huang, Ye Yuan, and Jeffrey Xu Yu 
+  - Hongchao Qin, Rong-Hua Li, Guoren Wang, Xin Huang, Ye Yuan, and Jeffrey Xu Yu 
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9001192)
   - [[Python Reference]](https://github.com/VeryLargeGraph/TSCAN)
 
