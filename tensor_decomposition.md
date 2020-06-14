@@ -2,7 +2,7 @@
 - **Beyond Rank-1: Discovering Rich Community Structure in Multi-Aspect Graphs (WWW 2020)**
   - Ekta Gujral, Ravdeep Pasricha, Evangelos E. Papalexakis
   - [[Paper]](https://www.cs.ucr.edu/~epapalex/papers/WWW20_RICHCOM.pdf)
-  - [[Code]]( )
+  - [[Code]](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/richcom.zip)
 
 - **t-PINE: Tensor-based Predictable and Interpretable Node Embeddings (ASONAM 2018)**
   - Saba A Al-Sayouri, Ekta Gujral, Danai Koutra, Evangelos E Papalexakis, Sarah S Lam
