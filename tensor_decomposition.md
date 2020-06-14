@@ -1,4 +1,9 @@
 ## Tensor Decomposition
+- **Beyond Rank-1: Discovering Rich Community Structure in Multi-Aspect Graphs (WWW 2020)**
+  - Ekta Gujral, Ravdeep Pasricha, Evangelos E. Papalexakis
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **t-PINE: Tensor-based Predictable and Interpretable Node Embeddings (ASONAM 2018)**
   - Saba A Al-Sayouri, Ekta Gujral, Danai Koutra, Evangelos E Papalexakis, Sarah S Lam
   - [[Paper]](https://arxiv.org/abs/1805.01889)
