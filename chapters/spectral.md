@@ -153,6 +153,11 @@
   - [[Paper]](http://www2.cs.uh.edu/~ceick/DM/P4_DM4.pdf)
   - [[Matlab Reference]](https://github.com/gnaixgnaw/CSP)
   
+- **Spectral Redemption: Clustering Sparse Networks (SDM 2013)**
+  - Florent Krzakala, Cristopher Moore, Elchanan Mossel, Joe Neeman, Allan Sly, Lenka Zdeborová, Pan Zhang
+  - [[Paper]](https://arxiv.org/abs/1306.5550v2)
+  - [[Python Reference]](https://github.com/sa7oru/Social-Event-Magnitudes)
+  
 - **Co-Clustering for Directed Graphs: the Stochastic Co-Blockmodel and Spectral Algorithm Di-Sim (ArXiv 2012)**
   - Karl Rohe, Tai Qin, and Bin Yu
   - [[Paper]](https://arxiv.org/abs/1204.2296)
