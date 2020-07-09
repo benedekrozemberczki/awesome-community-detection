@@ -1,6 +1,11 @@
 
 ## Spectral Methods
 
+- **Incorporating User's Preference into Attributed Graph Clustering (Arxiv 2020)**
+  - Wei Ye, Dominik Mautz, Christian Boehm, Ambuj Singh, Claudia Plant
+  - [[Paper]](https://arxiv.org/abs/2003.11079v1)
+  - [[Java Reference]](https://github.com/yeweiysh/LOCLU)
+
 - **Generalized Spectral Clustering via Gromov-Wasserstein Learning (Arxiv 2020)**
   - Samir Chowdhury, Tom Needham
   - [[Paper]](https://arxiv.org/abs/2006.04163)
