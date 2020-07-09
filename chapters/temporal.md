@@ -9,6 +9,11 @@
   - Hongchao Qin, Rong-Hua Li, Guoren Wang, Xin Huang, Ye Yuan, and Jeffrey Xu Yu 
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9001192)
   - [[Python Reference]](https://github.com/VeryLargeGraph/TSCAN)
+  
+- **Network Communities of Dynamical Influence (Nature Science Reports 2019)**
+  - Ruaridh Clark, Giuliano Punzo, Malcolm Macdonald 
+  - [[Paper]](https://www.nature.com/articles/s41598-019-53942-4)
+  - [[Matlab Reference]](https://github.com/RuaridhClark/comms_dynamical_influence)
 
 - **Detecting Stable Communities in Link Streams at Multiple Temporal Scales (ECML-PKDD 2019)**
   - Souaad Boudebza, Remy Cazabet, Omar Nouali, and Faical Azouaou
