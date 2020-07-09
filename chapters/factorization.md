@@ -1,5 +1,10 @@
 ## Matrix Factorization
 
+- **Local Community Detection in Multiple Networks (KDD 2020)**
+  - Yuchen Bian, Yaowei Yan, Xiao Liu, Jun Huan, Xiang Zhang 
+  - [[Paper]](http://personal.psu.edu/dul262/RWM/RWM.pdf)
+  - [[C++ Reference]](https://github.com/flyingdoog/RWM)
+
 - **LouvainNE: Hierarchical Louvain Method for High Quality and Scalable Network Embedding (WSDM 2020)**
   - Ayan Kumar Bhowmick, Koushik  Meneni, Maximilien  Danisch, Jean Loup Guillaume, Bivas  Mitra
   - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371800)
