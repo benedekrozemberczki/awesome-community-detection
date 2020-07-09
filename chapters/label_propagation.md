@@ -75,11 +75,6 @@
   - Pan Zhang and Cristopher Moore
   - [[Paper]](https://www.pnas.org/content/111/51/18144)
   - [[Python]](https://github.com/weberfm/belief_propagation_community_detection)
-  
-- **Efficient Monte Carlo and Greedy Heuristic for the Inference of Stochastic Block Models (Phys. Rev. E 2014)**
-  - Tiago P. Peixoto
-  - [[Paper]](https://arxiv.org/pdf/1310.4378)
-  - [[Python Reference]](https://github.com/graphchallenge/GraphChallenge/tree/master/StochasticBlockPartition)
 
 - **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
   - Joyce Jiyoung Whang, David F. Gleich, and Inderjit S. Dhillon
