@@ -24,6 +24,11 @@
   - Youwei Liang, Dong Huang, and Chang-Dong Wang
   - [[Paper]](https://youweiliang.github.io/files/consistent_graph_learning.pdf)
   - [[Matlab Reference]](https://github.com/youweiliang/ConsistentGraphLearning)
+  
+- **Discrete Overlapping Community Detection with Pseudo Supervision (ICDM 2019)**
+  -  Fanghua Ye, Chuan Chen, Zibin Zheng, Rong-Hua Li, Jeffrey Xu Yu 
+  - [[Paper]](https://youweiliang.github.io/files/consistent_graph_learning.pdf)
+  - [[Matlab Reference]](https://ieeexplore.ieee.org/abstract/document/8970691)
 
 - **GMC: Graph-based Multi-view Clustering (TKDE 2019)**
   - Hao Wang, Yan Yang, Bing Liu
