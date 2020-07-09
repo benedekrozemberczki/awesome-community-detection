@@ -23,6 +23,11 @@
   - Se-Young Yun, Alexandre Proutiere
   - [[Paper]](https://arxiv.org/abs/1412.7335)
   - [[R Reference]](https://github.com/Jantg/Community_Detection)
+  
+- **Efficiently Inferring Community Structure in Bipartite Networks (Arxiv 2014)**
+  - Daniel B. Larremore, Aaron Clauset, Abigail Z. Jacobs
+  - [[Paper]](https://arxiv.org/abs/1403.2933)
+  - [[Python Reference]](https://github.com/sayali-sonawane/LinkPrediction)
 
 - **Co-Clustering for Directed Graphs: the Stochastic Co-Blockmodel and Spectral Algorithm Di-Sim (ArXiv 2012)**
   - Karl Rohe, Tai Qin, and Bin Yu
