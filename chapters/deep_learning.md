@@ -49,6 +49,11 @@
   - [[Paper]](https://arxiv.org/abs/1901.06631)
   - [[Python Reference]](https://github.com/SamJia/CommunityGAN)
   
+- **Learning to Identify High Betweenness Centrality Nodes from Scratch: A Novel Graph Neural Network Approach (CIKM 2019)**
+  - Changjun Fan, Li Zeng, Yuhui Ding, Muhao Chen, Yizhou Sun, Zhong Liu
+  - [[Paper]](https://arxiv.org/abs/1905.10418v4)
+  - [[Python Reference]](https://github.com/FFrankyy/DrBC)
+  
 - **Unsupervised Community Detection with Modularity-Based Attention Model (ArXiv 2019)**
   - Ivan Lobov, Sergey Ivanov
   - [[Paper]](https://arxiv.org/abs/1905.10350v1)
