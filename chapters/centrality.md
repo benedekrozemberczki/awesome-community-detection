@@ -5,11 +5,6 @@
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306437920300156)
   - [[Matlab Reference]](https://github.com/lintao6/CutPC)
 
-- **Hypergraph Clustering with Categorical Edge Labels (Arxiv 2019)**
-  - Ilya Amburg, Nate Veldt, Austin R. Benson
-  - [[Paper]](https://arxiv.org/pdf/1910.09943.pdf)
-  - [[Julia Reference]](https://github.com/nveldt/CategoricalEdgeClustering)
-
 - **Learning Resolution Parameters for Graph Clustering (WWW 2019)**
   - Nate Veldt, David F. Gleich, Anthony Wirth
   - [[Paper]](https://arxiv.org/abs/1903.05246)
