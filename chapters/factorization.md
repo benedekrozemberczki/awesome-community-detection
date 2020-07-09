@@ -101,6 +101,11 @@
   - [[Paper]](https://arxiv.org/abs/1810.00946)
   - [[Python Reference]](https://github.com/seijimaekawa/NAGC)
   
+- **Adaptive Affinity Learning for Accurate Community Detection (ICDM 2018)**
+  - Fanghua Ye, Shenghui Li, Zhiwei Lin, Chuan Chen, Zibin Zheng 
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8594997)
+  - [[Matlab Reference]](https://github.com/smartyfh/AANMF)
+  
 - **A Nonnegative Matrix Factorization Approach for Multiple Local Community Detection (ASONAM 2018)**
   - Dany Kamuhanda and Kun He
   - [[Paper]](https://www.researchgate.net/publication/326208243_A_Nonnegative_Matrix_Factorization_Approach_for_Multiple_Local_Community_Detection)
