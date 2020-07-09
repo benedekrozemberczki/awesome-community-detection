@@ -14,6 +14,11 @@
   - Benedek Rozemberczki, Ryan Davies, Rik Sarkar, and Charles Sutton
   - [[Paper]](https://arxiv.org/abs/1802.03997)
   - [[Python Reference]](https://github.com/benedekrozemberczki/GEMSEC)
+  
+- **Bridging the Gap between Community and Node Representations: Graph Embedding via Community Detection (IEEE Big Data 2019)**
+  - Artem Lutov, Dingqi Yang, Philippe Cudré-Mauroux
+  - [[Paper]](https://arxiv.org/abs/1912.08808v1)
+  - [[Python Reference]](https://github.com/eXascaleInfolab/GraphEmbEval)
     
 - **Graph Constraint-Based Robust Latent Space Low-Rank and Sparse Subspace Clustering (Neural Computing and Applications 2019)**
   - Yunjun Xiao, Jia Wei, Jiabing Wang, Qianli Ma, Shandian Zhe, and Tolga Tasdizen 
