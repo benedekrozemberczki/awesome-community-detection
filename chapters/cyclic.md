@@ -4,6 +4,11 @@
   - [[Paper]](https://link.springer.com/article/10.1007/s13278-020-00647-6)
   - [[Java Reference]](https://github.com/alichoumane/Core-Expansion)
 
+- **Efficient and Incremental Clustering Algorithms on Star-Schema Heterogeneous Graphs (ICDE 2019)**
+  - Lu Chen, Yunjun Gao, Yuanliang Zhang, Christian S. Jensen, Bolong Zheng 
+  - [[Paper]](https://ieeexplore.ieee.org/document/8731611/)
+  - [[C++ Reference]](https://github.com/kubertzhang/GraphClustering)
+
 - **Scaling Fine-grained Modularity Clustering for Massive Graphs (AAAI 2019)**
   - Hiroaki Shiokawa, Toshiyuki Amagasa, and Hiroyuki Kitagawa
   - [[Paper]](https://arxiv.org/abs/1909.08786)
