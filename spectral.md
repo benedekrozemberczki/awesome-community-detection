@@ -1,10 +1,16 @@
 
 ## Spectral Methods
 
+- **p-Norm Flow Diffusion for Local Graph Clustering (Arxiv 2020)**
+  - Kimon Fountoulakis, Di Wang, Shenghao Yang
+  - [[Paper]](https://arxiv.org/abs/2005.09810v2)
+  - [[Python Reference]](https://github.com/kfoynt/LocalGraphClustering)
+
 - **Spectral Clustering by Subspace Randomization and Graph Fusion for High-Dimensional Data (PAKDD 2020)**
   - Xiaosha Cai, Dong Huang, Chang-Dong Wang, Chee-Keong Kwoh
   - [[Paper]](https://www.researchgate.net/publication/338864070_Spectral_Clustering_by_Subspace_Randomization_and_Graph_Fusion_for_High-Dimensional_Data)
   - [[Matlab Reference]](https://github.com/huangdonghere/SC-SRGF)
+  
 - **Spectral Clustering in Heterogeneous Information Networks (AAAI 2019)**
   - Xiang Li, Ben Kao, Zhaochun Ren, Dawei Yin
   - [[Paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4328)
