@@ -13,6 +13,11 @@
 - **Community Detection and Stochastic Block Models: Recent Developments (JMLR 2017)**
   - Emmanuel Abbe
   - [[Paper]](https://arxiv.org/pdf/1703.10146v1.pdf)
+  
+- **Covariate Regularized Community Detection in Sparse Graphs (Arxiv 2016)**
+  - Bowei Yan, Purnamrita Sarkar
+  - [[Paper]](https://arxiv.org/abs/1607.02675v4)
+  - [[Matlab Reference]](https://github.com/boweiYan/SDP_SBM_unbalanced_size)
 
 - **Efficient Monte Carlo and Greedy Heuristic for the Inference of Stochastic Block Models (Phys. Rev. E 2014)**
   - Tiago P. Peixoto
