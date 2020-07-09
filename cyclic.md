@@ -73,6 +73,11 @@
   - [[Paper]](https://www.researchgate.net/publication/326622737_Priority-based_clustering_in_weighted_graph_streams)
   - [[Java Reference]](https://github.com/farnasirim/pri-bas-clu)
   
+- **Affinity Clustering: Hierarchical Clustering at Scale (NeurIPS 2017)**
+  - Mohammadhossein Bateni, Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Raimondas Kiveris, Silvio Lattanzi, Vahab Mirrokni
+  - [[Paper]](https://papers.nips.cc/paper/7262-affinity-clustering-hierarchical-clustering-at-scale)
+  - [[Python Reference]](https://github.com/MahsaDerakhshan/AffinityClustering)
+  
 - **Graph Learning for Multiview Clustering (IEEE Transactions on Cybernetics 2017)**
   - Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, and Jamal Atif
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_23)
