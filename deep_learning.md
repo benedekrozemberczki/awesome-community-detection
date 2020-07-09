@@ -44,6 +44,11 @@
   - [[Paper]](https://arxiv.org/abs/1901.06631)
   - [[Python Reference]](https://github.com/SamJia/CommunityGAN)
   
+- **Unsupervised Community Detection with Modularity-Based Attention Model (ArXiv 2019)**
+  - Ivan Lobov, Sergey Ivanov
+  - [[Paper]](https://arxiv.org/abs/1905.10350v1)
+  - [[Python Reference]](https://github.com/Ivanopolo/modnet)
+  
 - **An Adaptive Graph Learning Method Based on Dual Data Representations for Clustering (Pattern Recognition 2018)**
   - Tianchi Liu, Chamara Kasun, Liyanaarachchi Lekamalage Guang-Bin Huang, and Zhiping Lin
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320317304880)
