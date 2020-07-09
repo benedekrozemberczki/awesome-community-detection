@@ -25,11 +25,6 @@
   - [[Paper]](https://arxiv.org/abs/1905.01498)
   - [[R Reference]](https://github.com/softskillsgroup/DynComm-R-package)
 
-- **Block-Structure Based Time-Series Models For Graph Sequences (Arxiv 2018)**
-  - Mehrnaz Amjadi and Theja Tulabandhula
-  - [[Paper]](https://arxiv.org/pdf/1804.08796v2.pdf)
-  - [[Python Reference]](https://github.com/thejat/dynamic-network-growth-models)
-
 - **DyPerm: Maximizing Permanence for Dynamic Community Detection (PKDD 2018)**
   - Prerna Agarwal, Richa Verma, Ayush Agarwal, Tanmoy Chakraborty
   - [[Paper]](https://arxiv.org/abs/1802.04593)
