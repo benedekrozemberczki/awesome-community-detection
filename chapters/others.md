@@ -95,6 +95,11 @@
   - Leonardo N. Ferreira and Liang Zhao
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S002002551500554X)
   - [[R Reference]](https://github.com/lnferreira/time_series_clustering_via_community_detection)
+  
+- **Community-based Outlier Detection for Edge-attributed Graphs (Arxiv 2016)**
+  - Supriya Pandhre, Manish Gupta, Vineeth N Balasubramanian
+  - [[Paper]](https://arxiv.org/abs/1612.09435)
+  - [[Java Reference]](https://github.com/supriya-gdptl/HCODA)
 
 - **Community Detection in Multi-Partite Multi-Relational Networks Based on Information Compression (New Generation Computing 2016)**
   - Xin Liu, Weichu Liu, Tsuyoshi Murata, and Ken Wakita
