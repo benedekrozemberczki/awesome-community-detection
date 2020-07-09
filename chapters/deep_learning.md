@@ -39,6 +39,11 @@
   - [[Python Reference]](https://github.com/afansi/multiscalegnn)
   - [[Python]](https://github.com/zhengdao-chen/GNN4CD)
   
+- **Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning (ICCV 2019)**
+  - Jiwoong Park, Minsik Lee, Hyung Jin Chang, Kyuewang Lee, Jin Young Choi
+  - [[Paper]](https://arxiv.org/abs/1908.02441v1)
+  - [[Python Reference]](https://github.com/sseung0703/GALA_TF2.0)
+  
 - **CommunityGAN: Community Detection with Generative Adversarial Nets (ArXiv 2019)**
   - Yuting Jia, Qinqin Zhang, Weinan Zhang, Xinbing Wang
   - [[Paper]](https://arxiv.org/abs/1901.06631)
