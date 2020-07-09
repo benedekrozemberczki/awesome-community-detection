@@ -48,7 +48,7 @@
   - [[Paper]](https://arxiv.org/pdf/1904.09792.pdf)
   - [[R Reference]](https://cran.r-project.org/web/packages/spectralGraphTopology/index.html)
   
-- **An Ensemble Based on a Bi-objective Evolutionary Spectral Algorithm for Graph Clutering (ArXiv 2018)**
+- **An Ensemble Based on a Bi-objective Evolutionary Spectral Algorithm for Graph Clustering (ArXiv 2018)**
   - Camila P.S. Tautenhain, Mariá C.V. Nascimento
   - [[Paper]](https://arxiv.org/abs/1810.03652)
   - [[C++ Reference]](https://github.com/camilapsan/MOSpecG_SpecG)
@@ -138,11 +138,6 @@
   - [[Paper]](https://www.zpascal.net/cvpr2014/Zhu_Constructing_Robust_Affinity_2014_CVPR_paper.pdf)
   - [[Matlab Reference]](https://github.com/d12306/Constructing-Robust-Affinity-Graphs-for-Spectral-Clustering)
   
-- **Accurate Community Detection in the Stochastic Block Model via Spectral Algorithms (Arxiv 2014)**
-  - Se-Young Yun, Alexandre Proutiere
-  - [[Paper]](https://arxiv.org/abs/1412.7335)
-  - [[R Reference]](https://github.com/Jantg/Community_Detection)
-  
 - **Self-Taught Spectral Clustering via Constraint Augmentation (SDM 2014)**
   - Xiang Wang, Jun Wang, Buyue Qian, Fei Wang and Ian Davidson
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.48)
@@ -157,16 +152,6 @@
   - Florent Krzakala, Cristopher Moore, Elchanan Mossel, Joe Neeman, Allan Sly, Lenka Zdeborová, Pan Zhang
   - [[Paper]](https://arxiv.org/abs/1306.5550v2)
   - [[Python Reference]](https://github.com/sa7oru/Social-Event-Magnitudes)
-  
-- **Co-Clustering for Directed Graphs: the Stochastic Co-Blockmodel and Spectral Algorithm Di-Sim (ArXiv 2012)**
-  - Karl Rohe, Tai Qin, and Bin Yu
-  - [[Paper]](https://arxiv.org/abs/1204.2296)
-  - [[R Reference]](https://github.com/karlrohe/disim)
-  
-- **Asymptotic Analysis of the Stochastic Block Model for Modular Networks and its Algorithmic Applications (Physical Review 2011)**
-  - Aurelien Decelle, Florent Krzakala, Cristopher Moore, and Lenka Zdeborova
-  - [[Paper]](https://arxiv.org/abs/1109.3041)
-  - [[C++ Reference]](https://github.com/junipertcy/sbm-bp)
   
 - **Phase Transition in the Detection of Modules in Sparse Networks (Physical Review Letters 2011)**
   - Aurelien Decelle, Florent Krzakala, Cristopher Moore, and Lenka Zdeborova
