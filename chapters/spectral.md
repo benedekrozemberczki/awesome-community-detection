@@ -1,6 +1,11 @@
 
 ## Spectral Methods
 
+- **Generalized Spectral Clustering via Gromov-Wasserstein Learning (Arxiv 2020)**
+  - Samir Chowdhury, Tom Needham
+  - [[Paper]](https://arxiv.org/abs/2006.04163)
+  - [[Python Reference]](https://github.com/trneedham/Spectral-Gromov-Wasserstein)
+
 - **p-Norm Flow Diffusion for Local Graph Clustering (Arxiv 2020)**
   - Kimon Fountoulakis, Di Wang, Shenghao Yang
   - [[Paper]](https://arxiv.org/abs/2005.09810v2)
