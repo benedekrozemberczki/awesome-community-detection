@@ -1,4 +1,8 @@
 ## Cyclic Patterns
+- **Core Expansion: A New Community Detection Algorithm Based on Neighborhood Overlap (Social Network Analysis and Mining 2020)**
+  - Ali Choumane, Ali Awada, and Ali Harkous 
+  - [[Paper]](https://link.springer.com/article/10.1007/s13278-020-00647-6)
+  - [[Java Reference]](https://github.com/alichoumane/Core-Expansion)
 
 - **Scaling Fine-grained Modularity Clustering for Massive Graphs (AAAI 2019)**
   - Hiroaki Shiokawa, Toshiyuki Amagasa, and Hiroyuki Kitagawa
