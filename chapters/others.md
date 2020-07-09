@@ -11,6 +11,11 @@
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8855008)
   - [[Matlab Reference]](https://github.com/DevilYangS/EMOFM)
   
+- **Correlation Clustering with Same-Cluster Queries Bounded by Optimal Cost (European Symposium on Algorithms 2019)**
+  - Barna Saha, Sanjay Subramanian
+  - [[Paper]](https://arxiv.org/abs/1908.04976)
+  - [[Python Reference]](https://github.com/sanjayss34/corr-clust-query-esa2019)
+  
 - **Parallel Conical Area Community Detection Using Evolutionary Multi-Objective Optimization (MDPI Processes 2019)**
   - Weiqin Ying, Hassan Jalil, Bingshen Wu, Yu Wu, Zhenyu Ying, Yucheng Luo, and ZhenYu Wang 
   - [[Paper]](https://www.mdpi.com/2227-9717/7/2/111)
