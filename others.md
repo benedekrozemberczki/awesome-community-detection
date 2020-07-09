@@ -46,6 +46,11 @@
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319302468)
   - [[Python Reference]](https://github.com/alperaksac/cutESC)
   
+- **Evaluating Overfit and Underfit in Models ofNetwork Community Structure (Arxiv 2018)**
+  - Amir Ghasemian, Homa Hosseinmardi, Aaron Clauset
+  - [[Paper]](https://arxiv.org/abs/1802.10582v3)
+  - [[Python Reference]](https://github.com/AGhasemian/CommunityFitNet)
+  
 - **Clubmark - Bench bencmarking Framework for the Clustering Algorithms Evaluation (ICDM 2018)**
   - Artem Lutov, Mourad Khayati, Philippe Cudre-Mauroux
   - [[Paper]](https://github.com/eXascaleInfolab/clubmark/blob/master/docs/clubmark.pdf)
