@@ -4,6 +4,11 @@
   - Mehrnaz Amjadi and Theja Tulabandhula
   - [[Paper]](https://arxiv.org/pdf/1804.08796v2.pdf)
   - [[Python Reference]](https://github.com/thejat/dynamic-network-growth-models)
+  
+- **Community Detection in Bipartite Networks with Stochastic Blockmodels (Arxiv 2018)**
+  - Tzu-Chi Yen and Daniel B. Larremore
+  - [[Paper]](https://arxiv.org/abs/2001.11818)
+  - [[Python Reference]](https://github.com/junipertcy/bipartiteSBM)
 
 - **Community Detection and Stochastic Block Models: Recent Developments (JMLR 2017)**
   - Emmanuel Abbe
