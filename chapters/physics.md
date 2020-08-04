@@ -1,6 +1,11 @@
 
 ## Physics Inspired
 
+- **Community Detection on Networks with Ricci Flow (Nature Scientific Reports 2019)**
+  - Chien-Chun Ni, Yu-Yao Lin, Feng Luo and Jie Gao
+  - [[Paper]](https://arxiv.org/abs/1907.03993)
+  - [[Python Reference]](https://github.com/saibalmars/GraphRicciCurvature)
+
 - **Community Detection Using Preference Networks (Physica A 2018)**
   - Mursel Tasgin and Halu Bingol
   - [[Paper]](https://arxiv.org/pdf/1708.08305.pdf)
