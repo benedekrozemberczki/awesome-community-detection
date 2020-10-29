@@ -4,6 +4,11 @@
   - Deepak Bhaskar Acharya, Huaming Zhang
   - [[Paper]](https://arxiv.org/abs/2005.02372)
   - [[Code]](https://github.com/deepakacharyab/community_detection_gumbel_softmax)
+  
+- **Graph Clustering with Graph Neural Networks (Arxiv 2020)**
+  - Anton Tsitsulin, John Palowitch, Bryan Perozzi, Emmanuel Müller
+  - [[Paper]](https://arxiv.org/abs/2006.16904)
+  - [[Code]](https://github.com/google-research/google-research/tree/master/graph_embedding/dmon)
 
 - **Adversarial Attack on Community Detection by Hiding Individuals (WWW 2020)**
   - Jia Li, Honglei Zhang, Zhichao Han, Yu Rong, Hong Cheng, Junzhou Huang
