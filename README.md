@@ -28,3 +28,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 11. [Hypergraphs](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/hyper_graphs.md) 
 12. [Others](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/others.md) 
 13. [Libraries](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/libraries.md)
+
+--------------------------------------------------------------------------------
+
+**License**
+
+- [CC0 Universal](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/LICENSE)
