@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-community-detection.svg)](https://github.com/benedekrozemberczki/awesome-community-detection/archive/master.zip)
-![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-community-detection.svg?color=blue)
+![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-community-detection.svg?color=blue)⠀[![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)⠀
 
 
 A collection of community detection papers with implementations.
