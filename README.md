@@ -29,7 +29,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 12. [Others](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/others.md) 
 13. [Libraries](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/libraries.md)
 
--------------------------------------------------
+--------------------------------------
 
 **License**
 
