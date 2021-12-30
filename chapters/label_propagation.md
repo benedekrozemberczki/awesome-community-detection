@@ -142,7 +142,7 @@
   - [[Python Reference]](https://github.com/benedekrozemberczki/LabelPropagation)
   - [[C++ Reference]](https://github.com/carlosmata/LabelPropagation)
 
-- **Chinese Whispers: an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems (HLT NAACL 2006)**
+- **Chinese Whispers: an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems (HLT 2006)**
   - Chris Biemann
   - [[Paper]](http://www.aclweb.org/anthology/W06-3812)
   - [[Python Reference]](https://github.com/sanmayaj/ChineseWhispers)
