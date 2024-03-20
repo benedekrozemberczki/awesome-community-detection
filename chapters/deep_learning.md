@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **Contrastive Deep Nonnegative Matrix Factorization for Community Detection (ICASSP 2024)**
+  - Yuecheng Li, Jialong Chen, Chuan Chen, Lei Yang, Zibin Zheng 
+  - [[Paper]](https://arxiv.org/abs/2311.02357)
+  - [[Python Reference]](https://github.com/6lyc/CDNMF)
+
 - **Community Detection Clustering via Gumbel Softmax (ArXiV 2020)**
   - Deepak Bhaskar Acharya, Huaming Zhang
   - [[Paper]](https://arxiv.org/abs/2005.02372)

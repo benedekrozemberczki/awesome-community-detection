@@ -1,5 +1,10 @@
 ## Matrix Factorization
 
+- **Contrastive Deep Nonnegative Matrix Factorization for Community Detection (ICASSP 2024)**
+  - Yuecheng Li, Jialong Chen, Chuan Chen, Lei Yang, Zibin Zheng 
+  - [[Paper]](https://arxiv.org/abs/2311.02357)
+  - [[Python Reference]](https://github.com/6lyc/CDNMF)
+
 - **Local Community Detection in Multiple Networks (KDD 2020)**
   - Yuchen Bian, Yaowei Yan, Xiao Liu, Jun Huan, Xiang Zhang 
   - [[Paper]](http://personal.psu.edu/dul262/RWM/RWM.pdf)
