@@ -1,6 +1,16 @@
   
 ## Others
 
+- **An exact algorithm for semi-supervised minimum sum-of-squares clustering (Computers & Operations Research 2022)**
+  - Veronica Piccialli, Anna Russo Russo, and Antonio M. Sudoso
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822002076?via%3Dihub)
+  - [[C++ Reference]](https://github.com/antoniosudoso/pc-sos-sdp)
+
+- **SOS-SDP: An Exact Solver for Minimum Sum-of-Squares Clustering (INFORMS Journal on Computing 2022)**
+  - Veronica Piccialli, Antonio M. Sudoso, and Angelika Wiegele
+  - [[Paper]](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1166)
+  - [[C++ Reference]](https://github.com/antoniosudoso/sos-sdp)
+
 - **A Novel Density-based Clustering Algorithm Using Nearest Neighbor Graph (Pattern Recognition 2020)**
   - Hao Li, Xiaojie Liu, Tao Li, and Rundong Gan
   - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300121?via%3Dihub)
